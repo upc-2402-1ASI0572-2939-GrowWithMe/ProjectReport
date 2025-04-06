@@ -73,13 +73,53 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1 Startup Profile](#11-startup-profile)
     - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
+  - [**Misión**](#misión)
+  - [**Visión**](#visión)
     - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+      - [- Diego Jose Acuña Gomez](#--diego-jose-acuña-gomez)
+      - [- Favio Sebastián Landeo Simeón](#--favio-sebastián-landeo-simeón)
+      - [- Jean Pierre Morin Fuentes](#--jean-pierre-morin-fuentes)
+    - [- Anatoly Andrey Noriega Suschenko](#--anatoly-andrey-noriega-suschenko)
+    - [- Beth Shantal Oneglio De Paz](#--beth-shantal-oneglio-de-paz)
+    - [- Milagros Salet Tongo Alejandro](#--milagros-salet-tongo-alejandro)
   - [1.2 Solution Profile](#12-solution-profile)
     - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [Antecedentes](#antecedentes)
+    - [Problemática (5Ws y 2Hs)](#problemática-5ws-y-2hs)
+    - [What/Qué](#whatqué)
+      - [¿Cuál es el problema?](#cuál-es-el-problema)
+    - [Where / Dónde](#where--dónde)
+      - [¿Dónde está el usuario cuando usa el producto?](#dónde-está-el-usuario-cuando-usa-el-producto)
+      - [¿Dónde surge el problema?](#dónde-surge-el-problema)
+    - [Why / Por Qué](#why--por-qué)
+      - [¿Cuál es la causa del problema?](#cuál-es-la-causa-del-problema)
+    - [When / Cuándo](#when--cuándo)
+      - [¿Cuándo sucede el problema?](#cuándo-sucede-el-problema)
+    - [Who / Quién](#who--quién)
+      - [¿Quiénes están involucrados?](#quiénes-están-involucrados)
+    - [How / Cómo](#how--cómo)
+      - [¿En qué condiciones los usuarios usan nuestro producto?](#en-qué-condiciones-los-usuarios-usan-nuestro-producto)
+      - [¿Cómo nos conoceran los usuarios?](#cómo-nos-conoceran-los-usuarios)
+    - [How much / Cuánto](#how-much--cuánto)
     - [1.2.2 Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [Features](#features)
+      - [Business Outcomes](#business-outcomes)
+      - [Users](#users)
+      - [User Outcomes \& Benefits](#user-outcomes--benefits)
+      - [User assumptions](#user-assumptions)
+      - [¿Quién es el usuario?](#quién-es-el-usuario)
+      - [¿Dónde encaja nuestro producto en sus trabajos o vidas?](#dónde-encaja-nuestro-producto-en-sus-trabajos-o-vidas)
+      - [¿Qué problema resuelve nuestro producto?](#qué-problema-resuelve-nuestro-producto)
+      - [¿Cuándo y cómo es usado nuestro producto?](#cuándo-y-cómo-es-usado-nuestro-producto)
+      - [¿Qué características son importantes?](#qué-características-son-importantes)
+      - [¿Cómo debería verse y comportarse nuestro producto?](#cómo-debería-verse-y-comportarse-nuestro-producto)
+      - [Business Assumptions](#business-assumptions)
       - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [Hipótesis 1](#hipótesis-1)
+    - [Hipótesis 2](#hipótesis-2)
+    - [Hipótesis 3](#hipótesis-3)
       - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
 - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
@@ -88,62 +128,6 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
     - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
   - [2.2 Entrevistas](#22-entrevistas)
     - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2 Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3 Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3 Needfinding](#23-needfinding)
-    - [2.3.1 User Personas](#231-user-personas)
-    - [2.3.2 User Task Matrix](#232-user-task-matrix)
-    - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4 Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4 Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2 User Stories](#32-user-stories)
-  - [3.3 Impact Mapping](#33-impact-mapping)
-  - [3.4 Product Backlog](#34-product-backlog)
-- [Capítulo IV: Solution Software Design](#capítulo-iv-solution-software-design)
-  - [4.1 Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)
-    - [4.1.1 EventStorming](#411-eventstorming)
-      - [4.1.1.1 Candidate Context Discovery](#4111-candidate-context-discovery)
-      - [4.1.1.2 Domain Message Flows Modeling](#4112-domain-message-flows-modeling)
-      - [4.1.1.3 Bounded Context Canvases](#4113-bounded-context-canvases)
-    - [4.1.2 Context Mapping](#412-context-mapping)
-    - [4.1.3 Software Architecture](#413-software-architecture)
-      - [4.1.3.1 Software Architecture System Landscape Diagram](#4131-software-architecture-system-landscape-diagram)
-      - [4.1.3.2 Software Architecture Context Level Diagrams](#4132-software-architecture-context-level-diagrams)
-      - [4.1.3.3 Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
-  - [4.2 Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
-    - [4.2.1 Bounded Context: <Bounded Context Name>](#421-bounded-context-bounded-context-name)
-      - [4.2.1.1 Domain Layer](#4211-domain-layer)
-      - [4.2.1.2 Interface Layer](#4212-interface-layer)
-      - [4.2.1.3 Application Layer](#4213-application-layer)
-      - [4.2.1.4 Infrastructure Layer](#4214-infrastructure-layer)
-      - [4.2.1.5 Bounded Context Software Architecture Component Level Diagrams](#4215-bounded-context-software-architecture-component-level-diagrams)
-      - [4.2.1.6 Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams)
-      - [4.2.1.6.1 Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
-      - [4.2.1.6.2 Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram)
-    - [4.2.2 Bounded Context: <Another Bounded Context Name>](#422-bounded-context-another-bounded-context-name)
-      - [4.2.2.1 Domain Layer](#4221-domain-layer)
-      - [4.2.2.2 Interface Layer](#4222-interface-layer)
-      - [4.2.2.3 Application Layer](#4223-application-layer)
-      - [4.2.2.4 Infrastructure Layer](#4224-infrastructure-layer)
-      - [4.2.2.5 Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams)
-      - [4.2.2.6 Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams)
-      - [4.2.2.6.1 Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams)
-      - [4.2.2.6.2 Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram)
-    - [4.2.3 Bounded Context: <Third Bounded Context Name>](#423-bounded-context-third-bounded-context-name)
-      - [4.2.3.1 Domain Layer](#4231-domain-layer)
-      - [4.2.3.2 Interface Layer](#4232-interface-layer)
-      - [4.2.3.3 Application Layer](#4233-application-layer)
-      - [4.2.3.4 Infrastructure Layer](#4234-infrastructure-layer)
-      - [4.2.3.5 Bounded Context Software Architecture Component Level Diagrams](#4235-bounded-context-software-architecture-component-level-diagrams)
-      - [4.2.3.6 Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
-      - [4.2.3.6.1 Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
-      - [4.2.3.6.2 Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
-- [Conclusiones](#conclusiones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
 
 ---
 
@@ -245,6 +229,12 @@ Nuestro proyecto se centra en proporcionar una solución que optimice la gestió
 ### 1.1.1 Descripción de la Startup
 
 Nuestro proyecto agrícola surge a partir de la identificación de una necesidad no satisfecha en la gestión de productos agrícolas, ya que los productores enfrentan desafíos significativos en la supervisión y optimización de sus operaciones. La falta de herramientas precisas para el monitoreo y la toma de decisiones relacionadas con el riego, la conservación del suelo y la gestión de recursos agrícolas genera ineficiencias en sus procesos. Ante esta situación, hemos identificado una oportunidad para implementar una solución tecnológica que permita mejorar la eficiencia operativa y la calidad de los cultivos. Este software, a través del uso de dispositivos de monitoreo y análisis en tiempo real, proporcionará a los agricultores datos precisos sobre las condiciones de sus cultivos, optimizando decisiones clave y permitiendo un manejo más sostenible y rentable de sus recursos.
+## **Misión**  
+Impulsar la transformación del sector agrícola mediante soluciones tecnológicas accesibles e innovadoras que optimicen la gestión de cultivos, mejoren la toma de decisiones y promuevan una agricultura más sostenible, eficiente y rentable para los productores.
+
+## **Visión**  
+Ser la plataforma líder en innovación agrícola en Latinoamérica, reconocida por empoderar a los productores con herramientas inteligentes que revolucionan la forma en que cultivan, cuidan y gestionan sus recursos.
+
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -264,9 +254,9 @@ Nuestro proyecto agrícola surge a partir de la identificación de una necesidad
 <img src="./assets/Jean.jpg" width="300"/>
 
 ### - Anatoly Andrey Noriega Suschenko
+Mi nombre es Anatoly Andrey Noriega Suschenko y soy muy apasionado a los videojuegos y a la programación en general. Actualmente tengo 20 años y estoy cursando el séptimo ciclo de mi carrera. Tengo cierto conocimiento y habilidad con los frameworks de Angular, Flutter y Vue. Domino lenguajes como C++, Python, Java, C#, HTML, CSS, GML, Javascript, entre otros.
 
-
-<img src="./assets/Jean.jpg" width="300"/>
+<img src="./assets/Anatoly.png" width="300"/>
 
 ### - Beth Shantal Oneglio De Paz
 
