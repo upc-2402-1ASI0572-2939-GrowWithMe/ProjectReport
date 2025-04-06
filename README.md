@@ -227,6 +227,7 @@ Nuestro proyecto se centra en proporcionar una solución que optimice la gestió
 ### 1.1.1 Descripción de la Startup
 
 Nuestro proyecto agrícola surge a partir de la identificación de una necesidad no satisfecha en la gestión de productos agrícolas, ya que los productores enfrentan desafíos significativos en la supervisión y optimización de sus operaciones. La falta de herramientas precisas para el monitoreo y la toma de decisiones relacionadas con el riego, la conservación del suelo y la gestión de recursos agrícolas genera ineficiencias en sus procesos. Ante esta situación, hemos identificado una oportunidad para implementar una solución tecnológica que permita mejorar la eficiencia operativa y la calidad de los cultivos. Este software, a través del uso de dispositivos de monitoreo y análisis en tiempo real, proporcionará a los agricultores datos precisos sobre las condiciones de sus cultivos, optimizando decisiones clave y permitiendo un manejo más sostenible y rentable de sus recursos.
+
 **Misión**  
 Impulsar la transformación del sector agrícola mediante soluciones tecnológicas accesibles e innovadoras que optimicen la gestión de cultivos, mejoren la toma de decisiones y promuevan una agricultura más sostenible, eficiente y rentable para los productores.
 
