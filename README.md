@@ -73,8 +73,6 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1 Startup Profile](#11-startup-profile)
     - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
-  - [**Misión**](#misión)
-  - [**Visión**](#visión)
     - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
       - [- Diego Jose Acuña Gomez](#--diego-jose-acuña-gomez)
       - [- Favio Sebastián Landeo Simeón](#--favio-sebastián-landeo-simeón)
@@ -229,10 +227,10 @@ Nuestro proyecto se centra en proporcionar una solución que optimice la gestió
 ### 1.1.1 Descripción de la Startup
 
 Nuestro proyecto agrícola surge a partir de la identificación de una necesidad no satisfecha en la gestión de productos agrícolas, ya que los productores enfrentan desafíos significativos en la supervisión y optimización de sus operaciones. La falta de herramientas precisas para el monitoreo y la toma de decisiones relacionadas con el riego, la conservación del suelo y la gestión de recursos agrícolas genera ineficiencias en sus procesos. Ante esta situación, hemos identificado una oportunidad para implementar una solución tecnológica que permita mejorar la eficiencia operativa y la calidad de los cultivos. Este software, a través del uso de dispositivos de monitoreo y análisis en tiempo real, proporcionará a los agricultores datos precisos sobre las condiciones de sus cultivos, optimizando decisiones clave y permitiendo un manejo más sostenible y rentable de sus recursos.
-## **Misión**  
+**Misión**  
 Impulsar la transformación del sector agrícola mediante soluciones tecnológicas accesibles e innovadoras que optimicen la gestión de cultivos, mejoren la toma de decisiones y promuevan una agricultura más sostenible, eficiente y rentable para los productores.
 
-## **Visión**  
+**Visión**  
 Ser la plataforma líder en innovación agrícola en Latinoamérica, reconocida por empoderar a los productores con herramientas inteligentes que revolucionan la forma en que cultivan, cuidan y gestionan sus recursos.
 
 
@@ -503,38 +501,38 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 ## 1.3 Segmentos objetivo
 
 <TABLE BORDER>
-	<TR>
-		<TD>**Tipo de usuario**</TD>
-    <TD>**Geográfico** </TD>
-    <TD>**Psicográfico**</TD> 
-    <TD>**Demográfico**</TD>
+  <TR>
+    <TD><strong>Tipo de usuario</strong></TD>
+    <TD><strong>Geográfico</strong></TD>
+    <TD><strong>Psicográfico</strong></TD> 
+    <TD><strong>Demográfico</strong></TD>
   </TR>
-	<TR>
-		<TD> Pequeños y Grandes Agricultores </TD> 
+  <TR>
+    <TD>Pequeños y Grandes Agricultores</TD> 
     <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
     <TD>
-    - Busca mejorar la eficiencia y calidad de su producción.
-    - Creativo y curioso.
-    - Desea apoyo en su cultivo
+      - Busca mejorar la eficiencia y calidad de su producción.<br>
+      - Creativo y curioso.<br>
+      - Desea apoyo en su cultivo.
     </TD> 
     <TD>
-    - Edad: desde adultos jovenes hasta adultos mayores.
+      - Edad: desde adultos jóvenes hasta adultos mayores.
     </TD>
-	</TR>
+  </TR>
   <TR>
-		<TD> Consultores </TD> 
-    <TD> Especializados en el rubro agrícola.</TD> 
+    <TD>Consultores</TD> 
+    <TD>Especializados en el rubro agrícola.</TD> 
     <TD>
-    - Quiere ayudar a las empresas pequeñas y grandes a tener un mejor cuidado con sus plantas.
-    - Desea estar atento a las peticiones de contrato y ayuda de los clientes.
-    - Le gusta ver que sus clientes salgan satisfechos con sus consejos.
+      - Quiere ayudar a las empresas pequeñas y grandes a tener un mejor cuidado con sus plantas.<br>
+      - Desea estar atento a las peticiones de contrato y ayuda de los clientes.<br>
+      - Le gusta ver que sus clientes salgan satisfechos con sus consejos.
     </TD> 
     <TD>
       - Edad: Desde adultos jóvenes hasta adultos mayores.
     </TD>
-	</TR>
-
+  </TR>
 </TABLE>
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 
