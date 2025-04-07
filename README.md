@@ -603,3 +603,47 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 8. ¿Qué tipo de capacitación o soporte sería necesario para que los agricultores adopten nuevas soluciones tecnológicas para el riego?
 9. ¿Cómo evaluarías el impacto de una solución tecnológica en la sostenibilidad de las prácticas agrícolas?
 10. ¿Qué aspectos adicionales consideras importantes al desarrollar una solución para la gestión del riego y otros recursos agrícolas?
+
+### 2.2.2 Registro de entrevistas
+ 
+**Segmento 1: Agricultores y pymes agrícolas**
+
+| **Entrevista 1**        | **Juan Jesús Calisaya Sánchez**         | 
+|:-------------------:|:-------------------:|
+| <center>Edad</center>  | <center>21 Años</center>  |
+| <center>Distrito</center>  | <center>Lima</center>  | 
+| <center> </center>  | <center>Juan cultiva papa, choclo y hortalizas. Decide cuándo regar observando las plantas, el clima y la humedad del suelo. Los desafíos incluyen la escasez de agua y el riego desigual. Aunque usa herramientas tradicionales, está interesado en una aplicación móvil de riego si es fácil y económica. La principal barrera para adoptar nuevas tecnologías es el costo y la falta de conocimiento. Le gustaría que la solución también gestionara fertilizantes y plagas.</center>  | 
+| <center>Timing: </center>  | <center>URL: </center>  |
+| **Entrevista 2**        | ****         | 
+|:-------------------:|:-------------------:|
+| <center>Edad</center>  | <center> </center>  |
+| <center>Distrito</center>  | <center> </center>  | 
+| <center> </center>  | <center> </center>  | 
+| <center>Timing: </center>  | <center>URL: </center>  | 
+| **Entrevista 3**        | ****         | 
+|:-------------------:|:-------------------:|
+| <center>Edad</center>  | <center> </center>  |
+| <center>Distrito</center>  | <center> </center>  | 
+| <center> </center>  | <center> </center>  | 
+| <center>Timing: </center>  | <center>URL: </center>  | 
+
+**Segmento 2: Consultores agrícolas**
+
+| **Entrevista 1**        | ****         | 
+|:-------------------:|:-------------------:|
+| <center>Edad</center>  | <center> </center>  |
+| <center>Distrito</center>  | <center> </center>  | 
+| <center> </center>  | <center> </center>  | 
+| <center>Timing: </center>  | <center>URL: </center>  | 
+| **Entrevista 2**        | ****         | 
+|:-------------------:|:-------------------:|
+| <center>Edad</center>  | <center> </center>  |
+| <center>Distrito</center>  | <center> </center>  | 
+| <center> </center>  | <center> </center>  | 
+| <center>Timing: </center>  | <center>URL: </center>  | 
+| **Entrevista 3**        | ****         | 
+|:-------------------:|:-------------------:|
+| <center>Edad</center>  | <center> </center>  |
+| <center>Distrito</center>  | <center> </center>  | 
+| <center> </center>  | <center> </center>  | 
+| <center>Timing: </center>  | <center>URL: </center>  | 
