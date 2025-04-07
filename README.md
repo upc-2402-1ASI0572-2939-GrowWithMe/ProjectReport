@@ -647,3 +647,25 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 | <center>Distrito</center>  | <center> </center>  | 
 | <center> </center>  | <center> </center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+
+Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el flujo de trabajo después de la implementación de nuestra solución, GrowWithMe, para ambos segmentos objetivos. El propósito de este artefacto es comparar y abordar los aspectos negativos identificados en el As-is Scenario.
+
+**Segmento 1: Agricultores y pymes agrícolas**
+
+**Segmento 2: Consultores agrícolas**
