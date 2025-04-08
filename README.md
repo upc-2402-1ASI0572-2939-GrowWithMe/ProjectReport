@@ -722,3 +722,31 @@ Enlace del Miro: [To-Be Scenario Mapping](https://miro.com/welcomeonboard/bno3SF
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
+
+| # Orden | User Story Id | Título | Descripción | Story Points | 
+|---------|---------------|--------|-------------|--------------|
+| 1 | US01 | Crear formulario de objetivos                     | Como agricultor, quiero definir mis objetivos mediante un formulario que combine datos manuales y de sensores en tiempo real, para ajustar mis metas.  | 1 |
+| 2 | US02 | Desarrollar almacenamiento de objetivos           | Como agricultor, quiero que el sistema almacene mis objetivos integrando datos manuales y automáticos, para contar con un historial actualizado. | 1 |
+| 3 | US03 | Crear vista de consulta de objetivos              | Como agricultor, quiero una interfaz para consultar y monitorear mis objetivos basados en datos en tiempo real, para evaluar mi progreso.  | 1 |
+| 4 | US04 | Implementar seguimiento de objetivos              | Como agricultor, quiero que el sistema muestre el progreso de mis objetivos usando datos en tiempo real, para visualizar el impacto de las acciones automatizadas.  | 1 |
+| 5 | US05 | Implementar formulario de estrategia de cultivo   | Como agricultor, quiero ingresar mi estrategia de cultivo mediante un formulario que incluya recomendaciones basadas en datos, para optimizar mi plan. | 1 |
+| 6 | US06 | Almacenar estrategia de cultivo     | Como agricultor, quiero que el sistema guarde mi estrategia validándola con datos de sensores, para asegurar su pertinencia. | 1 |
+| 7 | US07 | Crear vista para consultar estrategias de cultivo | Como agricultor, quiero una interfaz para consultar mis estrategias y ver indicadores en tiempo real, para evaluar su efectividad. | 1 |
+| 8 | US08 | Seguimiento del impacto de la estrategia | Como agricultor, quiero ver el impacto de mi estrategia en la productividad, usando datos en tiempo real, para evidenciar mejoras o ajustes. | 1 |
+| 9 | US09 | Crear formulario de registro de actividades | Como agricultor, quiero registrar mis actividades diarias mediante un formulario que se complemente con datos, para obtener un panorama integral. | 1 |
+| 10 | US10 | Almacenar registro de actividades   | Como agricultor, quiero que el sistema guarde mi registro de actividades integrando datos manuales y automáticos, para facilitar análisis posteriores. | 1 |
+| 11 | US11 | Crear interfaz de consulta de actividades  | Como agricultor, quiero una interfaz para visualizar un resumen y análisis de mis actividades combinando datos manuales y de sensores, para optimizar mi planificación. | 1 |
+| 12 | US12 | Crear formulario de registro de calidad    | Como agricultor, quiero ingresar datos de calidad mediante un formulario que integre mediciones de sensores, para obtener información precisa. | 2 |
+| 13 | US13 | Almacenar datos de calidad                 | Como agricultor, quiero que el sistema almacene datos de calidad combinando información manual y automática, para disponer de un historial detallado. | 2 |
+| 14 | US14 | Crear vista para consulta de datos de calidad | Como agricultor, quiero una interfaz para visualizar datos de calidad en tiempo real, para detectar desviaciones o mejoras en la producción. | 2 |
+| 15 | US15 | Crear módulo de consulta de mejores prácticas | Como consultor, quiero que el sistema muestre mejores prácticas y recomendaciones basadas en análisis, para asesorar a los agricultores en productividad. | 4 |
+| 16 | US16 | Almacenar asesoramientos aplicados     | Como consultor, quiero que el sistema registre las prácticas aplicadas por los agricultores, correlacionándolas con datos en tiempo real, para evaluar su efectividad. | 4 |
+| 17 | US17 | Seguimiento del impacto de asesoramientos | Como consultor, quiero que el sistema evalúe el impacto de las prácticas en la calidad de los cultivos, usando análisis en tiempo real, para sugerir ajustes. | 4 |
+| 18 | US18 | Módulo de predicción de amenazas        | Como agricultor, quiero que el sistema use datos para predecir amenazas (plagas, enfermedades, clima adverso), para anticipar y mitigar riesgos. | 3 |
+| 19 | US19 | Registrar acciones preventivas del agricultor | Como agricultor, quiero que el sistema registre de forma automática las acciones preventivas que realicé en respuesta a alertas generadas por sensores, para disponer de un historial completo. | 3 |
+| 20 | US20 | Sistema de alertas climáticas           | Como agricultor, quiero que el sistema detecte condiciones climáticas adversas mediante sensores y envíe alertas automáticas, para actuar de inmediato. | 3 |
+| 21 | US21 | Alertas predictivas                     | Como consultor, quiero que el sistema genere alertas predictivas basadas en datos de calidad y salud de cultivos en tiempo real, para anticipar problemas. | 5 |
+| 22 | US22 | Automatización de riego y fertilización | Como agricultor, quiero que el sistema ajuste automáticamente el riego y fertilización según datos en tiempo real, para mantener la producción sin intervención. | 7 |
+| 23 | US23 | Ejecución de acciones correctivas       | Como agricultor, quiero que la plataforma identifique eventos críticos y ejecute acciones correctivas de forma autónoma, basándose en datos en tiempo real, para optimizar la salud de mis cultivos. | 7 |
+| 24 | US24 | Diseño informativo y atractivo          | Como visitante, quiero una landing page clara y atractiva que explique los beneficios del sistema IoT para la agricultura, con ejemplos e imágenes. | 6 |
+| 25 | US25 | Funcionalidad de botones Call-to-Action | Como visitante, quiero disponer de botones y enlaces estratégicos para acceder a más información, facilitando mi interacción con el producto. | 6 |
