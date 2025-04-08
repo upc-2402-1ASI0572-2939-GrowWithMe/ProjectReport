@@ -4,13 +4,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
 </div>
 
-### <p align="center"> Informe de Trabajo Final </p>
+### <p align="center"> Informe de TB1 </p>
 
 <br>
 <div align="center">
   <p> Carrera: Ingeniería de Software </p>
   <br>
-  <p> Ciclo: 2025-10 </p>
+  <p> Ciclo: 2025-01 </p>
   <br>
   <p> Curso: Desarrollo de soluciones IoT </p>
   <br>
@@ -27,7 +27,7 @@
   <p>  - Landeo Simeón, Favio Sebastián (u202119588) </p>
   <p>  - Morin Fuentes, Jean Pierre (u202115348) </p>
   <p>  - Noriega Suschenko, Anatoly Andrey (u202211813) </p>
-  <p>  - Oneglio De Paz, Beth Shantal (u201719449) </p>
+  <p>  - Oneglio De Paz, Beth Shantal (u202213423) </p>
   <p>  - Tongo Alejandro, Milagros Salet (u20216078)</p>
   <br>
   <p> Mes y Año: Abril del 2025 </p>
@@ -77,9 +77,9 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
       - [- Diego Jose Acuña Gomez](#--diego-jose-acuña-gomez)
       - [- Favio Sebastián Landeo Simeón](#--favio-sebastián-landeo-simeón)
       - [- Jean Pierre Morin Fuentes](#--jean-pierre-morin-fuentes)
-    - [- Anatoly Andrey Noriega Suschenko](#--anatoly-andrey-noriega-suschenko)
-    - [- Beth Shantal Oneglio De Paz](#--beth-shantal-oneglio-de-paz)
-    - [- Milagros Salet Tongo Alejandro](#--milagros-salet-tongo-alejandro)
+      - [- Anatoly Andrey Noriega Suschenko](#--anatoly-andrey-noriega-suschenko)
+      - [- Beth Shantal Oneglio De Paz](#--beth-shantal-oneglio-de-paz)
+      - [- Milagros Salet Tongo Alejandro](#--milagros-salet-tongo-alejandro)
   - [1.2 Solution Profile](#12-solution-profile)
     - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
     - [Antecedentes](#antecedentes)
@@ -164,7 +164,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             TP1 <br> ...
             <br><br>
             <strong>Oneglio De Paz, Beth Shantal</strong> <br>
-            TB1 <br> Morbi vel tortor id eros dictum venenatis id dui. Mauris quis tellus eu nunc hendrerit vehicula ac id mauris. Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.
+            TB1 <br> Colaboré activamente en equipo, asumiendo un rol de liderazgo compartido, lo que me permitió fortalecer mis habilidades blandas en organización. Gracias a ello, logramos concluir satisfactoriamente la Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br>
             TP1 <br> ...
             <br><br>
@@ -183,32 +183,32 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             <strong>Acuña Gomez, Diego Jose</strong> <br>
             TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
             <br>
-            TP1 <br> ...
+            <br> 
             <br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br>
             TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
             <br>
-            TP1 <br> ...
+            <br>
             <br><br>
             <strong>Morin Fuentes, Jean Pierre</strong> <br>
             TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
             <br>
-            TP1 <br> ...
+            <br>
             <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br>
             TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
             <br>
-            TP1 <br> ...
+            <br> 
             <br><br>
             <strong>Oneglio De Paz, Beth Shantal</strong> <br>
-            TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
+            TB1 <br> Fomenté un entorno colaborativo e inclusivo dentro del equipo, estableciendo metas claras, planificando tareas de manera estratégica y cumpliendo los objetivos propuestos. Esta experiencia fortaleció mis habilidades blandas en organización y liderazgo compartido, y permitió culminar con éxito el Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br>
-            TP1 <br> ...
+            <br>
             <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br>
             TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
             <br>
-            TP1 <br> ...
+            <br>
         </td>
         <td>
             Fusce mattis augue a nisl bibendum, quis fringilla neque scelerisque. Vivamus commodo libero eget venenatis imperdiet. Etiam imperdiet quam condimentum velit tempor porttitor. Suspendisse blandit nisl quis mauris vehicula faucibus.
@@ -239,7 +239,6 @@ Ser la plataforma líder en innovación agrícola en Latinoamérica, reconocida 
 
 #### - Diego Jose Acuña Gomez
 
-
 <img src="./assets/Diego.jpg" width="300"/>
 
 #### - Favio Sebastián Landeo Simeón
@@ -252,17 +251,19 @@ Ser la plataforma líder en innovación agrícola en Latinoamérica, reconocida 
 
 <img src="./assets/Jean.jpg" width="300"/>
 
-### - Anatoly Andrey Noriega Suschenko
+#### - Anatoly Andrey Noriega Suschenko
+
 Mi nombre es Anatoly Andrey Noriega Suschenko y soy muy apasionado a los videojuegos y a la programación en general. Actualmente tengo 20 años y estoy cursando el séptimo ciclo de mi carrera. Tengo cierto conocimiento y habilidad con los frameworks de Angular, Flutter y Vue. Domino lenguajes como C++, Python, Java, C#, HTML, CSS, GML, Javascript, entre otros.
 
 <img src="./assets/Anatoly.png" width="300"/>
 
-### - Beth Shantal Oneglio De Paz
+#### - Beth Shantal Oneglio De Paz
 
+Mi nombre es Beth Shantal Oneglio De Paz - u202213423, tengo 20 años y estudio Ingeniería de Software en la UPC. Disfruto trabajar en equipo y resolver problemas digitales. Estoy capacitada para enfrentar situaciones estresantes con responsabilidad y liderazgo. Poseo conocimientos avanzados en gestión y programación, adquiridos en ciclos anteriores. Manejo lenguajes y tecnologías como Python, C++, HTML5, CSS3, .NET, Vue.js, C#, JavaScript, PHP, MongoDB, MySQL, entre otras.
 
-<img src="./assets/Beth.png" width="300"/>
+<img src="./assets/Beth Foto.jpg" width="300"/>
 
-### - Milagros Salet Tongo Alejandro
+#### - Milagros Salet Tongo Alejandro
 
 
 <img src="./assets/Milagros.png" width="300"/>
@@ -491,7 +492,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 	<TR>
 		<TD>
       8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?
-      <p> La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.
+      <p> La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas. 
       <p> Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio
     </TD>
   </TR>
@@ -612,7 +613,7 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 |:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>21 Años</center>  |
 | <center>Distrito</center>  | <center>Lima</center>  | 
-| <center> </center>  | <center>Juan cultiva papa, choclo y hortalizas. Decide cuándo regar observando las plantas, el clima y la humedad del suelo. Los desafíos incluyen la escasez de agua y el riego desigual. Aunque usa herramientas tradicionales, está interesado en una aplicación móvil de riego si es fácil y económica. La principal barrera para adoptar nuevas tecnologías es el costo y la falta de conocimiento. Le gustaría que la solución también gestionara fertilizantes y plagas.</center>  | 
+| <center> <img src="./assets/Entrevista Juan.png" width="600"/> </center>  | <center>Juan cultiva papa, choclo y hortalizas. Decide cuándo regar observando las plantas, el clima y la humedad del suelo. Los desafíos incluyen la escasez de agua y el riego desigual. Aunque usa herramientas tradicionales, está interesado en una aplicación móvil de riego si es fácil y económica. La principal barrera para adoptar nuevas tecnologías es el costo y la falta de conocimiento. Le gustaría que la solución también gestionara fertilizantes y plagas.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  |
 | **Entrevista 2**        | ****         | 
 |:-------------------:|:-------------------:|
@@ -668,4 +669,16 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 **Segmento 1: Agricultores y pymes agrícolas**
 
+<img src="./assets/To Be Agricultores.png" width="600"/>
+
 **Segmento 2: Consultores agrícolas**
+
+<img src="./assets/To Be Consultores.png" width="600"/>
+
+Enlace del Miro: [To-Be Scenario Mapping](https://miro.com/welcomeonboard/bno3SFQ0ajhWdW9HaXpPTkxuZENJUjVFaEtMdDJ2UVBKaUZYNzhTNEx6Y3dCK2hPNThHbUVDZ3dKbS80dTBGVzkxcjh3WG1rWGZUQTh6QWl2VEhUSnpzMHQ2Zi9lU0JoMzVDdmExc0NDYXQ5VDlySlRwWXE3d3BoSmJvNnI1VElNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=96167492984)
+
+## 3.2. User Stories
+
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
