@@ -621,14 +621,12 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 | <center>Distrito</center>  | <center>Lima</center>  | 
 | <center> <img src="./assets/Entrevista Juan.png" width="600"/> </center>  | <center>Juan cultiva papa, choclo y hortalizas. Decide cuándo regar observando las plantas, el clima y la humedad del suelo. Los desafíos incluyen la escasez de agua y el riego desigual. Aunque usa herramientas tradicionales, está interesado en una aplicación móvil de riego si es fácil y económica. La principal barrera para adoptar nuevas tecnologías es el costo y la falta de conocimiento. Le gustaría que la solución también gestionara fertilizantes y plagas.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  |
-| **Entrevista 2**        | ****         | 
-|:-------------------:|:-------------------:|
+| **Entrevista 2**        | **Aaron Elias Acuña Alarcon**         | 
 | <center>Edad</center>  | <center>21 Años</center>  |
 | <center>Distrito</center>  | <center>Lima</center>  | 
 | <center> <img src="./assets/Entrevista Aaron.png" width="600"/> </center>  | <center>Aaron cultiva papa, maíz, zanahoria y lechuga. Toma decisiones de riego basándose en el clima, la humedad del suelo y el estado visual de las plantas. Entre los principales desafíos menciona el riego ineficiente y la dificultad para coordinarlo entre diferentes cultivos. Actualmente usa métodos tradicionales y aplicaciones de clima, pero no cuenta con sensores. Está interesado en una aplicación móvil sencilla que lo ayude con el riego. Le gustaría que la solución también le ayude a gestionar fertilizantes y plagas.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 3**        | ****         | 
-|:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center> </center>  |
 | <center>Distrito</center>  | <center> </center>  | 
 | <center> </center>  | <center> </center>  | 
@@ -643,13 +641,11 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 | <center> </center>  | <center> </center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 2**        | ****         | 
-|:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center> </center>  |
 | <center>Distrito</center>  | <center> </center>  | 
 | <center> </center>  | <center> </center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 3**        | ****         | 
-|:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center> </center>  |
 | <center>Distrito</center>  | <center> </center>  | 
 | <center> </center>  | <center> </center>  | 
