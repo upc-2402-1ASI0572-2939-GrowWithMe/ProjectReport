@@ -623,9 +623,9 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 | <center>Timing: </center>  | <center>URL: </center>  |
 | **Entrevista 2**        | ****         | 
 |:-------------------:|:-------------------:|
-| <center>Edad</center>  | <center> </center>  |
-| <center>Distrito</center>  | <center> </center>  | 
-| <center> </center>  | <center> </center>  | 
+| <center>Edad</center>  | <center>21 Años</center>  |
+| <center>Distrito</center>  | <center>Lima</center>  | 
+| <center> <img src="./assets/Entrevista Aaron.png" width="600"/> </center>  | <center>Aaron cultiva papa, maíz, zanahoria y lechuga. Toma decisiones de riego basándose en el clima, la humedad del suelo y el estado visual de las plantas. Entre los principales desafíos menciona el riego ineficiente y la dificultad para coordinarlo entre diferentes cultivos. Actualmente usa métodos tradicionales y aplicaciones de clima, pero no cuenta con sensores. Está interesado en una aplicación móvil sencilla que lo ayude con el riego. Le gustaría que la solución también le ayude a gestionar fertilizantes y plagas.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 3**        | ****         | 
 |:-------------------:|:-------------------:|
