@@ -634,11 +634,11 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 **Segmento 2: Consultores agrícolas**
 
-| **Entrevista 1**        | ****         | 
+| **Entrevista 1**        | **Jeyson Alejandro Rocca**         | 
 |:-------------------:|:-------------------:|
-| <center>Edad</center>  | <center> </center>  |
-| <center>Distrito</center>  | <center> </center>  | 
-| <center> </center>  | <center> </center>  | 
+| <center>Edad</center>  | <center>25 Años</center>  |
+| <center>Distrito</center>  | <center>Lima</center>  | 
+| <center> <img src="./assets/Entrevista Jeyson.png" width="600"/> </center>  | <center>Jeyson, ingeniero agrónomo, destacó que la automatización de procesos y la optimización del uso de recursos, especialmente el agua, son claves para mejorar la gestión del riego en la agricultura. Señaló que los desafíos del sector están en la eficiencia del riego y el uso adecuado de los recursos. Considera que tecnologías como sensores y aplicaciones basadas en datos del ambiente y del suelo podrían facilitar estos procesos. Sin embargo, subrayó que, aunque en Lima existe mayor acceso a estas tecnologías, en las provincias los agricultores no están tan capacitados para adoptarlas, por lo que las soluciones deben ser intuitivas y fáciles de usar para garantizar su adopción.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 2**        | ****         | 
 | <center>Edad</center>  | <center> </center>  |
