@@ -640,10 +640,10 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 | <center>Distrito</center>  | <center>Lima</center>  | 
 | <center> <img src="./assets/Entrevista Jeyson.png" width="600"/> </center>  | <center>Jeyson, ingeniero agrónomo, destacó que la automatización de procesos y la optimización del uso de recursos, especialmente el agua, son claves para mejorar la gestión del riego en la agricultura. Señaló que los desafíos del sector están en la eficiencia del riego y el uso adecuado de los recursos. Considera que tecnologías como sensores y aplicaciones basadas en datos del ambiente y del suelo podrían facilitar estos procesos. Sin embargo, subrayó que, aunque en Lima existe mayor acceso a estas tecnologías, en las provincias los agricultores no están tan capacitados para adoptarlas, por lo que las soluciones deben ser intuitivas y fáciles de usar para garantizar su adopción.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
-| **Entrevista 2**        | ****         | 
-| <center>Edad</center>  | <center> </center>  |
-| <center>Distrito</center>  | <center> </center>  | 
-| <center> </center>  | <center> </center>  | 
+| **Entrevista 2**        | **Mario Jesús Estrada Ruiz**         | 
+| <center>Edad</center>  | <center>25 Años </center>  |
+| <center>Distrito</center>  | <center>Lima </center>  | 
+| <center> <img src="./assets/Entrevista Mario.png" width="600"/> </center>  | <center>Mario Estrada trabaja como practicante en una empresa en el rubro agrícola, estudiante de la carrera de Ingeniería Ambiental. Se puede destacar que desde su experiencia las herramientas IoT ya están siendo implementadas. Además, también puntúa que los recursos se podrían manejar de manera más eficiente dentro del ámbito empresarial, él propondría incluir más tecnología en poder detectar deficiencias en el óptimo uso de los recursos como el agua, la electricidad, etc. Por último señaló que cualquier persona con capacitación podría utilizar los dispositivos IoT que se requieren para una buena gestión de los cultivos. </center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 3**        | ****         | 
 | <center>Edad</center>  | <center> </center>  |
