@@ -651,17 +651,54 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 | <center> </center>  | <center> </center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 
+## 2.3 Needfinding
+
+### 2.3.1 User Personas
+
+![UserPersonFarmer](assets/UserPersonaFarmer.png)
+![UserPersonaConsultant](assets/UserPersonaConsultant.png)
+
+### 2.3.2 User Task Matrix
 
 
+### 2.3.3 User Journey Mapping
 
+**Segmento 1: Agricultores y pymes agrícolas** <br>
+![UserJourneyFarmer](assets/UserJourneyFarmer.png) <br>
+**Segmento 2: Consultores agrícolas** <br>
+![UserJourneyConsultant](assets/UserJourneyConsultant.png)
 
+### 2.3.4 Empathy Mapping
 
+**Segmento 1: Agricultores y pymes agrícolas** <br>
+![EmpathyMapFarmer](assets/EmpathyMapFarmer.png) <br>
+**Segmento 2: Consultores agrícolas** <br>
+![EmpathyMapConsultant](assets/EmpathyMapConsultant.png)
 
+### 2.3.5 As-is Scenario Mapping
 
+**Segmento 1: Agricultores y pymes agrícolas** <br>
+![AsIsMapFarmer](assets/AsIsMapFarmer.png)
+**Segmento 2: Consultores agrícolas** <br>
+![AsIsMapConsultant](assets/AsIsMapConsultant.png)
 
+## 2.4 Ubiquitous Language
 
+Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser entendido en cualquier parte, esta sección tiene como intención permitirle a personas sin vocabulario de un Ingeniero de software puedan entender. A continuación, mostraremos un glosario con contenido de este proyecto:
 
+<ul>
+  <li> Crop: El significado literal es cultivo y usaremos el término como entidad, servicio y componente durante el desarrollo del código. </li>
+  <li> Employee: Significa empleado y lo estaremos usando para realizar entidades, servicios y componentes. </li>
+  <li> Harvest: El proceso de recoger cultivos madurados de los campos de cultivo. </li>
+  <li> Irrigation: La aplicación artificial de agua a la tierra para ayudar en la producción de cultivos. </li>
+  <li> Fertilizer: Sustancias que se aplican al suelo del cultivo para incrementar su fertilidad y rendimiento. </li>
+  <li> Pesticide: Son químicos utilizados para controlar, repeler y/o eliminar pestes del cultivo. </li>
+  <li> Crop rotation: Es la práctica de cultivar diferentes tipos de plantas al mismo tiempo en el mismo área en estaciones secuenciales. </li>
+  <li> Fumigation: Es un método de control de pestes o de eliminar microorganismos dañinos en un área específico mediante gases pesticidas. </li>
+  <li> Germination: Significa el comienzo del crecimiento, ya sea de una semilla, espora o brote, en respuesta a la temperatura correcta y agua. </li>
+</ul>
 
+---
 
 # Capítulo III: Requirements Specification
 
