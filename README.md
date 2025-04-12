@@ -260,9 +260,9 @@ Ser la plataforma líder en innovación agrícola en Latinoamérica, reconocida 
 <img src="./assets/Favio.png" width="300"/>
 
 #### - Jean Pierre Morin Fuentes
+Mi nombre es Jean Pierre Morin Fuentes tengo 21 años, estoy  el noveno ciclo de la carrera ingenieria de software. Durante la carrera he podido conocer distintas herramientas, frameworks y lenguajes de programacion, de los cuales manejo, C++, Python, C#, Java, HTML entre otros.
 
-
-<img src="./assets/Jean.jpg" width="300"/>
+<img src="./assets/Jean.jpeg" width="300"/>
 
 #### - Anatoly Andrey Noriega Suschenko
 
