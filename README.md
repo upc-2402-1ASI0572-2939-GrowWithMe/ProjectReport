@@ -256,11 +256,14 @@ Ser la plataforma líder en innovación agrícola en Latinoamérica, reconocida 
 
 #### - Favio Sebastián Landeo Simeón
 
-<img src="./assets/Favio.png" width="300"/>
+Tengo 20 años y actualmente estoy cursando el noveno ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar video
+
+<img src="./assets/Favio.jpg" width="300"/>
 
 #### - Jean Pierre Morin Fuentes
 Mi nombre es Jean Pierre Morin Fuentes tengo 21 años, estoy  el noveno ciclo de la carrera ingenieria de software. Durante la carrera he podido conocer distintas herramientas, frameworks y lenguajes de programacion, de los cuales manejo, C++, Python, C#, Java, HTML entre otros.
 
+<img src="./assets/Jean.jpeg" width="300"/>
 
 #### - Anatoly Andrey Noriega Suschenko
 
