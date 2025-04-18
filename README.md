@@ -806,3 +806,154 @@ Enlace del Miro: [To-Be Scenario Mapping](https://miro.com/welcomeonboard/bno3SF
 | 39      | TS11          | Crear API para consultar actividades              | Como desarrollador, quiero consultar las actividades registradas para que se puedan analizar y tomar decisiones.                                                                                     | 3            |
 | 40      | TS12          | Crear API para registrar datos calidad            | Como desarrollador, quiero registrar los datos de calidad con apoyo de sensores para el monitoreo del estado de los cultivos.                                                                        | 3            |
 
+---
+
+# Capítulo IV: Solution Software Design
+
+## 4.1. Strategic-Level Domain-Driven Design
+
+### 4.1.1. EventStorming
+
+Para la sesión de event storming nosotros tuvimos una reunión donde expusimos nuestras ideas acerca de este segmento. Con el transcurso de la sesión pudimos encontrar ideas las cuales son muy importantes para nuestra aplicación, además de poder tener las primeras versiones para los bounded context.
+
+Aquí mostraremos como fue nuestro desarrollo del event storming realizado mediante la herramienta Miro.
+
+URL: https://miro.com/welcomeonboard/SlNLYy9Sakh3MVJRQWxGaC85bjFVU24xWFBFSUNXTytseHp0clVIdS9vcEdqWEp4Y2VXWHJac0lkbFlVVzFPWTg4ZjBiR2hOeHo3MWZkenIvd01NdGFCb1FxZEVieThFekJjNzNkVXhjMUtieWhUL1NPdisrdFE0MnV1UWJHTCtyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=322623245739
+
+**STEP 1**
+
+![Step1](assets/Step1.png)
+
+En esta etapa, se identificaron los eventos clave que representan las acciones significativas dentro del sistema. Estos eventos se agruparon según los diferentes segmentos de usuarios y las funcionalidades principales de la aplicación.
+
+**STEP 2: TIMELINES**
+
+![Step2](assets/Step2.png)
+
+Durante esta fase, los eventos identificados fueron agrupados en subgrupos liderados por un evento general que encapsula la función principal del grupo. Cada subgrupo incluyó tanto los happy paths, que representan los caminos ideales o exitosos de ejecución de los eventos, como los unhappy paths, que muestran los posibles problemas o situaciones no deseadas que pudieran surgir. Esto ayudó a estructurar los eventos de manera coherente y a comprender mejor las diferentes secuencias de acciones dentro del sistema.
+
+**Step 3: PAINT POINTS**
+
+![Step3](assets/Step3.png)
+
+Durante el proceso, se identificaron los pain points o puntos problemáticos, que son áreas donde los usuarios pueden experimentar dificultades o fricciones en su interacción con la aplicación. Estos puntos son cruciales para mejorar la experiencia del usuario y optimizar el diseño del sistema.
+
+**Step 4: PIVOTAL POINTS**
+
+![Step4](assets/Step4.png)
+
+Se señalaron los pivotal points o puntos clave, que son eventos críticos que marcan hitos importantes en el flujo de trabajo del sistema. Estos eventos suelen tener un impacto significativo en el comportamiento del sistema o en la experiencia del usuario.
+
+**Step 5: COMMANDS**
+
+![Step5](assets/Step5.png)
+
+Cada evento se asoció con un comando específico que lo desencadena y un actor que lo realiza. Esto ayudó a clarificar quién es responsable de iniciar cada acción y cómo interactúan los diferentes usuarios con el sistema
+
+**Step 6: POLICIES**
+
+![Step6](assets/Step6.png)
+
+Durante esta etapa, se identifican y definen las políticas relevantes para cada contexto del sistema. Estas políticas pueden incluir restricciones de negocio, reglas de validación o comportamientos específicos que deben seguirse en determinadas 
+
+**Step 7: READ MODELS**
+
+![Step7](assets/Step7.png)
+
+Durante esta fase, se diseñan y desarrollan los modelos de lectura para cada contexto del sistema, asegurando que proporcionen la información necesaria de manera eficiente y coherente
+
+**Step 8: EXTERNAL SYSTEMS**
+
+![Step8](assets/Step8.png)
+
+Durante esta etapa, se identifican los sistemas externos relevantes para cada contexto del sistema y se establecen las interfaces y comunicaciones necesarias para integrarlos de manera efectiva.
+
+**Step 9: AGGREGATES**
+
+![Step9](assets/Step9.png)
+
+Durante esta etapa, se definen y diseñan los agregados para cada contexto del sistema, asegurando que representen correctamente las transacciones y operaciones coherentes dentro del sistema.
+
+#### 4.1.1.1 Candidate Context Discovery
+
+En este proceso, se utilizó la técnica de start-with-value para identificar los valores clave del negocio y los bounded contexts más importantes del sistema agrícola. Primero, se analizó cómo los sensores IoT, la gestión de cultivos y la consultoría agrícola son esenciales para mejorar la eficiencia y la productividad del agricultor.
+
+- **Identificación de Valores del Negocio:** El sistema busca optimizar los recursos agrícolas utilizando sensores IoT para medir variables clave, facilitando decisiones informadas y mejorando la productividad, con apoyo de consultores remotos para brindar estrategias personalizadas.
+
+- **Identificación de Funcionalidades Clave:** El sistema permite gestionar cultivos, monitorear en tiempo real con sensores IoT, activar acciones automáticas como el riego, enviar alertas sobre cambios críticos y ofrecer consultoría remota basada en datos.
+  
+- **Priorización de Contextos:** Se priorizan los contextos de sensores IoT para asegurar datos precisos, gestión de cultivos para facilitar la toma de decisiones, notificaciones claras y efectivas, y consultoría remota para brindar apoyo experto a los agricultores.
+
+##### Candidate para Bounded Context: Profiles
+
+![CandidateProfiles](CandidateProfiles.png)  
+
+##### Candidate para Bounded Context: Crops
+
+![CandidateCrops](CandidateCrops.png)     
+
+##### Candidate para Bounded Context: Devices
+
+![CandidateDevices](CandidateDevices.png) 
+
+##### Candidate para Bounded Context: Notifications
+
+![CandidateNotifications](CandidateNotifications.png) 
+
+##### Diagrama completo
+
+![CandidateC](CandidateC.png) 
+
+#### 4.1.1.2 Domain Message Flows Modeling
+#### 4.1.1.3 Bounded Context Canvases
+
+### 4.1.2. Context Mapping
+
+### 4.1.3. Software Architecture
+
+#### 4.1.3.1. Software Architecture System Landscape Diagram
+#### 4.1.3.2. Software Architecture Context Level Diagrams
+#### 4.1.3.3. Software Architecture Container Level Diagrams
+#### 4.1.3.4. Software Architecture Deployment Diagrams 
+
+## 4.2. Tactical-Level Domain-Driven Design
+
+### 4.2.1. Bounded Context: Profiles
+#### 4.2.1.1. Domain Layer
+#### 4.2.1.2. Interface Layer
+#### 4.2.1.3. Application Layer
+#### 4.2.1.4. Infrastructure Layer
+#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.1.6.2. Bounded Context Database Design Diagram
+
+### 4.2.2. Bounded Context: Crops
+#### 4.2.2.1. Domain Layer
+#### 4.2.2.2. Interface Layer
+#### 4.2.2.3. Application Layer
+#### 4.2.2.4. Infrastructure Layer
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.2.6.2. Bounded Context Database Design Diagram
+
+### 4.2.3. Bounded Context: Devices
+#### 4.2.3.1. Domain Layer
+#### 4.2.3.2. Interface Layer
+#### 4.2.3.3. Application Layer
+#### 4.2.3.4. Infrastructure Layer
+#### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.3.6.2. Bounded Context Database Design Diagram
+
+### 4.2.4. Bounded Context: Notifications
+#### 4.2.4.1. Domain Layer
+#### 4.2.4.2. Interface Layer
+#### 4.2.4.3. Application Layer
+#### 4.2.4.4. Infrastructure Layer
+#### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.4.6.2. Bounded Context Database Design Diagram
