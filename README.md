@@ -886,23 +886,23 @@ En este proceso, se utilizó la técnica de start-with-value para identificar lo
 
 ##### Candidate para Bounded Context: Profiles
 
-![CandidateProfiles](CandidateProfiles.png)  
+![CandidateProfiles](assets/CandidateProfiles.png)  
 
 ##### Candidate para Bounded Context: Crops
 
-![CandidateCrops](CandidateCrops.png)     
+![CandidateCrops](assets/CandidateCrops.png)     
 
 ##### Candidate para Bounded Context: Devices
 
-![CandidateDevices](CandidateDevices.png) 
+![CandidateDevices](assets/CandidateDevices.png) 
 
 ##### Candidate para Bounded Context: Notifications
 
-![CandidateNotifications](CandidateNotifications.png) 
+![CandidateNotifications](assets/CandidateNotifications.png) 
 
 ##### Diagrama completo
 
-![CandidateC](CandidateC.png) 
+![CandidateC](assets/CandidateC.png) 
 
 #### 4.1.1.2 Domain Message Flows Modeling
 #### 4.1.1.3 Bounded Context Canvases
