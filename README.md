@@ -909,8 +909,17 @@ En este proceso, se utilizó la técnica de start-with-value para identificar lo
 ### 4.1.3. Software Architecture
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram
+
+![LandscapeDiagram](assets/LandscapeDiagram.png)
+
 #### 4.1.3.2. Software Architecture Context Level Diagrams
+
+![ContextDiagram](assets/ContextDiagram.png)
+
 #### 4.1.3.3. Software Architecture Container Level Diagrams
+
+![DeploymentDiagram](assets/DeploymentDiagram.png)
+
 #### 4.1.3.4. Software Architecture Deployment Diagrams 
 
 ## 4.2. Tactical-Level Domain-Driven Design
@@ -921,6 +930,9 @@ En este proceso, se utilizó la técnica de start-with-value para identificar lo
 #### 4.2.1.3. Application Layer
 #### 4.2.1.4. Infrastructure Layer
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+![ProfileComponentDiagram](assets/ProfileComponentDiagram.png)
+
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
@@ -931,6 +943,9 @@ En este proceso, se utilizó la técnica de start-with-value para identificar lo
 #### 4.2.2.3. Application Layer
 #### 4.2.2.4. Infrastructure Layer
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+![CropsComponentDiagram](assets/CropsComponentDiagram.png)
+
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
@@ -941,6 +956,9 @@ En este proceso, se utilizó la técnica de start-with-value para identificar lo
 #### 4.2.3.3. Application Layer
 #### 4.2.3.4. Infrastructure Layer
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
+
+![DevicesComponentDiagram](assets/DevicesComponentDiagram.png)
+
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
@@ -951,6 +969,9 @@ En este proceso, se utilizó la técnica de start-with-value para identificar lo
 #### 4.2.4.3. Application Layer
 #### 4.2.4.4. Infrastructure Layer
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+![NotificationComponentDiagram](assets/NotificationComponentDiagram.png)
+
 #### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
