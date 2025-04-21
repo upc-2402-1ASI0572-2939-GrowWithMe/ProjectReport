@@ -668,6 +668,16 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 ### 2.3.2 User Task Matrix
 
+| **User Task Matrix**                           | **Aldo Gómez (Agricultor)** |                  | **Antonio Herrera (Consultor)** |                  |
+|------------------------------------|------------------------------|------------------|----------------------------------|------------------|
+|                                    | **Frecuencia**               | **Importancia**  | **Frecuencia**                   | **Importancia**  |
+| Planificar el cultivo de la temporada | Media                       | Alta             | Media                            | Alta             |
+| Comunicarse con trabajadores       | Media                        | Alta             | Media                            | Alta             |
+| Seguimiento de cultivos            | Alta                         | Alta             | Alta                             | Alta             |
+| Revisión de pronóstico del clima   | Media             | Media            | Media                            | Alta             |
+| Riego de plantas                   | Baja          | Alta             | Baja                             | Alta             |
+| Identificación de pestes           | Baja          | Alta             | Media                            | Alta             |
+| Peaje de cosechas                  | Baja                         | Alta             | Baja                             | Alta             |
 
 ### 2.3.3 User Journey Mapping
 
