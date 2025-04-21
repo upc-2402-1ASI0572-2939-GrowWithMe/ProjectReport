@@ -777,6 +777,11 @@ Enlace del Miro: [To-Be Scenario Mapping](https://miro.com/welcomeonboard/bno3SF
 
 ## 3.3. Impact Mapping
 
+**Segmento 1: Agricultores y pymes agrícolas** <br>
+![ImpactMapAgricultor](assets/ImpactMapAgricultor.png) <br>
+**Segmento 2: Consultores agrícolas** <br>
+![ImpactMapConsultor](assets/ImpactMapConsultor.png) <br>
+
 ## 3.4. Product Backlog
 
 | # Orden | User/Technical Story ID | Título                           | Descripción                                                                                      | Story Points (1/2/3/5/8) |
