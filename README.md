@@ -918,9 +918,11 @@ En este proceso, se utilizó la técnica de start-with-value para identificar lo
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams
 
-![DeploymentDiagram](assets/DeploymentDiagram.png)
+![ContainerDiagram](assets/ContainerDiagram.png)
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams 
+
+![DeploymentDiagram](assets/DeploymentDiagram.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
