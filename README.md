@@ -913,7 +913,39 @@ En este proceso, se utilizó la técnica de start-with-value para identificar lo
 ![CandidateC](assets/CandidateC.png) 
 
 #### 4.1.1.2 Domain Message Flows Modeling
+
+**Agricultor**
+
+Scenario: El agricultor desea registrar un cultivo y recibir notificación
+
+![](assets/FlowsModeling1.png)
+
+**Consultor**
+
+Scenario: El consultor gestiona las consultas de los agricultores y genera recomendaciones
+
+![](assets/FlowsModeling2.png)
+
+
 #### 4.1.1.3 Bounded Context Canvases
+
+**Profile**
+
+![](assets/Profile.png)
+
+**Crops**
+
+![](assets/Crops.png)
+
+**Notification**
+
+![](assets/Notification.png)
+
+**IOT Devices**
+
+![](assets/Devices.png)
+
+Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU2svbFZtS01uSHljRW9jcDMwNFE2b1I0Q252Z0pxRkx6bnY0aG8zVDB3RnpkSVdIRTN4Tk9uNktCb1FxZEVieThFekJjNzNkVXhjMUtrM1hZbFhCL1VFYnlXQVUxaC90TFZBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=145713520841>
 
 ### 4.1.2. Context Mapping
 
