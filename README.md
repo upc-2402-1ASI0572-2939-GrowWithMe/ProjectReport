@@ -986,8 +986,12 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+
 ![ProfileDomainLayerClassDiagrams](assets/ProfileDiagram.png)
+
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
+
+![ProfileDatabaseDesignDiagram](assets/BoundedContextDatabaseDesignDiagramProfiles.png)
 
 ### 4.2.2. Bounded Context: Crops
 #### 4.2.2.1. Domain Layer
@@ -1000,8 +1004,12 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+
 ![CropsDomainLayerClassDiagrams](assets/CropsDiagram.png)
+
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
+
+![CropsDatabaseDesignDiagram](assets/BoundedContextDatabaseDesignDiagramCrops.png)
 
 ### 4.2.3. Bounded Context: Devices
 #### 4.2.3.1. Domain Layer
@@ -1018,6 +1026,8 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
+![DevicesDatabaseDesignDiagram](assets/BoundedContextDatabaseDesignDiagramDevices.png)
+
 ### 4.2.4. Bounded Context: Notifications
 #### 4.2.4.1. Domain Layer
 #### 4.2.4.2. Interface Layer
@@ -1032,3 +1042,5 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 ![NotificationDomainLayerClassDiagrams](assets/NotificationsDiagram.png)
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
+
+![NotificationsDatabaseDesignDiagram](assets/BoundedContextDatabaseDesignDiagramNotifications.png)
