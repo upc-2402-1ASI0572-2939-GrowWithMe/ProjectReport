@@ -173,7 +173,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             <strong>Acuña Gomez, Diego Jose</strong> <br>
             TB1 <br> Morbi vel tortor id eros dictum venenatis id dui. Mauris quis tellus eu nunc hendrerit vehicula ac id mauris. Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.
             <br>
-            TP1 <br> ...
+            TP1 <br>A lo largo del desarrollo de este proyecto, he trabajado promoviendo un entorno colaborativo donde cada integrante pudo aportar desde su experiencia. He contribuido activamente en la elaboración y definición de las User Stories, organizando reuniones clave para debatir el alcance del negocio y asegurar una visión compartida. Gracias a esta dinámica de trabajo conjunto, logramos completar con éxito las User Stories y desarrollar los 10 pasos del Event Storming
             <br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br>
             TB1 <br> Durante el desarrollo del proyecto colaboré activamente para lograr los objetivos grupales planeados. Gracias a ello logramos terminar exitosamente las User Stories, los 10 pasos del Event Storming y una Entrevista del segundo segmento objetivo.
@@ -208,7 +208,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
         <td align="center">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
         <td>
             <strong>Acuña Gomez, Diego Jose</strong> <br>
-            TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
+            TB1 <br> Durante este proyecto, me enfoqué en crear un entorno colaborativo e inclusivo donde todas las voces fueran escuchadas y valoradas. Establecí metas claras junto al equipo, planificamos tareas de forma estratégica y distribuimos responsabilidades de manera equitativa. Gracias a esta organización, pudimos avanzar de forma eficiente y cumplir los objetivos planteados, manteniendo siempre una comunicación abierta y un compromiso constante por parte de todos los miembros.
             <br>
             <br> 
             <br><br>
@@ -265,8 +265,8 @@ Ser la plataforma líder en innovación agrícola en Latinoamérica, reconocida 
 ### 1.1.2 Perfiles de integrantes del equipo
 
 #### - Diego Jose Acuña Gomez
-
-<img src="./assets/Diego.jpg" width="300"/>
+Mi nombre es Diego Jose Acuña Gomez, tengo 23 años y actualmente estudio en la UPC, donde curso el noveno ciclo de Ingeniería de Software. Me especializo en desarrollo FrontEnd, con experiencia sólida en Angular, y me interesa mucho el enfoque ágil para colaborar eficientemente en equipo y construir productos de valor. Además, estoy explorando el mundo de la ciberseguridad como parte de mi formación profesional.
+<img src="./assets/Diego.png" width="300"/>
 
 #### - Favio Sebastián Landeo Simeón
 
