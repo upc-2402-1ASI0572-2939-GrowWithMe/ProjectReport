@@ -186,7 +186,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             TP1 <br> ...
             <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br>
-            TB1 <br> Morbi vel tortor id eros dictum venenatis id dui. Mauris quis tellus eu nunc hendrerit vehicula ac id mauris. Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.
+            TB1 <br> Durante el desarrollo de nuestro proyecto colaboré activamente a lo largo del mismo desarrollando las primeras versiones de las historias de usuario y el product backlog, el impact mapping, una de las entrevistas y los diagramas c4 Model contribuyendo con mi participación al equipo y desarrollar de manera eficaz y eficiente el proyecto.
             <br>
             TP1 <br> ...
             <br><br>
@@ -223,7 +223,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             <br>
             <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br>
-            TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
+            TB1 <br> A lo largo del trabajo del proyecto he fomentado un entorno colaborativo e inclusivo dentro del equipo participando activamente en las tareas y revisando que ciertos puntos del trabajo fueran concretado aportando con las entrevistas  y digagramas del proyecto.
             <br>
             <br> 
             <br><br>
