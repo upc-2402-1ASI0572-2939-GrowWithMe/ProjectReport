@@ -47,7 +47,7 @@
   <tr>
     <td align="center">TB1</td>
     <td>21/04/2025</td>
-    <td> Diego Acuña <br> Favio Landeo <br> Jean Morin <br> Beth Oneglio <br> Milagros Tongo </td>
+    <td> Diego Acuña <br> Favio Landeo <br> Jean Morin <br> Analoty Noriega <br> Beth Oneglio <br> Milagros Tongo </td>
     <td> Realizamos los capítulos 1, 2, 3 y 4 según la rúbrica de manera conjunta y eficiente.  </td>
   </tr>
 </table>
@@ -114,7 +114,7 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
       - [4.1.3.2 Software Architecture Context Level Diagrams](#4132-software-architecture-context-level-diagrams)
       - [4.1.3.3 Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
   - [4.2 Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
-      - [4.2.1 Bounded Context: Profiles](#421-bounded-context-bounded-profiles)
+    - [4.2.1 Bounded Context: Profiles](#421-bounded-context-bounded-profiles)
       - [4.2.1.1 Domain Layer](#4211-domain-layer)
       - [4.2.1.2 Interface Layer](#4212-interface-layer)
       - [4.2.1.3 Application Layer](#4213-application-layer)
@@ -123,7 +123,7 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
       - [4.2.1.6 Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams)
       - [4.2.1.6.1 Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
       - [4.2.1.6.2 Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram)
-    - [4.2.2 Bounded Context: <Another Bounded Context Name>](#422-bounded-context-another-bounded-context-name)
+    - [4.2.2 Bounded Context: Crops](#422-bounded-context-another-bounded-crops)
       - [4.2.2.1 Domain Layer](#4221-domain-layer)
       - [4.2.2.2 Interface Layer](#4222-interface-layer)
       - [4.2.2.3 Application Layer](#4223-application-layer)
@@ -132,7 +132,7 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
       - [4.2.2.6 Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams)
       - [4.2.2.6.1 Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams)
       - [4.2.2.6.2 Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram)
-    - [4.2.3 Bounded Context: <Third Bounded Context Name>](#423-bounded-context-third-bounded-context-name)
+    - [4.2.3 Bounded Context: Devices](#423-bounded-context-third-bounded-devices)
       - [4.2.3.1 Domain Layer](#4231-domain-layer)
       - [4.2.3.2 Interface Layer](#4232-interface-layer)
       - [4.2.3.3 Application Layer](#4233-application-layer)
@@ -141,6 +141,15 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
       - [4.2.3.6 Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
       - [4.2.3.6.1 Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
       - [4.2.3.6.2 Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
+    - [4.2.4 Bounded Context: Notifications](#423-bounded-context-third-bounded-notifications)
+      - [4.2.4.1 Domain Layer](#4231-domain-layer)
+      - [4.2.4.2 Interface Layer](#4232-interface-layer)
+      - [4.2.4.3 Application Layer](#4233-application-layer)
+      - [4.2.4.4 Infrastructure Layer](#4234-infrastructure-layer)
+      - [4.2.4.5 Bounded Context Software Architecture Component Level Diagrams](#4235-bounded-context-software-architecture-component-level-diagrams)
+      - [4.2.4.6 Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.4.6.1 Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
+      - [4.2.4.6.2 Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -187,7 +196,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             TP1 <br> ...
             <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br>
-            TB1 <br> Morbi vel tortor id eros dictum venenatis id dui. Mauris quis tellus eu nunc hendrerit vehicula ac id mauris. Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.
+            TB1 <br> omo parte del equipo, me encargué de realizar entrevistas y gestionar los bounded context canvas, contribuyendo activamente al liderazgo compartido y a la toma de decisiones grupales, lo que permitió avanzar de manera eficaz en el proyecto.
             <br>
             TP1 <br> ...
         </td>
@@ -224,7 +233,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             <br>
             <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br>
-            TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
+            TB1 <br> Colaboré en la creación de un ambiente inclusivo y organizado, donde establecí metas claras, planifiqué tareas específicas y aseguré que se cumplieran los objetivos, trabajando de cerca con el equipo y revisando constantemente los avances.
             <br>
             <br>
         </td>
@@ -512,7 +521,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 	<TR>
 		<TD>
       8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?
-      <p> La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas. 
+      <p> La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir , encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas. 
       <p> Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio
     </TD>
   </TR>
@@ -628,6 +637,8 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 ### 2.2.2 Registro de entrevistas
  
 **Segmento 1: Agricultores y pymes agrícolas**
+
+Todas la entrevistas se encuentran en el siguiente URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EUjElqA2GVNOuGcMu_3hJJYBPi5VQ-bHC4DnneCE9LZhDw?e=x9rtA0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
 |                             **Entrevista 1**                              |                                                                                                                                                                                                                                                              **Juan Jesús Calisaya Sánchez**                                                                                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -1044,3 +1055,16 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
 
 ![NotificationsDatabaseDesignDiagram](assets/BoundedContextDatabaseDesignDiagramNotifications.png)
+
+---
+# Conclusiones
+
+---
+
+# Bibliografía
+
+---
+
+# Anexos
+
+**Video de exposición TB1:**
