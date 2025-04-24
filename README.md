@@ -987,10 +987,74 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 ## 4.2. Tactical-Level Domain-Driven Design
 
 ### 4.2.1. Bounded Context: Profiles
+
 #### 4.2.1.1. Domain Layer
+
+### Aggregate: Profile
+
+- **Categoría**: Entity/Aggregate
+- **Propósito**: Representa al agricultor dentro del sistema, gestionando su información personal y preferencias relacionadas con los cultivos.
+
+#### Atributos
+
+| Nombre      | Tipo de dato | Visibilidad | Descripción                                                      |
+|-------------|--------------|-------------|------------------------------------------------------------------|
+| id          | Long         | Private     | Identificador único del perfil del agricultor.                    |
+| userName    | String       | Private     | Nombre de usuario del agricultor.                                 |
+| name        | String       | Private     | Nombre completo del agricultor.                                   |
+| email       | String       | Private     | Correo electrónico del agricultor.                                |
+| preferences | String       | Private     | Preferencias del agricultor en cuanto a cultivos.                 |
+| history     | Set          | Private     | Lista de eventos o interacciones pasadas con el sistema.          |
+
+#### Métodos
+
+| Nombre           | Tipo de retorno | Visibilidad | Descripción                                                |
+|------------------|-----------------|-------------|------------------------------------------------------------|
+| Constructor      | Void            | Public      | Constructor para inicializar un perfil de usuario.         |
+| updateProfile()  | Void            | Public      | Actualiza los datos del perfil del agricultor.              |
+| getProfile()     | Perfil          | Public      | Retorna los datos del perfil del agricultor.                |
+| getHistory()     | Set             | Public      | Recupera el historial de interacciones y recomendaciones.   |
+
+
 #### 4.2.1.2. Interface Layer
+
+- **Propósito**: La capa de interfaz se encarga de recibir las solicitudes de los usuarios y gestionarlas, enviando las respuestas adecuadas.
+
+#### Métodos / Componentes
+
+| Método          | Tipo de retorno | Descripción                                                  |
+|-----------------|-----------------|--------------------------------------------------------------|
+| getProfile()    | Perfil          | Retorna los datos completos del perfil del agricultor.        |
+| updateProfile() | Void            | Actualiza los datos del perfil del agricultor.                |
+| getHistory()    | Set             | Recupera el historial de interacciones y actividades pasadas. |
+
+#### Controlador
+
+- **PerfilController**: Controlador que maneja las solicitudes HTTP para crear, actualizar y consultar perfiles de usuarios.
+
 #### 4.2.1.3. Application Layer
+
+- **Propósito**: La capa de aplicación coordina la lógica entre el dominio y la interfaz. Aquí se gestionan las transacciones y las operaciones de negocio.
+
+#### Servicios
+
+| Servicio         | Métodos                              | Descripción                                                            |
+|------------------|--------------------------------------|------------------------------------------------------------------------|
+| ProfileService   | updateProfile(), getProfile()        | Gestiona la lógica de negocio para consultar y actualizar perfiles.     |
+| HistoryService   | getHistory()                         | Permite acceder al historial de actividades del agricultor.             |
+
+
 #### 4.2.1.4. Infrastructure Layer
+
+- **Propósito**: La capa de infraestructura se ocupa de la persistencia de datos y de los servicios que soportan la aplicación.
+
+#### Componentes
+
+| Componente           | Descripción                                                   |
+|----------------------|---------------------------------------------------------------|
+| Base de Datos        | Almacena los datos de los perfiles de usuario, incluyendo la información personal, preferencias y el historial. |
+| Servicio de Almacenamiento | Gestiona el acceso y persistencia de los datos de los perfiles en la base de datos. |
+
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![ProfileComponentDiagram](assets/ProfileComponentDiagram.png)
@@ -1005,10 +1069,72 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 ![ProfileDatabaseDesignDiagram](assets/BoundedContextDatabaseDesignDiagramProfiles.png)
 
 ### 4.2.2. Bounded Context: Crops
+
 #### 4.2.2.1. Domain Layer
+
+### Aggregate: Crop
+
+- **Categoría**: Entity/Aggregate
+- **Propósito**: Representa un cultivo específico, incluyendo su tipo, fecha de siembra, necesidades de riego y otras condiciones de crecimiento.
+
+#### Atributos
+
+| Nombre           | Tipo de dato | Visibilidad | Descripción                                                   |
+|------------------|--------------|-------------|---------------------------------------------------------------|
+| id               | Long         | Private     | Identificador único del cultivo.                              |
+| type             | String       | Private     | Tipo de cultivo (ej. maíz, arroz).                            |
+| sowingDate       | Date         | Private     | Fecha en la que se sembró el cultivo.                         |
+| irrigationNeed   | String       | Private     | Necesidad de riego del cultivo.                               |
+| temperatureRange | String       | Private     | Rango de temperatura recomendado para el cultivo.             |
+| growthStage      | String       | Private     | Etapa actual del cultivo.                                     |
+
+#### Métodos
+
+| Nombre             | Tipo de retorno | Visibilidad | Descripción                                                      |
+|--------------------|-----------------|-------------|------------------------------------------------------------------|
+| Constructor        | Void            | Public      | Constructor para inicializar el cultivo.                        |
+| updateCrop()       | Void            | Public      | Actualiza la información del cultivo.                           |
+| getCrop()          | Cultivo         | Public      | Retorna los datos completos del cultivo.                        |
+| getIrrigationStatus() | String        | Public      | Retorna el estado del riego del cultivo. 
+
 #### 4.2.2.2. Interface Layer
+
+- **Propósito**: Recibe las solicitudes del agricultor para gestionar los cultivos, actualizar su estado y consultar datos relacionados.
+
+### Métodos / Componentes
+
+| Método            | Tipo de retorno | Descripción                                                    |
+|-------------------|-----------------|---------------------------------------------------------------|
+| getCrop()         | Cultivo         | Retorna los datos completos del cultivo.                       |
+| updateCrop()      | Void            | Actualiza los datos de un cultivo específico.                  |
+| getIrrigationStatus() | String       | Verifica y retorna el estado del riego de un cultivo.          |
+
+### Controlador
+
+- **CropController**: Controlador que maneja las solicitudes HTTP para la creación, consulta y actualización de cultivos.
+
 #### 4.2.2.3. Application Layer
+
+- **Propósito**: Gestiona las operaciones y la lógica de negocio asociada con los cultivos, coordinando las acciones entre el **Domain Layer** y la **Interface Layer**.
+
+#### Servicios
+
+| Servicio          | Métodos                              | Descripción                                                            |
+|-------------------|--------------------------------------|------------------------------------------------------------------------|
+| CropService       | updateCrop(), getCrop()              | Lógica de negocio para gestionar cultivos, como crear, actualizar y consultar cultivos. |
+| IrrigationService | getIrrigationStatus()                | Calcula y gestiona las necesidades de riego del cultivo.                |
+
 #### 4.2.2.4. Infrastructure Layer
+
+- **Propósito**: Se encarga de la persistencia y el soporte tecnológico de la gestión de cultivos, como la base de datos y la conexión con dispositivos IoT.
+
+#### Componentes
+
+| Componente                  | Descripción                                                        |
+|-----------------------------|--------------------------------------------------------------------|
+| Base de Datos de Cultivos   | Almacena todos los cultivos y sus datos asociados.                 |
+| Conexión con Dispositivos IoT | Interfaz para obtener datos de los dispositivos IoT, como humedad, temperatura y otros parámetros. |
+
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![CropsComponentDiagram](assets/CropsComponentDiagram.png)
@@ -1023,10 +1149,71 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 ![CropsDatabaseDesignDiagram](assets/BoundedContextDatabaseDesignDiagramCrops.png)
 
 ### 4.2.3. Bounded Context: Devices
+
 #### 4.2.3.1. Domain Layer
+
+### Aggregate: IoT Device
+
+- **Categoría**: Entity/Aggregate
+- **Propósito**: Representa los dispositivos IoT que monitorean y controlan las condiciones del cultivo, como la humedad, temperatura, entre otros.
+
+#### Atributos
+
+| Nombre       | Tipo de dato | Visibilidad | Descripción                                                     |
+|--------------|--------------|-------------|-----------------------------------------------------------------|
+| id           | Long         | Private     | Identificador único del dispositivo IoT.                        |
+| type         | String       | Private     | Tipo de dispositivo IoT (ej. sensor de humedad).                |
+| status       | String       | Private     | Estado del dispositivo (activo, inactivo).                      |
+| lastRead     | Date         | Private     | Fecha de la última lectura del dispositivo.                     |
+
+#### Métodos
+
+| Nombre               | Tipo de retorno | Visibilidad | Descripción                                                     |
+|----------------------|-----------------|-------------|-----------------------------------------------------------------|
+| Constructor          | Void            | Public      | Constructor para inicializar el dispositivo IoT.                |
+| connectDevice()      | Void            | Public      | Conecta el dispositivo IoT al sistema.                          |
+| getDeviceStatus()    | String          | Public      | Retorna el estado actual del dispositivo IoT.                   |
+| sendData()           | Void            | Public      | Envia los datos recopilados por el dispositivo IoT.             |
+
+
 #### 4.2.3.2. Interface Layer
+
+- **Propósito**: Facilita la conexión y la comunicación con los dispositivos IoT, permitiendo al agricultor interactuar con ellos.
+
+#### Métodos / Componentes
+
+| Método              | Tipo de retorno | Descripción                                                     |
+|---------------------|-----------------|-----------------------------------------------------------------|
+| connectDevice()      | Void            | Conecta un dispositivo IoT al sistema.                          |
+| getDeviceStatus()    | String          | Verifica el estado actual del dispositivo IoT.                  |
+| sendData()           | Void            | Envía los datos recopilados por el dispositivo IoT al sistema.  |
+
+#### Controlador
+
+- **DeviceController**: Controlador que maneja las solicitudes de conexión, desconexión y estado de los dispositivos IoT.
+
 #### 4.2.3.3. Application Layer
+
+- **Propósito**: Coordina la interacción entre los dispositivos IoT y el resto del sistema, gestionando las operaciones de activación y lectura de sensores.
+
+#### Servicios
+
+| Servicio            | Métodos                             | Descripción                                                         |
+|---------------------|-------------------------------------|---------------------------------------------------------------------|
+| DeviceService       | connectDevice(), sendData()         | Maneja las operaciones de conexión y desconexión de los dispositivos IoT. |
+| SensorDataService  | sendData()                          | Procesa los datos provenientes de los sensores y los envía al sistema. |
+
 #### 4.2.3.4. Infrastructure Layer
+
+- **Propósito**: Proporciona la infraestructura para la gestión y almacenamiento de los dispositivos IoT.
+
+#### Componentes
+
+| Componente                    | Descripción                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| Base de Datos de Dispositivos IoT | Almacena la configuración y el estado de los dispositivos IoT.               |
+| Plataforma de Conexión IoT     | Facilita la comunicación entre los dispositivos IoT y el sistema.           |
+
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![DevicesComponentDiagram](assets/DevicesComponentDiagram.png)
@@ -1041,9 +1228,67 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 ### 4.2.4. Bounded Context: Notifications
 #### 4.2.4.1. Domain Layer
+
+### Aggregate: Notification
+
+- **Categoría**: Entity/Aggregate
+- **Propósito**: Representa las notificaciones enviadas al agricultor, tales como alertas de riego, condiciones climáticas y recomendaciones del sistema.
+
+#### Atributos
+
+| Nombre     | Tipo de dato | Visibilidad | Descripción                                                   |
+|------------|--------------|-------------|---------------------------------------------------------------|
+| id         | Long         | Private     | Identificador único de la notificación.                        |
+| message    | String       | Private     | Contenido del mensaje de la notificación.                     |
+| type       | String       | Private     | Tipo de notificación (alerta, recomendación).                 |
+| timestamp  | Date         | Private     | Fecha y hora en que se envió la notificación.                  |
+
+#### Métodos
+
+| Nombre               | Tipo de retorno    | Visibilidad | Descripción                                                      |
+|----------------------|--------------------|-------------|------------------------------------------------------------------|
+| Constructor          | Void               | Public      | Constructor para crear una notificación.                        |
+| sendNotification()   | Void               | Public      | Envia una notificación al agricultor.                            |
+| getNotifications()   | List<Notificación> | Public      | Recupera todas las notificaciones enviadas.                      |
+
 #### 4.2.4.2. Interface Layer
+
+- **Propósito**: Gestiona las interacciones con el agricultor para enviarle notificaciones, como alertas sobre los cultivos, recomendaciones y actualizaciones.
+
+#### Métodos / Componentes
+
+| Método               | Tipo de retorno     | Descripción                                                     |
+|----------------------|---------------------|-----------------------------------------------------------------|
+| sendNotification()    | Void                | Envia una notificación al agricultor.                           |
+| getNotifications()    | List<Notificación>  | Recupera todas las notificaciones enviadas al agricultor.       |
+
+#### Controlador
+
+- **NotificationController**: Controlador que maneja las solicitudes para generar y mostrar notificaciones.
+
 #### 4.2.4.3. Application Layer
+
+- **Propósito**: Se encarga de la lógica para crear las notificaciones y enviarlas al agricultor.
+
+#### Servicios
+
+| Servicio            | Métodos               | Descripción                                                         |
+|---------------------|-----------------------|---------------------------------------------------------------------|
+| NotificationService | sendNotification()     | Gestiona la creación y el envío de notificaciones.                  |
+| AlertService        | sendAlert()            | Genera alertas basadas en eventos, como la necesidad de riego o cambios de temperatura. |
+
+
 #### 4.2.4.4. Infrastructure Layer
+
+- **Propósito**: Proporciona la infraestructura para enviar las notificaciones y almacenarlas.
+
+#### Componentes
+
+| Componente                    | Descripción                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| Servicio de Envío de Notificaciones | Facilita el envío de notificaciones a través de correo electrónico, SMS, etc. |
+| Base de Datos de Notificaciones | Almacena las notificaciones generadas y su estado.                           |
+
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![NotificationComponentDiagram](assets/NotificationComponentDiagram.png)
