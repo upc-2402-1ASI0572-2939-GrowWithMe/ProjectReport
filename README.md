@@ -176,7 +176,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             TP1 <br> ...
             <br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br>
-            TB1 <br> Morbi vel tortor id eros dictum venenatis id dui. Mauris quis tellus eu nunc hendrerit vehicula ac id mauris. Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.
+            TB1 <br> Durante el desarrollo del proyecto colaboré activamente para lograr los objetivos grupales planeados. Gracias a ello logramos terminar exitosamente las User Stories, los 10 pasos del Event Storming y una Entrevista del segundo segmento objetivo.
             <br>
             TP1 <br> ...
             <br><br>
@@ -196,7 +196,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             TP1 <br> ...
             <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br>
-            TB1 <br> omo parte del equipo, me encargué de realizar entrevistas y gestionar los bounded context canvas, contribuyendo activamente al liderazgo compartido y a la toma de decisiones grupales, lo que permitió avanzar de manera eficaz en el proyecto.
+            TB1 <br> Como parte del equipo, me encargué de realizar entrevistas y gestionar los bounded context canvas, contribuyendo activamente al liderazgo compartido y a la toma de decisiones grupales, lo que permitió avanzar de manera eficaz en el proyecto.
             <br>
             TP1 <br> ...
         </td>
@@ -213,7 +213,7 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
             <br> 
             <br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br>
-            TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
+            TB1 <br> A través del proceso de desarrollo de este proyecto he ayudado a crear un entorno colaborativo para lograr cumplir el objetivo en común. Es por eso que hemos logrado concluir las User Stories, los 10 pasos del Event Storming y una entrevista del segundo segmento objetivo.
             <br>
             <br>
             <br><br>
