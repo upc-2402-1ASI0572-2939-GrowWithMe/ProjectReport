@@ -199,74 +199,73 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <td align="center">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
         <td>
             <strong>Acuña Gomez, Diego Jose</strong> <br>
-            TB1 <br> Morbi vel tortor id eros dictum venenatis id dui. Mauris quis tellus eu nunc hendrerit vehicula ac id mauris. Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.
             <br>
-            TP1 <br>A lo largo del desarrollo de este proyecto, he trabajado promoviendo un entorno colaborativo donde cada integrante pudo aportar desde su experiencia. He contribuido activamente en la elaboración y definición de las User Stories, organizando reuniones clave para debatir el alcance del negocio y asegurar una visión compartida. Gracias a esta dinámica de trabajo conjunto, logramos completar con éxito las User Stories y desarrollar los 10 pasos del Event Storming
+            TB1 <br>A lo largo del desarrollo de este proyecto, he trabajado promoviendo un entorno colaborativo donde cada integrante pudo aportar desde su experiencia. He contribuido activamente en la elaboración y definición de las User Stories, organizando reuniones clave para debatir el alcance del negocio y asegurar una visión compartida. Gracias a esta dinámica de trabajo conjunto, logramos completar con éxito las User Stories y desarrollar los 10 pasos del Event Storming.
             <br><br>
-            <strong>Landeo Simeón, Favio Sebastián</strong> <br>
+            <strong>Landeo Simeón, Favio Sebastián</strong> <br><br>
             TB1 <br> Durante el desarrollo del proyecto colaboré activamente para lograr los objetivos grupales planeados. Gracias a ello logramos terminar exitosamente las User Stories, los 10 pasos del Event Storming y una Entrevista del segundo segmento objetivo.
             <br>
-            TP1 <br> ...
-            <br><br>
-            <strong>Morin Fuentes, Jean Pierre</strong> <br>
-            TB1 <br> Morbi vel tortor id eros dictum venenatis id dui. Mauris quis tellus eu nunc hendrerit vehicula ac id mauris. Pellentesque volutpat tellus non ligula blandit ullamcorper quis sodales erat.
             <br>
-            TP1 <br> ...
             <br><br>
-            <strong>Noriega Suschenko, Anatoly Andrey</strong> <br>
+            <strong>Morin Fuentes, Jean Pierre</strong> <br><br>
+            TB1 <br> Participé activamente como miembro del equipo, brindando apoyo constante en la elaboración y revisión de la documentación técnica y funcional del proyecto. Además, mantuvimos reuniones frecuentes entre los integrantes del equipo, lo que nos permitió alinear ideas, resolver dudas en conjunto y trabajar de manera más eficiente y coordinada.
+            <br>
+            <br>
+            <br><br>
+            <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> Durante el desarrollo de nuestro proyecto colaboré activamente a lo largo del mismo desarrollando las primeras versiones de las historias de usuario y el product backlog, el impact mapping, una de las entrevistas y los diagramas c4 Model contribuyendo con mi participación al equipo y desarrollar de manera eficaz y eficiente el proyecto.
             <br>
-            TP1 <br> ...
+            <br>
             <br><br>
-            <strong>Oneglio De Paz, Beth Shantal</strong> <br>
+            <strong>Oneglio De Paz, Beth Shantal</strong> <br><br>
             TB1 <br> Colaboré activamente en equipo, asumiendo un rol de liderazgo compartido, lo que me permitió fortalecer mis habilidades blandas en organización. Gracias a ello, logramos concluir satisfactoriamente la Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br>
-            TP1 <br> ...
+            <br>
             <br><br>
-            <strong>Tongo Alejandro, Milagros Salet</strong> <br>
+            <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Como parte del equipo, me encargué de realizar entrevistas y gestionar los bounded context canvas, contribuyendo activamente al liderazgo compartido y a la toma de decisiones grupales, lo que permitió avanzar de manera eficaz en el proyecto.
             <br>
-            TP1 <br> ...
+            <br>
         </td>
         <td>
-            Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. Nam ornare massa eu lobortis porttitor. Nam ut erat feugiat libero pretium semper ac metus. Sed et eros dapibus, fermentum quam ut, bibendum lacus. Curabitur eget orci eget urna varius commodo.
+          A lo largo del proyecto, el liderazgo compartido y la colaboración activa entre todos los integrantes permitieron cumplir con éxito las actividades clave como entrevistas, User Stories, Event Storming y la elaboración del Product Backlog. Cada miembro aportó desde sus fortalezas, fortaleciendo el trabajo en equipo y asegurando una visión común del proyecto.
         </td>
     </tr>
     <tr>
         <td align="center">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
         <td>
-            <strong>Acuña Gomez, Diego Jose</strong> <br>
+            <strong>Acuña Gomez, Diego Jose</strong> <br><br>
             TB1 <br> Durante este proyecto, me enfoqué en crear un entorno colaborativo e inclusivo donde todas las voces fueran escuchadas y valoradas. Establecí metas claras junto al equipo, planificamos tareas de forma estratégica y distribuimos responsabilidades de manera equitativa. Gracias a esta organización, pudimos avanzar de forma eficiente y cumplir los objetivos planteados, manteniendo siempre una comunicación abierta y un compromiso constante por parte de todos los miembros.
             <br>
             <br> 
             <br><br>
-            <strong>Landeo Simeón, Favio Sebastián</strong> <br>
+            <strong>Landeo Simeón, Favio Sebastián</strong> <br><br>
             TB1 <br> A través del proceso de desarrollo de este proyecto he ayudado a crear un entorno colaborativo para lograr cumplir el objetivo en común. Es por eso que hemos logrado concluir las User Stories, los 10 pasos del Event Storming y una entrevista del segundo segmento objetivo.
             <br>
             <br>
             <br><br>
-            <strong>Morin Fuentes, Jean Pierre</strong> <br>
-            TB1 <br> Cras est diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin.
+            <strong>Morin Fuentes, Jean Pierre</strong> <br><br>
+            TB1 <br> Apoyé en la elaboración de la documentación técnica y de los diagramas de bounded context, participando activamente en reuniones con el equipo para alinear ideas y mejorar la eficiencia del trabajo conjunto.
             <br>
             <br>
             <br><br>
-            <strong>Noriega Suschenko, Anatoly Andrey</strong> <br>
+            <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> A lo largo del trabajo del proyecto he fomentado un entorno colaborativo e inclusivo dentro del equipo participando activamente en las tareas y revisando que ciertos puntos del trabajo fueran concretado aportando con las entrevistas  y digagramas del proyecto.
             <br>
             <br> 
             <br><br>
-            <strong>Oneglio De Paz, Beth Shantal</strong> <br>
+            <strong>Oneglio De Paz, Beth Shantal</strong> <br><br>
             TB1 <br> Fomenté un entorno colaborativo e inclusivo dentro del equipo, estableciendo metas claras, planificando tareas de manera estratégica y cumpliendo los objetivos propuestos. Esta experiencia fortaleció mis habilidades blandas en organización y liderazgo compartido, y permitió culminar con éxito el Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br>
             <br>
             <br><br>
-            <strong>Tongo Alejandro, Milagros Salet</strong> <br>
+            <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Colaboré en la creación de un ambiente inclusivo y organizado, donde establecí metas claras, planifiqué tareas específicas y aseguré que se cumplieran los objetivos, trabajando de cerca con el equipo y revisando constantemente los avances.
             <br>
             <br>
         </td>
         <td>
-            Fusce mattis augue a nisl bibendum, quis fringilla neque scelerisque. Vivamus commodo libero eget venenatis imperdiet. Etiam imperdiet quam condimentum velit tempor porttitor. Suspendisse blandit nisl quis mauris vehicula faucibus.
+            Gracias a la planificación conjunta y a un ambiente de trabajo inclusivo, el equipo logró coordinarse eficazmente para alcanzar hitos clave del proyecto como las entrevistas, User Stories, Event Storming y el Product Backlog. Esta sinergia fue fundamental para avanzar con claridad hacia los objetivos establecidos.
         </td>
     </tr>
 </table>
@@ -283,49 +282,52 @@ Nuestro proyecto se centra en proporcionar una solución que optimice la gestió
 
 Nuestro proyecto agrícola surge a partir de la identificación de una necesidad no satisfecha en la gestión de productos agrícolas, ya que los productores enfrentan desafíos significativos en la supervisión y optimización de sus operaciones. La falta de herramientas precisas para el monitoreo y la toma de decisiones relacionadas con el riego, la conservación del suelo y la gestión de recursos agrícolas genera ineficiencias en sus procesos. Ante esta situación, hemos identificado una oportunidad para implementar una solución tecnológica que permita mejorar la eficiencia operativa y la calidad de los cultivos. Este software, a través del uso de dispositivos de monitoreo y análisis en tiempo real, proporcionará a los agricultores datos precisos sobre las condiciones de sus cultivos, optimizando decisiones clave y permitiendo un manejo más sostenible y rentable de sus recursos.
 
-**Misión**  
-Impulsar la transformación del sector agrícola mediante soluciones tecnológicas accesibles e innovadoras que optimicen la gestión de cultivos, mejoren la toma de decisiones y promuevan una agricultura más sostenible, eficiente y rentable para los productores.
+**Misión:** Impulsar la transformación del sector agrícola mediante soluciones tecnológicas accesibles e innovadoras que optimicen la gestión de cultivos, mejoren la toma de decisiones y promuevan una agricultura más sostenible, eficiente y rentable para los productores.
 
-**Visión**  
-Ser la plataforma líder en innovación agrícola en Latinoamérica, reconocida por empoderar a los productores con herramientas inteligentes que revolucionan la forma en que cultivan, cuidan y gestionan sus recursos.
+**Visión:**  Ser la plataforma líder en innovación agrícola en Latinoamérica, reconocida por empoderar a los productores con herramientas inteligentes que revolucionan la forma en que cultivan, cuidan y gestionan sus recursos.
 
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-#### - Diego Jose Acuña Gomez
+##### Diego Jose Acuña Gomez
 Mi nombre es Diego Jose Acuña Gomez, tengo 23 años y actualmente estudio en la UPC, donde curso el noveno ciclo de Ingeniería de Software. Me especializo en desarrollo FrontEnd, con experiencia sólida en Angular, y me interesa mucho el enfoque ágil para colaborar eficientemente en equipo y construir productos de valor. Además, estoy explorando el mundo de la ciberseguridad como parte de mi formación profesional.
+
 <img src="./assets/Diego.png" width="300"/>
 
-#### - Favio Sebastián Landeo Simeón
+##### Favio Sebastián Landeo Simeón
 
 Tengo 20 años y actualmente estoy cursando el noveno ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos.
 
 <img src="./assets/Favio.jpg" width="300"/>
 
-#### - Jean Pierre Morin Fuentes
+##### Jean Pierre Morin Fuentes
 Mi nombre es Jean Pierre Morin Fuentes tengo 21 años, estoy  el noveno ciclo de la carrera ingenieria de software. Durante la carrera he podido conocer distintas herramientas, frameworks y lenguajes de programacion, de los cuales manejo, C++, Python, C#, Java, HTML entre otros.
 
 <img src="./assets/Jean.jpeg" width="300"/>
 
-#### - Anatoly Andrey Noriega Suschenko
+##### Anatoly Andrey Noriega Suschenko
 
 Mi nombre es Anatoly Andrey Noriega Suschenko y soy muy apasionado a los videojuegos y a la programación en general. Actualmente tengo 20 años y estoy cursando el séptimo ciclo de mi carrera. Tengo cierto conocimiento y habilidad con los frameworks de Angular, Flutter y Vue. Domino lenguajes como C++, Python, Java, C#, HTML, CSS, GML, Javascript, entre otros.
 
 <img src="./assets/Anatoly.png" width="300"/>
 
-#### - Beth Shantal Oneglio De Paz
+##### Beth Shantal Oneglio De Paz
 
 Mi nombre es Beth Shantal Oneglio De Paz - u202213423, tengo 20 años y estudio Ingeniería de Software en la UPC. Disfruto trabajar en equipo y resolver problemas digitales. Estoy capacitada para enfrentar situaciones estresantes con responsabilidad y liderazgo. Poseo conocimientos avanzados en gestión y programación, adquiridos en ciclos anteriores. Manejo lenguajes y tecnologías como Python, C++, HTML5, CSS3, .NET, Vue.js, C#, JavaScript, PHP, MongoDB, MySQL, entre otras.
 
 <img src="./assets/Beth Foto.jpg" width="300"/>
 
-#### - Milagros Salet Tongo Alejandro
+##### Milagros Salet Tongo Alejandro
 
 Mi nombre es Milagros Salet Tongo Alejandro. Soy estudiante de Ingeniería de Software, en el séptimo ciclo, con experiencia en frontend y backend. Manejo frameworks como Angular y Vue, lo que me ha permitido desarrollar proyectos completos. Me considero una persona sociable y generosa, disfruto trabajando en equipo y creo que aprender de los demás es fundamental para mejorar tanto profesional como personalmente.
 
 <img src="./assets/Milagros.jpg" width="300"/>
 
 ## 1.2 Solution Profile
+
+Product Name: El nombre elegido para nuestra solución es Grow With Me. Este nombre transmite la idea de crecimiento conjunto entre los productores agrícolas y nuestra plataforma. El proyecto surge a partir de la identificación de una necesidad insatisfecha en la gestión de productos y operaciones agrícolas.
+
+Product Description: La solución IoT Grow With Me es innovadora, ya que integra tecnologías inteligentes para transformar la gestión agrícola tradicional. A través de sensores conectados y una plataforma digital intuitiva, permite a los productores monitorear en tiempo real variables clave como humedad del suelo, temperatura, estado de los cultivos y rendimiento de sus operaciones.
 
 Se encuentra compuesta por 2 secciones:
 
@@ -335,61 +337,56 @@ Se encuentra compuesta por 2 secciones:
 
 ### 1.2.1 Antecedentes y problemática
 
-### Antecedentes
+En los últimos años, el sector agrícola ha enfrentado transformaciones significativas impulsadas por factores globales. Una de las principales preocupaciones es la creciente demanda de alimentos, impulsada por el constante aumento de la población mundial. Según la FAO, para el año 2050 será necesario incrementar en al menos un 70% la producción de alimentos para satisfacer las necesidades de una población global en expansión. Esto impone una enorme presión sobre los sistemas agrícolas actuales, que deben adaptarse para ser más productivos sin comprometer la sostenibilidad.
 
--Creciente demanda de alimentos debido al aumento de la población mundial.
+A esta demanda se suma la urgencia de enfrentar los desafíos derivados del cambio climático. Las condiciones climáticas cada vez más impredecibles afectan directamente el rendimiento de los cultivos, alterando los ciclos agrícolas tradicionales y generando pérdidas considerables. Además, existe una creciente necesidad de adoptar prácticas agrícolas sostenibles que garanticen la conservación del suelo, el uso eficiente del agua y la reducción del impacto ambiental.
 
--Necesidad de aumentar la productividad agrícola para satisfacer esta demanda.
+Uno de los grandes retos que enfrentan los productores es la dificultad para monitorear y optimizar el crecimiento de los cultivos en tiempo real. Muchos procesos aún se realizan de forma manual o carecen de datos precisos que permitan tomar decisiones informadas. Esta falta de control no solo reduce la eficiencia, sino que también pone en riesgo la calidad y seguridad de los productos que llegan al consumidor final.
 
--Desafíos asociados con el cambio climático y la sostenibilidad.
-
--Dificultad para monitorear y optimizar el crecimiento de los cultivos.
-
--Preocupaciones sobre la calidad y seguridad de los productos.
+En este contexto, surge la necesidad de implementar soluciones tecnológicas innovadoras que mejoren la productividad, aseguren la calidad de los alimentos y contribuyan a una agricultura más inteligente y resiliente. La tecnología IoT aplicada a la agricultura —como la que propone Grow With Me— representa una respuesta directa a estas problemáticas, permitiendo a los productores optimizar sus operaciones y responder de manera más ágil y eficiente a los desafíos del sector.
 
 ### Problemática (5Ws y 2Hs)
 
-### What/Qué
-
-#### ¿Cuál es el problema?
+##### What (Qué)
+##### ¿Cuál es el problema?
 
 La gestión de productos agrícolas y la optimización de operaciones para productores en la industria agrícola.
 
-### Where / Dónde
+#### Where (Dónde)
 
-#### ¿Dónde está el usuario cuando usa el producto?
+##### ¿Dónde está el usuario cuando usa el producto?
 
 En áreas rurales y regiones agrícolas, campos de cultivos o huertas.
 
-#### ¿Dónde surge el problema?
+##### ¿Dónde surge el problema?
 
 En las grandes y pequeñas empreas agricolas , asi como agricolas independientes.
 
-### Why / Por Qué
+##### Why (Por Qué)
 
-#### ¿Cuál es la causa del problema?
+##### ¿Cuál es la causa del problema?
 
 Debido a la creciente demanda de alimentos, la necesidad de aumentar la productividad agrícola y los desafíos asociados con el cambio climático y la sostenibilidad.
 
-### When / Cuándo
+##### When (Cuándo)
 
-#### ¿Cuándo sucede el problema?
+##### ¿Cuándo sucede el problema?
 
 Cuando la población mundial está en constante crecimiento y la presión sobre la producción agrícola es cada vez mayor debido a factores como el cambio climático
 
-### Who / Quién
+##### Who (Quién)
 
-#### ¿Quiénes están involucrados?
+##### ¿Quiénes están involucrados?
 
 Productores agrícolas, empresas grandes y pequeñas del sector agroindustrial.
 
-### How / Cómo
+##### How (Cómo)
 
-#### ¿En qué condiciones los usuarios usan nuestro producto?
+##### ¿En qué condiciones los usuarios usan nuestro producto?
 
 Utilizando celulares, tablets, donde tienen colaboraciones con expertos en agricultura y desarrollo de soluciones personalizadas.
 
-#### ¿Cómo nos conoceran los usuarios?
+##### ¿Cómo nos conoceran los usuarios?
 
 Los usuarios pueden conocer nuestra plataforma a través de diversas vías. Algunas de las más comunes incluyen:
 
@@ -397,35 +394,41 @@ Los usuarios pueden conocer nuestra plataforma a través de diversas vías. Algu
 - Redes sociales: Publicaciones, anuncios o menciones en plataformas como Facebook, Twitter, Instagram, entre otras.
 - Colaboraciones con influencers: Asociaciones con figuras prominentes en el mundo de la literatura y el arte que promueven la plataforma a sus seguidores.
 
-### How much / Cuánto
+##### How much (Cuánto)
 
 El impacto económico puede variar según el alcance y la implementación de las soluciones propuestas, pero el potencial de mejora en eficiencia y calidad es significativo.
+
+Conclusión (5W y 2H):  La gestión agrícola enfrenta retos por el cambio climático y la creciente demanda de alimentos. *Grow With Me* surge como una solución tecnológica accesible para productores, mejorando eficiencia y calidad en zonas rurales. Su impacto es significativo y su difusión se apoya en redes sociales, recomendaciones y alianzas estratégicas.
 
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1 Lean UX Problem Statements
 
-El desafío de los agricultores esta en la monitorización del crecimiento de cultivos, ya que la falta de herramientas efectivas para monitorear el crecimiento de los cultivos dificulta la identificación temprana de problemas, como condiciones climáticas adversas, lo que resulta en pérdidas de cosechas y disminución de la calidad de los productos, por otro lado Los productores agrícolas luchan por optimizar sus operaciones debido a la falta de herramientas, desde la planificación de cultivos hasta la gestión de la mano de obra y la logística, lo que limita su capacidad para aumentar la eficiencia y la productividad
+El desafío que enfrentan los agricultores radica principalmente en la monitorización del crecimiento de los cultivos, ya que la falta de herramientas efectivas dificulta la detección temprana de problemas, como condiciones climáticas adversas, plagas o deficiencias nutricionales. Esto puede resultar en pérdidas significativas de cosechas y una disminución de la calidad de los productos agrícolas. Además, los productores agrícolas luchan por optimizar sus operaciones, debido a la ausencia de herramientas que faciliten desde la planificación de cultivos hasta la gestión de la mano de obra y la logística, lo que limita su capacidad para mejorar la eficiencia y productividad en sus actividades.
+
+Nuestra solución, "Grow With Me", está diseñada específicamente para resolver estos problemas. Nos enfocaremos en proporcionar herramientas inteligentes y accesibles para los agricultores, permitiéndoles monitorear el crecimiento de los cultivos en tiempo real, detectar problemas tempranos y tomar decisiones informadas. Con nuestra plataforma, los agricultores podrán optimizar cada etapa del proceso agrícola, desde la planificación hasta la cosecha, gestionando mejor los recursos y las operaciones logísticas, lo que se traducirá en mayor productividad y calidad en los productos.
+
+Sabemos que los agricultores necesitan soluciones prácticas y eficaces, por lo que "Grow With Me" proporcionará información en tiempo real, alertas personalizadas y herramientas de gestión adaptadas a sus necesidades específicas. Esto les permitirá mejorar la rentabilidad, reducir pérdidas y lograr operaciones más sostenibles y eficientes.
 
 #### 1.2.2.2 Lean UX Assumptions
 
-#### Features
+##### Features
 
 - Herramientas de monitorización del crecimiento de cultivos: Sensores agrícolas para recopilar datos sobre condiciones ambientales, humedad del suelo, y salud de los cultivos.
 - Plataforma integrada de gestión agrícola: Suite de herramientas que abarca la planificación de cultivos, gestión de la mano de obra, monitoreo de inventario, programación de riego, y seguimiento de costos y funcionalidades de análisis de datos para identificar áreas de mejora y optimizar la eficiencia operativa en todas las etapas de la producción agrícola.
 
-#### Business Outcomes
+##### Business Outcomes
 
 - Mejora de la eficiencia operativa: Reducción de los tiempos de inactividad y los costos asociados con la gestión manual de inventario y la resolución de problemas en la cadena de suministro y optimización de los procesos agrícolas mediante la automatización y la aplicación de datos en tiempo real para la toma de decisiones.
 
 - Aumento de la rentabilidad: Reducción de las pérdidas debido a errores en la gestión de inventario, enfermedades de cultivos no detectadas y problemas logísticos y mejora de la productividad y la calidad de los productos agrícolas, lo que puede traducirse en mayores márgenes de beneficio para los productores.
 - Reducción de riesgos y cumplimiento normativo: Mayor capacidad para responder rápidamente a problemas emergentes, como brotes de enfermedades o eventos climáticos extremos, minimizando el impacto en la producción y la distribución.
 
-#### Users
+##### Users
 
 Los usuarios son productores agrícolas, empresas agroindustriales grandes y pequeñas y expertos en agricultura.
 
-#### User Outcomes & Benefits
+##### User Outcomes & Benefits
 
 - Productores agrícolas: Granjas y agrícolas que cultivan una variedad de productos, desde cultivos básicos hasta productos de especialidad
 
@@ -433,33 +436,33 @@ Los usuarios son productores agrícolas, empresas agroindustriales grandes y peq
 
 - Expertos en agricultura: Agrónomos, investigadores y consultores que proporcionan asesoramiento técnico y estratégico a los productores agrícolas para mejorar sus prácticas y rendimiento.
 
-#### User assumptions
+##### User assumptions
 
-#### ¿Quién es el usuario?
+##### ¿Quién es el usuario?
 
 El usuario es típicamente un productor agrícola o un gerente de una empresa agroindustrial que busca mejorar la eficiencia y calidad de la producción agrícola.
 
-#### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
+##### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
 
 Nuestro producto encaja en su día a día al facilitar la gestión de productos agrícolas, desde el cultivo hasta la distribución, optimizando operaciones y mejorando la calidad del producto final.
 
-#### ¿Qué problema resuelve nuestro producto?
+##### ¿Qué problema resuelve nuestro producto?
 
 Nuestro producto resuelve problemas como la ineficiencia en la gestión de inventario, y la dificultad para monitorear el crecimiento de cultivos, mejorando la eficiencia operativa y la calidad de la producción agrícola.
 
-#### ¿Cuándo y cómo es usado nuestro producto?
+##### ¿Cuándo y cómo es usado nuestro producto?
 
 Nuestro producto es utilizado a lo largo de todo el ciclo de producción agrícola, desde la planificación de cultivos hasta la distribución, a través de una plataforma digital accesible desde dispositivos móviles o computadoras.
 
-#### ¿Qué características son importantes?
+##### ¿Qué características son importantes?
 
 Las caracteristicas de seguimiento de la cadena de suministro en tiempo real, gestión automatizada de inventario, herramientas de monitorización de cultivos, trazabilidad de productos, y análisis de datos para la toma de decisiones informadas.
 
-#### ¿Cómo debería verse y comportarse nuestro producto?
+##### ¿Cómo debería verse y comportarse nuestro producto?
 
 Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualizaciones claras de datos y herramientas de análisis poderosas. Debería ser confiable, escalable y adaptable a las necesidades específicas de cada usuario.
 
-#### Business Assumptions
+##### Business Assumptions
 
 1. **Creemos que nuestros clientes necesitan** una solución que les permita gestionar eficientemente sus operaciones agrícolas, desde el cultivo hasta la distribución, mejorando la eficiencia y la calidad de la producción.
 2. **Estas necesidades se pueden resolver con una** plataforma digital que integre funciones de seguimiento del clima, gestión de inventario, monitorización de cultivos y análisis de datos, proporcionando herramientas poderosas para la toma de decisiones informadas.
@@ -474,20 +477,44 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
-### Hipótesis 1
+A continuación, se presentan las hipótesis que proponen una solución a la problemática dentro de las funcionalidades de la solución tecnológica. Cada una de estas hipótesis es clara y cuantificable, lo que permitirá evaluar el éxito de manera objetiva. Es importante destacar que las métricas actuales corresponden a promedios generales de soluciones ya existentes.
+#### Hipótesis 1:
 
-**Creemos que** al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola
-**Sabremos que** los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados
+**Creemos que** al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola  
+**Sabemos que** los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados.
 
-### Hipótesis 2
+**Métricas:**
+- Reducción en el tiempo de inactividad de las operaciones en un **15%**.
+- Reducción de los costos operativos relacionados con el transporte y almacenamiento en un **10%**.
+- Aumento en la visibilidad de las operaciones (medido a través de la cantidad de información en tiempo real disponible para los productores).
+- Mejora en la coordinación de la cadena de suministro, reflejada en un **20%** de reducción en errores de logística.
 
-**Creemos** que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real
-**Sabremos que** los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha
+---
 
-### Hipótesis 3
+#### Hipótesis 2:
 
-**Creemos que** al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola
-**Sabremos que** los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas.
+**Creemos** que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real  
+**Sabemos que** los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha.
+
+**Métricas:**
+- Reducción en las pérdidas por enfermedades o plagas en un **25%** debido a la detección temprana.
+- Mejora en el rendimiento de los cultivos en un **20%**.
+- Aumento en la calidad de la cosecha, medido por un **10%** de mejora en la clasificación de calidad (porcentaje de cultivos que cumplen con estándares más altos).
+- Tiempo promedio de respuesta ante problemas identificados (plagas, enfermedades, deficiencias) disminuido en un **30%**.
+
+---
+
+#### Hipótesis 3:
+
+**Creemos que** al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola  
+**Sabemos que** los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas.
+
+**Métricas:**
+- Aumento de la productividad en un **15%** debido a decisiones más informadas sobre el manejo de cultivos, recursos y tiempos.
+- Incremento en la rentabilidad en un **10%** debido a la optimización de recursos y mejores prácticas agrícolas.
+- Porcentaje de usuarios que reportan estar satisfechos con las recomendaciones personalizadas (objetivo de **85%** o más).
+- Reducción de desperdicios de recursos (agua, fertilizantes, etc.) en un **20%**, gracias a las recomendaciones basadas en datos.
+
 
 #### 1.2.2.4 Lean UX Canvas
 
@@ -513,9 +540,9 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
     </TD> 
     <TD ROWSPAN=2>
       2. Resultados comerciales:
-      <p> Mejora en la calidad del producto
+      <p> Mejora en la calidad del producto.
       <p Reducción de pérdidas y desperdicios
-      <p> Aumento de la satisfacción del cliente
+      <p> Aumento de la satisfacción del cliente.
     </TD>
 	</TR>
 	<TR>
@@ -549,8 +576,8 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 	<TR>
 		<TD>
       8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?
-      <p> La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir , encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas. 
-      <p> Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio
+      <p> La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas. 
+      <p> Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio.
     </TD>
   </TR>
 </TABLE>
@@ -575,7 +602,7 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
       - Desea apoyo en su cultivo.
     </TD> 
     <TD>
-      - Edad: desde adultos jóvenes hasta adultos mayores.
+      - Edad: Desde adultos jóvenes hasta adultos mayores.
     </TD>
   </TR>
   <TR>
@@ -591,7 +618,6 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
     </TD>
   </TR>
 </TABLE>
-
 
 # Capítulo II: Requirements Elicitation & Analysis
 
