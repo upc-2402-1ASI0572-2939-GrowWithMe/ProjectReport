@@ -1413,7 +1413,19 @@ Asimismo, las Hipótesis formuladas sobre mejoras en productividad, reducción d
 
 # Bibliografía
 
----
+  Brandolini, A. (2019). Introducing EventStorming: An act of deliberate discovery. Leanpub.
+
+  Evans, E. (2003). Domain-driven design: Tackling complexity in the heart of software. Addison-Wesley.
+
+  Fowler, M. (2003). Patterns of enterprise application architecture. Addison-Wesley.
+
+  Gothelf, J., & Seiden, J. (2013). Lean UX: Applying lean principles to improve user experience. O'Reilly Media.
+
+  Newman, S. (2015). Building microservices: Designing fine-grained systems. O'Reilly Media.
+
+  Norman, D. A. (2013). The design of everyday things (Revised and expanded ed.). Basic Books.
+
+  Ray, P. P., & Dash, D. (2020). Internet of Things-based intelligent agriculture: A review. Springer.
 
 # Anexos
 
