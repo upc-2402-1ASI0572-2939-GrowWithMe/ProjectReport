@@ -1303,8 +1303,11 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 ---
 # Conclusiones
+Durante el desarrollo del presente trabajo, se ha validado que los agricultores enfrentan múltiples desafíos en la gestión de cultivos, especialmente relacionados con la falta de herramientas tecnológicas para el monitoreo en tiempo real, la toma de decisiones informadas y el manejo eficiente de recursos. A través del uso de enfoques como Lean UX, EventStorming y Domain-Driven Design, se ha podido identificar con precisión las necesidades de los usuarios y modelar una solución integral, modular y escalable.
 
----
+Los Problem Statements iniciales se confirmaron en las entrevistas realizadas, evidenciando que tanto agricultores como consultores buscan una solución intuitiva, personalizada y basada en datos. Las assumptions establecidas en el proceso de Lean UX fueron validadas en su mayoría, destacando el interés genuino de los usuarios por soluciones IoT si estas se presentan de forma simple y accesible.
+
+Asimismo, las Hipótesis formuladas sobre mejoras en productividad, reducción de pérdidas y toma de decisiones más estratégicas han sido respaldadas por los resultados obtenidos en las sesiones de co-creación y validación. El modelo de EventStorming permitió mapear con claridad los flujos de eventos clave, identificar pain points reales y definir los bounded contexts necesarios para estructurar el sistema de forma coherente.
 
 # Bibliografía
 
@@ -1313,3 +1316,4 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 # Anexos
 
 **Video de exposición TB1:**
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EcehXmgH2NRMlRyu5Gr-XooBEK6WQeXYv8HdTuGrfTgUxQ?e=2SUmZk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
