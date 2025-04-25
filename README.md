@@ -632,8 +632,9 @@ Dentro del mercado al que planeamos brindar una solución, pudimos identificar v
 ### 2.1.1 Análisis competitivo
 
 ¿Por qué llevar a cabo este análisis?
+
 Debemos llevar a cabo este análisis para poder saber en que se especializan nuestros competidores directos y poder encontrar algún aspecto en el que podamos destacar y llamar la atención del mercado objetivo.
-| Nombre                   | [GrowWithMe]                                                                                                                                                                                                                 | [Agrobit]                                                                                                                                                                                                                                                                                                                          | [Efemis]                                                                                                                                                  | [Agri]                                                                                                                      |
+| Nombre                   | GrowWithMe                                                                                                                                                                                                                 | Agrobit                                                                                                                                                                                                                                                                                                                          | Efemis                                                                                                                                                  | Agri                                                                                                                      |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Overview                 | Software de gestión agricola centrado en la capacitación del usuario que puede adaptarse a sus necesidades                                                                                                                   | Software enfocado en la gestión de procesos agrícolas y ganaderos con ayuda de herramientas de alta gama                                                                                                                                                                                                                           | Software de hispatec que gestiona procesos agrícolas utilizando herramientas de alta gama                                                                 | Agri es una solución de software latina que permite gestionar campos de cultivo de forma centralizada                       |
 | Ventaja Competitiva      | Esta aplicación está entrada en el usuario y su adaptabilidad, brindandole a este una opción cómoda al alcane de sus manos                                                                                                   | Uso de herramientas de alta gama como imagenes satelitales que son una alternativa que brinda una seguridad total                                                                                                                                                                                                                  | Este software modular, está diseñado para que el usuario quiera añadir más funcionalidades que se acoplen a sus necesidades                               | Empresa latinoamericana con la que los usuarios se sienten más cómodos                                                      |
@@ -649,22 +650,24 @@ Debemos llevar a cabo este análisis para poder saber en que se especializan nue
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
 Nos enfocaremos en el sector que no cuenta con tecnología, brindando una solución accesible e intuitiva para que personas que no están familiarizadas con el apartado tecnológico puedan dominar para el uso eficiente de sus recursos.
-<br><br>
-**Estrategia general**: Diferenciacición <br>
-**Objetivo principal:** Destacar ante la competencia enfocandonos en hacer un producto que pueda satisfacer necesidades específicas de nuestros segmentos objetivos.
-<br> <br>
-**Estrategias Clave:**<br>
 
-<ul>
-    <li>Enfoque al usuario: Concentrarse en hacer mejoras basadas en lo que nuestros clientes soliciten </li>
-    <li>Control de usuarios: Nuestra aplicación contará con una red interconectada de usuarios en las que se puede llevar un control de los trabajadores bajo el mando del usuario administrador</li>
-</ul>
+| **Estrategia/Táctica**       | **Medidas a tomar**                                                                                  |
+|-------------------|------------------------------------------------------------------|
+| **Estrategia General**       | **Diferenciación**                                                                                   |
+| **Objetivo Principal**       | Destacar ante la competencia enfocándonos en hacer un producto que pueda satisfacer necesidades específicas de nuestros segmentos objetivos. |
+| **Estrategia/Táctica 1**     | **Enfoque al usuario**: Concentrarse en hacer mejoras basadas en lo que nuestros clientes soliciten. |
+| **Medidas a tomar 1**        | Realizar encuestas y obtener retroalimentación constante de los usuarios para identificar mejoras y necesidades específicas. |
+| **Estrategia/Táctica 2**     | **Control de usuarios**: Control y gestión de usuarios dentro de la aplicación.                      |
+| **Medidas a tomar 2**        | Implementar una red interconectada en la que el usuario administrador pueda gestionar y controlar a los trabajadores, monitorizando su rendimiento. |
 
 ## 2.2 Entrevistas
 
 ### 2.2.1 Diseño de entrevistas
 
-**Segmento 1: Agricultores y pymes agrícolas**<br>
+Se diseñaron entrevistas dirigidas a los dos segmentos objetivos definidos para el proyecto. Las preguntas fueron formuladas con el propósito de generar respuestas abiertas y detalladas, lo que permitirá obtener información valiosa para comprender mejor sus necesidades. Es importante señalar que las preguntas de introducción no están incluidas en esta lista, ya que se realizarán al inicio de cada entrevista.
+
+**Segmento Objetivo 1: Agricultores y pymes agrícolas**
+
 1. ¿Cuáles son los cultivos principales que gestionas y qué factores consideras más importantes al tomar decisiones sobre su riego?
 2. ¿Cuáles son los mayores desafíos que enfrentas en la gestión del riego en tus cultivos?
 3. ¿Qué herramientas o tecnologías utilizas actualmente para gestionar el riego y cómo impactan en la eficiencia de tus cultivos?
@@ -676,7 +679,8 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 9. ¿Qué beneficios esperarías de una solución que te ayude a gestionar el riego de manera más precisa y optimizada según las condiciones reales de tus cultivos?
 10. ¿Te gustaría que la solución te ayudara también con la gestión de otros recursos agrícolas, como fertilizantes o control de plagas?
 
-**Segmento 2: Consultores agrícolas**<br>
+**Segmento Objetivo 2: Consultores agrícolas**
+
 1. ¿Cómo crees que la tecnología puede mejorar la gestión del riego en los cultivos?
 2. ¿Qué desafíos has identificado en el sector agrícola con respecto a la eficiencia del uso del agua y el riego?
 3. ¿Qué tecnologías o soluciones actuales ves como más prometedoras para mejorar el manejo del riego en la agricultura?
@@ -690,7 +694,7 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 ### 2.2.2 Registro de entrevistas
  
-**Segmento 1: Agricultores y pymes agrícolas**
+**Segmento Objetivo 1: Agricultores y pymes agrícolas**
 
 Todas la entrevistas se encuentran en el siguiente URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EUjElqA2GVNOuGcMu_3hJJYBPi5VQ-bHC4DnneCE9LZhDw?e=x9rtA0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
@@ -711,7 +715,7 @@ Todas la entrevistas se encuentran en el siguiente URL: <https://upcedupe-my.sha
 |                            <center> <img src="./assets/entrevista_gabriela.png" width="600"/> </center>                             |                                                                                                                                                                                                                                                                    <center>Gabriela Nomberto es una agricultora dedicada al cultivo de zanahorias, lechugas y ocasionalmente papas desde 2022. Considera fundamentales factores como el tipo de suelo, el clima y la etapa de crecimiento para decidir el riego. Utiliza riego por aspersión manual y aplicaciones móviles para pronósticos climáticos, aunque señala que no siempre son precisas. Ha probado sensores de humedad, pero menciona que suelen dañarse por las lluvias. Para ella, una app que gestione el riego de forma precisa sería muy útil, y está interesada en herramientas que también optimicen recursos como fertilizantes y control de plagas.</center>                                                                                                                                                                                                                                                                     |
 |                         <center>Timing: </center>                         |                                                                                                                                                                                                                                                                  <center>URL: </center>                                                                                                                                                                                                                                                                   |
 
-**Segmento 2: Consultores agrícolas**
+**Segmento Objetivo 2: Consultores agrícolas**
 
 |                              **Entrevista 1**                              |                                                                                                                                                                                                                                                                                                                                                 **Jeyson Alejandro Rocca**                                                                                                                                                                                                                                                                                                                                                  |
 | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -730,45 +734,80 @@ Todas la entrevistas se encuentran en el siguiente URL: <https://upcedupe-my.sha
 | <center> <img src="" width="600"/> </center>  |                              <center>Camila Pinedo señala que la tecnología puede optimizar el riego agrícola al hacerlo más preciso y eficiente. Identifica como principales retos la falta de acceso, capacitación y resistencia al cambio. Destaca el potencial de sensores, automatización e inteligencia artificial para mejorar el manejo del agua. Considera que una app con datos del suelo y clima facilitaría decisiones más acertadas. Aunque algunos agricultores están preparados, muchos necesitan capacitación y soporte. Finalmente, resalta que toda solución debe ser simple, adaptable y diseñada con enfoque local. </center>                               |
 |                         <center>Timing: </center>                          |                                                                                                                                                                                                                                                                                                                                                   <center>URL: </center>                                                                                                                                                                                                                                                                                                                                                    |
 
+### 2.2.3. Análisis de entrevistas
+
+Tras realizar las entrevistas con los dos segmentos objetivos, se destaca que tanto los agricultores como los consultores agrícolas enfrentan desafíos relacionados principalmente con el uso ineficiente del agua, el riego irregular, y la falta de herramientas tecnológicas accesibles. En general, existe una necesidad de soluciones tecnológicas que ayuden a mejorar la gestión de recursos agrícolas, con un enfoque en el riego eficiente y el control de plagas.
+
+Los agricultores, en su mayoría, están familiarizados con herramientas tradicionales y están dispuestos a adoptar nuevas tecnologías, siempre que sean sencillas, económicas y que proporcionen resultados visibles rápidamente. Las dificultades radican en la resistencia al cambio y la falta de capacitación en el uso de nuevas tecnologías, especialmente fuera de áreas urbanas como Lima.
+
+Por otro lado, los consultores agrícolas coinciden en la importancia de la automatización, el uso de sensores, y la incorporación de inteligencia artificial para gestionar los recursos de manera más eficiente. Sin embargo, también destacan que la capacitación continua es crucial para la correcta adopción de estas tecnologías, ya que muchos agricultores carecen de los conocimientos necesarios para implementar soluciones avanzadas.
+
+En resumen, las entrevistas revelan que tanto los agricultores como los consultores coinciden en que las tecnologías actuales no cumplen completamente con las necesidades del sector, y existe una gran oportunidad para desarrollar herramientas más accesibles, personalizadas y fáciles de usar.
+
 ## 2.3 Needfinding
+
+En esta sección, se buscarán las necesidades implícitas y explícitas de las personas o segmentos para poder diseñar y adaptar el producto solución de manera apropiada.
 
 ### 2.3.1 User Personas
 
+Se crean los **User Persona**, personajes ficticios que representan al cliente ideal, a partir de la investigación realizada en los capítulos anteriores. Estos perfiles se desarrollan para identificar los distintos tipos de usuarios que podrían hacer uso de la solución propuesta. La herramienta utilizada para la creación de estos **User Persona** fue **UXPressia**.
+
 ![UserPersonFarmer](assets/UserPersonaFarmer.png)
+
 ![UserPersonaConsultant](assets/UserPersonaConsultant.png)
 
 ### 2.3.2 User Task Matrix
 
+A continuación, se presenta la **Matriz de Tareas de Usuario** para los siguientes segmentos objetivo.
+
+
 | **User Task Matrix**                           | **Aldo Gómez (Agricultor)** |                  | **Antonio Herrera (Consultor)** |                  |
 |------------------------------------|------------------------------|------------------|----------------------------------|------------------|
-|                                    | **Frecuencia**               | **Importancia**  | **Frecuencia**                   | **Importancia**  |
-| Planificar el cultivo de la temporada | Media                       | Alta             | Media                            | Alta             |
-| Comunicarse con trabajadores       | Media                        | Alta             | Media                            | Alta             |
-| Seguimiento de cultivos            | Alta                         | Alta             | Alta                             | Alta             |
-| Revisión de pronóstico del clima   | Media             | Media            | Media                            | Alta             |
-| Riego de plantas                   | Baja          | Alta             | Baja                             | Alta             |
-| Identificación de pestes           | Baja          | Alta             | Media                            | Alta             |
-| Peaje de cosechas                  | Baja                         | Alta             | Baja                             | Alta             |
+|                                    | **Frequency**               | **Importance**  | **Frequency**                   | **Importance**  |
+| Planificar el cultivo de la temporada | Medium                       | High             | Medium                            | High             |
+| Comunicarse con trabajadores       | Medium                        | High             | Medium                            | High             |
+| Seguimiento de cultivos            | High                         | High             | High                             | High             |
+| Revisión de pronóstico del clima   | Medium             | Medium            | Medium                            | High             |
+| Riego de plantas                   | Low          | High             | Low                             | High             |
+| Identificación de pestes           | Low          | High             | Medium                            | High             |
+| Peaje de cosechas                  | Low                         | High             | Low                             | High             |
+
+**Tareas con Mayor Frecuencia e Importancia:**
+
+- **Frecuencia:**
+  - *Seguimiento de cultivos* (Alta)
+
+- **Importancia:**
+  - *Seguimiento de cultivos* (Alta)
+
+**Principales diferencias y coincidencias:**
+
+- **Coincidencias:**
+  - Ambos perfiles coinciden en que el *seguimiento de cultivos* tiene alta frecuencia e importancia.
+  
+- **Diferencias:**
+  - Un perfil tiene tareas de alta importancia como *Planificar el cultivo de la temporada*, *Comunicarse con trabajadores* y *Identificación de pestes*, que no son tan destacadas en el otro perfil.
+  - El otro perfil se enfoca más en tareas relacionadas con *Revisión de pronóstico del clima* y *Riego de plantas*, las cuales tienen más importancia para él que para el primero.
 
 ### 2.3.3 User Journey Mapping
 
-**Segmento 1: Agricultores y pymes agrícolas** <br>
+**Segmento Objetivo 1: Agricultores y pymes agrícolas** <br>
 ![UserJourneyFarmer](assets/UserJourneyFarmer.png) <br>
-**Segmento 2: Consultores agrícolas** <br>
+**Segmento Objetivo 2: Consultores agrícolas** <br>
 ![UserJourneyConsultant](assets/UserJourneyConsultant.png)
 
 ### 2.3.4 Empathy Mapping
 
-**Segmento 1: Agricultores y pymes agrícolas** <br>
+**Segmento Objetivo 1: Agricultores y pymes agrícolas** <br>
 ![EmpathyMapFarmer](assets/EmpathyMapFarmer.png) <br>
-**Segmento 2: Consultores agrícolas** <br>
+**Segmento Objetivo 2: Consultores agrícolas** <br>
 ![EmpathyMapConsultant](assets/EmpathyMapConsultant.png)
 
 ### 2.3.5 As-is Scenario Mapping
 
-**Segmento 1: Agricultores y pymes agrícolas** <br>
+**Segmento Objetivo 1: Agricultores y pymes agrícolas** <br>
 ![AsIsMapFarmer](assets/AsIsMapFarmer.png)
-**Segmento 2: Consultores agrícolas** <br>
+**Segmento Objetivo 2: Consultores agrícolas** <br>
 ![AsIsMapConsultant](assets/AsIsMapConsultant.png)
 
 ## 2.4 Ubiquitous Language
@@ -795,11 +834,11 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 
 Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el flujo de trabajo después de la implementación de nuestra solución, GrowWithMe, para ambos segmentos objetivos. El propósito de este artefacto es comparar y abordar los aspectos negativos identificados en el As-is Scenario.
 
-**Segmento 1: Agricultores y pymes agrícolas**
+**Segmento Objetivo 1: Agricultores y pymes agrícolas**
 
 <img src="./assets/To Be Agricultores.png" width="600"/>
 
-**Segmento 2: Consultores agrícolas**
+**Segmento Objetivo 2: Consultores agrícolas**
 
 <img src="./assets/To Be Consultores.png" width="600"/>
 
@@ -848,12 +887,14 @@ Enlace del Miro: [To-Be Scenario Mapping](https://miro.com/welcomeonboard/bno3SF
 
 ## 3.3. Impact Mapping
 
-**Segmento 1: Agricultores y pymes agrícolas** <br>
+**Segmento Objetivo 1: Agricultores y pymes agrícolas** <br>
 ![ImpactMapAgricultor](assets/ImpactMapAgricultor.png) <br>
-**Segmento 2: Consultores agrícolas** <br>
+**Segmento Objetivo 2: Consultores agrícolas** <br>
 ![ImpactMapConsultor](assets/ImpactMapConsultor.png) <br>
 
 ## 3.4. Product Backlog
+
+A continuación, se presentará la herramienta Product Backlog, que consiste en una lista de tareas organizadas por prioridad para el equipo de desarrollo de Grow With Me.
 
 | # Orden | User/Technical Story ID | Título                           | Descripción                                                                                      | Story Points (1/2/3/5/8) |
 |---------|-------------------------|----------------------------------|--------------------------------------------------------------------------------------------------|--------------------------|
@@ -897,57 +938,57 @@ Para la sesión de event storming nosotros tuvimos una reunión donde expusimos 
 
 Aquí mostraremos como fue nuestro desarrollo del event storming realizado mediante la herramienta Miro.
 
-URL: https://miro.com/welcomeonboard/SlNLYy9Sakh3MVJRQWxGaC85bjFVU24xWFBFSUNXTytseHp0clVIdS9vcEdqWEp4Y2VXWHJac0lkbFlVVzFPWTg4ZjBiR2hOeHo3MWZkenIvd01NdGFCb1FxZEVieThFekJjNzNkVXhjMUtieWhUL1NPdisrdFE0MnV1UWJHTCtyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=322623245739
+Enlace del Miro: https://miro.com/welcomeonboard/SlNLYy9Sakh3MVJRQWxGaC85bjFVU24xWFBFSUNXTytseHp0clVIdS9vcEdqWEp4Y2VXWHJac0lkbFlVVzFPWTg4ZjBiR2hOeHo3MWZkenIvd01NdGFCb1FxZEVieThFekJjNzNkVXhjMUtieWhUL1NPdisrdFE0MnV1UWJHTCtyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=322623245739
 
-**STEP 1**
+**Step 1:**
 
 ![Step1](assets/Step1.png)
 
 En esta etapa, se identificaron los eventos clave que representan las acciones significativas dentro del sistema. Estos eventos se agruparon según los diferentes segmentos de usuarios y las funcionalidades principales de la aplicación.
 
-**STEP 2: TIMELINES**
+**Step 2: Timelines**
 
 ![Step2](assets/Step2.png)
 
 Durante esta fase, los eventos identificados fueron agrupados en subgrupos liderados por un evento general que encapsula la función principal del grupo. Cada subgrupo incluyó tanto los happy paths, que representan los caminos ideales o exitosos de ejecución de los eventos, como los unhappy paths, que muestran los posibles problemas o situaciones no deseadas que pudieran surgir. Esto ayudó a estructurar los eventos de manera coherente y a comprender mejor las diferentes secuencias de acciones dentro del sistema.
 
-**Step 3: PAINT POINTS**
+**Step 3: Paint Points**
 
 ![Step3](assets/Step3.png)
 
 Durante el proceso, se identificaron los pain points o puntos problemáticos, que son áreas donde los usuarios pueden experimentar dificultades o fricciones en su interacción con la aplicación. Estos puntos son cruciales para mejorar la experiencia del usuario y optimizar el diseño del sistema.
 
-**Step 4: PIVOTAL POINTS**
+**Step 4: Pivotal Points**
 
 ![Step4](assets/Step4.png)
 
 Se señalaron los pivotal points o puntos clave, que son eventos críticos que marcan hitos importantes en el flujo de trabajo del sistema. Estos eventos suelen tener un impacto significativo en el comportamiento del sistema o en la experiencia del usuario.
 
-**Step 5: COMMANDS**
+**Step 5: Commands**
 
 ![Step5](assets/Step5.png)
 
 Cada evento se asoció con un comando específico que lo desencadena y un actor que lo realiza. Esto ayudó a clarificar quién es responsable de iniciar cada acción y cómo interactúan los diferentes usuarios con el sistema
 
-**Step 6: POLICIES**
+**Step 6: Policies**
 
 ![Step6](assets/Step6.png)
 
 Durante esta etapa, se identifican y definen las políticas relevantes para cada contexto del sistema. Estas políticas pueden incluir restricciones de negocio, reglas de validación o comportamientos específicos que deben seguirse en determinadas 
 
-**Step 7: READ MODELS**
+**Step 7: Read Models**
 
 ![Step7](assets/Step7.png)
 
 Durante esta fase, se diseñan y desarrollan los modelos de lectura para cada contexto del sistema, asegurando que proporcionen la información necesaria de manera eficiente y coherente
 
-**Step 8: EXTERNAL SYSTEMS**
+**Step 8: External Systems**
 
 ![Step8](assets/Step8.png)
 
 Durante esta etapa, se identifican los sistemas externos relevantes para cada contexto del sistema y se establecen las interfaces y comunicaciones necesarias para integrarlos de manera efectiva.
 
-**Step 9: AGGREGATES**
+**Step 9: Agregates**
 
 ![Step9](assets/Step9.png)
 
@@ -979,19 +1020,19 @@ En este proceso, se utilizó la técnica de start-with-value para identificar lo
 
 ![CandidateNotifications](assets/CandidateNotifications.png) 
 
-##### Diagrama completo
+##### Diagrama Completo:
 
 ![CandidateC](assets/CandidateC.png) 
 
 #### 4.1.1.2 Domain Message Flows Modeling
 
-**Agricultor**
+**Agricultor:**
 
 Scenario: El agricultor desea registrar un cultivo y recibir notificación
 
 ![](assets/FlowsModeling1.png)
 
-**Consultor**
+**Consultor:**
 
 Scenario: El consultor gestiona las consultas de los agricultores y genera recomendaciones
 
@@ -1000,25 +1041,27 @@ Scenario: El consultor gestiona las consultas de los agricultores y genera recom
 
 #### 4.1.1.3 Bounded Context Canvases
 
-**Profile**
+**Profile:**
 
 ![](assets/Profile.png)
 
-**Crops**
+**Crops:**
 
 ![](assets/Crops.png)
 
-**Notification**
+**Notification:**
 
 ![](assets/Notification.png)
 
-**IOT Devices**
+**IOT Devices:**
 
 ![](assets/Devices.png)
 
-Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU2svbFZtS01uSHljRW9jcDMwNFE2b1I0Q252Z0pxRkx6bnY0aG8zVDB3RnpkSVdIRTN4Tk9uNktCb1FxZEVieThFekJjNzNkVXhjMUtrM1hZbFhCL1VFYnlXQVUxaC90TFZBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=145713520841>
+Enlace: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU2svbFZtS01uSHljRW9jcDMwNFE2b1I0Q252Z0pxRkx6bnY0aG8zVDB3RnpkSVdIRTN4Tk9uNktCb1FxZEVieThFekJjNzNkVXhjMUtrM1hZbFhCL1VFYnlXQVUxaC90TFZBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=145713520841>
 
 ### 4.1.2. Context Mapping
+
+Se han identificado 4 contextos delimitados y se ha optado por utilizar los siguientes patrones:
 
 ### 4.1.3. Software Architecture
 
@@ -1044,12 +1087,12 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 #### 4.2.1.1. Domain Layer
 
-### Aggregate: Profile
+#### Aggregate: Profile
 
 - **Categoría**: Entity/Aggregate
 - **Propósito**: Representa al agricultor dentro del sistema, gestionando su información personal y preferencias relacionadas con los cultivos.
 
-#### Atributos
+#### Atributos:
 
 | Nombre      | Tipo de dato | Visibilidad | Descripción                                                      |
 |-------------|--------------|-------------|------------------------------------------------------------------|
@@ -1060,7 +1103,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 | preferences | String       | Private     | Preferencias del agricultor en cuanto a cultivos.                 |
 | history     | Set          | Private     | Lista de eventos o interacciones pasadas con el sistema.          |
 
-#### Métodos
+#### Métodos:
 
 | Nombre           | Tipo de retorno | Visibilidad | Descripción                                                |
 |------------------|-----------------|-------------|------------------------------------------------------------|
@@ -1074,7 +1117,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: La capa de interfaz se encarga de recibir las solicitudes de los usuarios y gestionarlas, enviando las respuestas adecuadas.
 
-#### Métodos / Componentes
+#### Métodos/Componentes
 
 | Método          | Tipo de retorno | Descripción                                                  |
 |-----------------|-----------------|--------------------------------------------------------------|
@@ -1082,7 +1125,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 | updateProfile() | Void            | Actualiza los datos del perfil del agricultor.                |
 | getHistory()    | Set             | Recupera el historial de interacciones y actividades pasadas. |
 
-#### Controlador
+#### Controlador:
 
 - **PerfilController**: Controlador que maneja las solicitudes HTTP para crear, actualizar y consultar perfiles de usuarios.
 
@@ -1090,7 +1133,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: La capa de aplicación coordina la lógica entre el dominio y la interfaz. Aquí se gestionan las transacciones y las operaciones de negocio.
 
-#### Servicios
+#### Servicios:
 
 | Servicio         | Métodos                              | Descripción                                                            |
 |------------------|--------------------------------------|------------------------------------------------------------------------|
@@ -1102,7 +1145,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: La capa de infraestructura se ocupa de la persistencia de datos y de los servicios que soportan la aplicación.
 
-#### Componentes
+#### Componentes:
 
 | Componente           | Descripción                                                   |
 |----------------------|---------------------------------------------------------------|
@@ -1131,7 +1174,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 - **Categoría**: Entity/Aggregate
 - **Propósito**: Representa un cultivo específico, incluyendo su tipo, fecha de siembra, necesidades de riego y otras condiciones de crecimiento.
 
-#### Atributos
+#### Atributos:
 
 | Nombre           | Tipo de dato | Visibilidad | Descripción                                                   |
 |------------------|--------------|-------------|---------------------------------------------------------------|
@@ -1142,7 +1185,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 | temperatureRange | String       | Private     | Rango de temperatura recomendado para el cultivo.             |
 | growthStage      | String       | Private     | Etapa actual del cultivo.                                     |
 
-#### Métodos
+#### Métodos:
 
 | Nombre             | Tipo de retorno | Visibilidad | Descripción                                                      |
 |--------------------|-----------------|-------------|------------------------------------------------------------------|
@@ -1155,7 +1198,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: Recibe las solicitudes del agricultor para gestionar los cultivos, actualizar su estado y consultar datos relacionados.
 
-### Métodos / Componentes
+#### Métodos/Componentes:
 
 | Método            | Tipo de retorno | Descripción                                                    |
 |-------------------|-----------------|---------------------------------------------------------------|
@@ -1163,7 +1206,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 | updateCrop()      | Void            | Actualiza los datos de un cultivo específico.                  |
 | getIrrigationStatus() | String       | Verifica y retorna el estado del riego de un cultivo.          |
 
-### Controlador
+#### Controlador:
 
 - **CropController**: Controlador que maneja las solicitudes HTTP para la creación, consulta y actualización de cultivos.
 
@@ -1171,7 +1214,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: Gestiona las operaciones y la lógica de negocio asociada con los cultivos, coordinando las acciones entre el **Domain Layer** y la **Interface Layer**.
 
-#### Servicios
+#### Servicios:
 
 | Servicio          | Métodos                              | Descripción                                                            |
 |-------------------|--------------------------------------|------------------------------------------------------------------------|
@@ -1182,7 +1225,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: Se encarga de la persistencia y el soporte tecnológico de la gestión de cultivos, como la base de datos y la conexión con dispositivos IoT.
 
-#### Componentes
+#### Componentes:
 
 | Componente                  | Descripción                                                        |
 |-----------------------------|--------------------------------------------------------------------|
@@ -1194,6 +1237,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 ![CropsComponentDiagram](assets/CropsComponentDiagram.png)
 
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![CropsDomainLayerClassDiagrams](assets/CropsDiagram.png)
@@ -1211,7 +1255,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 - **Categoría**: Entity/Aggregate
 - **Propósito**: Representa los dispositivos IoT que monitorean y controlan las condiciones del cultivo, como la humedad, temperatura, entre otros.
 
-#### Atributos
+#### Atributos:
 
 | Nombre       | Tipo de dato | Visibilidad | Descripción                                                     |
 |--------------|--------------|-------------|-----------------------------------------------------------------|
@@ -1220,7 +1264,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 | status       | String       | Private     | Estado del dispositivo (activo, inactivo).                      |
 | lastRead     | Date         | Private     | Fecha de la última lectura del dispositivo.                     |
 
-#### Métodos
+#### Métodos:
 
 | Nombre               | Tipo de retorno | Visibilidad | Descripción                                                     |
 |----------------------|-----------------|-------------|-----------------------------------------------------------------|
@@ -1229,12 +1273,11 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 | getDeviceStatus()    | String          | Public      | Retorna el estado actual del dispositivo IoT.                   |
 | sendData()           | Void            | Public      | Envia los datos recopilados por el dispositivo IoT.             |
 
-
 #### 4.2.3.2. Interface Layer
 
 - **Propósito**: Facilita la conexión y la comunicación con los dispositivos IoT, permitiendo al agricultor interactuar con ellos.
 
-#### Métodos / Componentes
+#### Métodos/Componentes:
 
 | Método              | Tipo de retorno | Descripción                                                     |
 |---------------------|-----------------|-----------------------------------------------------------------|
@@ -1242,7 +1285,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 | getDeviceStatus()    | String          | Verifica el estado actual del dispositivo IoT.                  |
 | sendData()           | Void            | Envía los datos recopilados por el dispositivo IoT al sistema.  |
 
-#### Controlador
+#### Controlador:
 
 - **DeviceController**: Controlador que maneja las solicitudes de conexión, desconexión y estado de los dispositivos IoT.
 
@@ -1250,7 +1293,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: Coordina la interacción entre los dispositivos IoT y el resto del sistema, gestionando las operaciones de activación y lectura de sensores.
 
-#### Servicios
+#### Servicios:
 
 | Servicio            | Métodos                             | Descripción                                                         |
 |---------------------|-------------------------------------|---------------------------------------------------------------------|
@@ -1261,7 +1304,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: Proporciona la infraestructura para la gestión y almacenamiento de los dispositivos IoT.
 
-#### Componentes
+#### Componentes:
 
 | Componente                    | Descripción                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
@@ -1273,7 +1316,9 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 ![DevicesComponentDiagram](assets/DevicesComponentDiagram.png)
 
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
+
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
+
 ![DevicesDomainLayerClassDiagrams](assets/DevicesDiagram.png)
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
@@ -1281,6 +1326,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 ![DevicesDatabaseDesignDiagram](assets/BoundedContextDatabaseDesignDiagramDevices.png)
 
 ### 4.2.4. Bounded Context: Notifications
+
 #### 4.2.4.1. Domain Layer
 
 ### Aggregate: Notification
@@ -1288,7 +1334,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 - **Categoría**: Entity/Aggregate
 - **Propósito**: Representa las notificaciones enviadas al agricultor, tales como alertas de riego, condiciones climáticas y recomendaciones del sistema.
 
-#### Atributos
+#### Atributos:
 
 | Nombre     | Tipo de dato | Visibilidad | Descripción                                                   |
 |------------|--------------|-------------|---------------------------------------------------------------|
@@ -1297,7 +1343,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 | type       | String       | Private     | Tipo de notificación (alerta, recomendación).                 |
 | timestamp  | Date         | Private     | Fecha y hora en que se envió la notificación.                  |
 
-#### Métodos
+#### Métodos:
 
 | Nombre               | Tipo de retorno    | Visibilidad | Descripción                                                      |
 |----------------------|--------------------|-------------|------------------------------------------------------------------|
@@ -1309,14 +1355,14 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: Gestiona las interacciones con el agricultor para enviarle notificaciones, como alertas sobre los cultivos, recomendaciones y actualizaciones.
 
-#### Métodos / Componentes
+#### Métodos/Componentes:
 
 | Método               | Tipo de retorno     | Descripción                                                     |
 |----------------------|---------------------|-----------------------------------------------------------------|
 | sendNotification()    | Void                | Envia una notificación al agricultor.                           |
 | getNotifications()    | List<Notificación>  | Recupera todas las notificaciones enviadas al agricultor.       |
 
-#### Controlador
+#### Controlador:
 
 - **NotificationController**: Controlador que maneja las solicitudes para generar y mostrar notificaciones.
 
@@ -1324,7 +1370,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: Se encarga de la lógica para crear las notificaciones y enviarlas al agricultor.
 
-#### Servicios
+#### Servicios:
 
 | Servicio            | Métodos               | Descripción                                                         |
 |---------------------|-----------------------|---------------------------------------------------------------------|
@@ -1336,7 +1382,7 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 
 - **Propósito**: Proporciona la infraestructura para enviar las notificaciones y almacenarlas.
 
-#### Componentes
+#### Componentes:
 
 | Componente                    | Descripción                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
@@ -1348,7 +1394,9 @@ Link: <https://miro.com/welcomeonboard/THQrMlgxMFliRW85VUt4enR0bW1MbUZ2TmtGNmJwU
 ![NotificationComponentDiagram](assets/NotificationComponentDiagram.png)
 
 #### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
+
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
+
 ![NotificationDomainLayerClassDiagrams](assets/NotificationsDiagram.png)
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
