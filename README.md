@@ -631,21 +631,134 @@ Dentro del mercado al que planeamos brindar una solución, pudimos identificar v
 
 ### 2.1.1 Análisis competitivo
 
-¿Por qué llevar a cabo este análisis?
 
-Debemos llevar a cabo este análisis para poder saber en que se especializan nuestros competidores directos y poder encontrar algún aspecto en el que podamos destacar y llamar la atención del mercado objetivo.
-| Nombre                   | GrowWithMe                                                                                                                                                                                                                 | Agrobit                                                                                                                                                                                                                                                                                                                          | Efemis                                                                                                                                                  | Agri                                                                                                                      |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Overview                 | Software de gestión agricola centrado en la capacitación del usuario que puede adaptarse a sus necesidades                                                                                                                   | Software enfocado en la gestión de procesos agrícolas y ganaderos con ayuda de herramientas de alta gama                                                                                                                                                                                                                           | Software de hispatec que gestiona procesos agrícolas utilizando herramientas de alta gama                                                                 | Agri es una solución de software latina que permite gestionar campos de cultivo de forma centralizada                       |
-| Ventaja Competitiva      | Esta aplicación está entrada en el usuario y su adaptabilidad, brindandole a este una opción cómoda al alcane de sus manos                                                                                                   | Uso de herramientas de alta gama como imagenes satelitales que son una alternativa que brinda una seguridad total                                                                                                                                                                                                                  | Este software modular, está diseñado para que el usuario quiera añadir más funcionalidades que se acoplen a sus necesidades                               | Empresa latinoamericana con la que los usuarios se sienten más cómodos                                                      |
-| Mercado Objetivo         | Nos enfocaremos en los pequeños y grandes agricultores que no hayan implementado tecnología para aligerar su carga laboral                                                                                                   | Se centra en el sector ganadero y agrícola que buscan implementar una solucion tecnológica con herramientas de gama alta, como imagenes satelitales                                                                                                                                                                                | Sector agrícola grande que busca una solución de software para agilizar procesos                                                                          | Está centrado en pequeñas, medianas y grandes empresas agrícolas                                                            |
-| Estrategias de marketing | Nos acercaremos a los empresarios agrícolas que no confían en la tecnología para que podamos demostrar la eficacia de esta                                                                                                   | Se promociona mediante publicidad como google ads, correos,etc.                                                                                                                                                                                                                                                                    | Utiliza publicidad y estrategias de marketing                                                                                                             | Agri usa sus redes sociales como Instagram y Linkedin para poder difundir sus propuestas de valor                           |
-| Productos y Servicios    | Ofrecemos una amplia variedad de recursos para el usuario como, control de inventario, predicciones del clima, sensores de humedad y temperatura, monitoreo de ventas, predicciones para las cosechas y un control de ventas | Cuenta con dos versiones, la ECO, una versión dedicada para una producción netamente sostenible, y la Enterprise, dedicada a conseguir el mayor beneficio económico para la empresa. Ambas opciones cuentan con planes de pago diferentes que varían, dandole a las grandes empresas agricolas más ventajas que a las más pequeñas | Efemis cuenta con un control de costos de operaciones, monitoreos de cumplimiento de normativas,gestion de actividades, tratamientos y riegos,entre otras | Agri cuenta con controles de faenas, compras y bodegaje, control de riego, entre otros.                                     |
-| Precios y Costos         | Planeamos cobrar una comisión por venta de productos, los usuarios podrán acceder a nuestros servicios sin mayor problema                                                                                                    | Agrobit cuenta con planes mensuales que rondan los 250 hasta los 1100 dólares                                                                                                                                                                                                                                                      | Cuenta con planes principalmente desde los 300 hasta los 900 euros mensuales                                                                              | Cuenta con 3 planes para los pequeños, medianos y grandes agricultores cuyos costos van desde los 320 hasta los 750 dólares |
-| Fortalezas               | Contamos con un software ágil, que se verá sujetos a cambios rápidos para acomodarnos a las necesidades del usuario                                                                                                          | Cuenta con una reputación y una clientela fiel                                                                                                                                                                                                                                                                                     | Es parte de una corporación grande que facilita acceso a herramientas de gama alta                                                                        | Cuenta con clientes en todo latinoamerica sobre todo Chile y Perú                                                           |
-| Debilidades              | Sujeta a pruebas                                                                                                                                                                                                             | Está cerrada a sus clientes habituales y los clientes nuevos no parecen interesados en su producto                                                                                                                                                                                                                                 | No cuenta con una gran cantidad de clientes, las reseñas no son buenas y está siendo dejada de lado                                                       | No parece querer modernizarse más allá de su estado actual                                                                  |
-| Oportunidades            | Muchas de las gestiones agrícolas en nuestro país son deficientes y gran parte de las cosechas son desperdiciadas, por ello el Perú es un país ideal para implementar GrowWithMe                                             | Dadas sus herramientas presenta una estabilidad que les permitiría desarrollarse más                                                                                                                                                                                                                                               | Cuenta con acceso a herramientas de gama alta que permiten el recopilado de información detallada para beneficio del usuario                              | Cuenta con el apoyo de clientes de más de un país por ello pueden expandirse por todo latinoamerica                         |
-| Amenazas                 | La implementación de herramientas costosas por parte de la competencia                                                                                                                                                       | Dado que el proceso de cotización es lento, muchos clientes prefieren buscar otras opciones                                                                                                                                                                                                                                        | Sus ventas se han visto reducidas                                                                                                                         | La creciente tecnología y el uso de la inteligencia artificial puede desplazar a muchas soluciones de software              |
+### 2.1.1. Análisis Competitivo 
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 11%" />
+<col style="width: 21%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 17%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="6"><strong>Competitive Analysis Landscape</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td colspan="6"><em>¿Por qué llevar al cabo este análisis</em>? Debemos llevar a cabo este análisis para poder saber en que se especializan nuestros competidores directos y poder encontrar algún aspecto en el que podamos destacar y llamar la atención del mercado objetivo.
+aprender de estos.</td>
+</tr>
+<tr class="even">
+<td colspan="2">Empresas (Aplicación)</td>
+<td><p>GrowWithMe</p>
+</td>
+<td><p>Agrobit</p>
+</td>
+<td><p>Efemis</p>
+</td>
+<td>Agri</td>
+</tr>
+<tr class="odd">
+<td rowspan="2"><strong>Perfil</strong></td>
+<td>Overview</td>
+<td>Software de gestión agricola centrado en la capacitación del usuario que puede adaptarse a sus necesidades</td>
+<td>Software enfocado en la gestión de procesos agrícolas y ganaderos con ayuda de herramientas de alta gama</td>
+<td>Software de hispatec que gestiona procesos agrícolas utilizando herramientas de alta gama</td>
+<td>Agri es una solución de software latina que permite gestionar campos de cultivo de forma centralizada</td>
+</tr>
+<tr class="even">
+<td>¿Qué valor ofrece los clientes?</td>
+<td>Esta aplicación está entrada en el usuario y su adaptabilidad, brindandole a este una opción cómoda al alcane de sus manos</td>
+<td>Uso de herramientas de alta gama como imagenes satelitales que son una alternativa que brinda una seguridad total</td>
+<td>Este software modular, está diseñado para que el usuario quiera añadir más funcionalidades que se acoplen a sus necesidades</td>
+<td>Empresa latinoamericana con la que los usuarios se sienten más cómodos</td>
+</tr>
+<tr class="odd">
+<td rowspan="2"><strong>Perfil de Marketing</strong></td>
+<td>Mercado objetivo</td>
+<td>Nos enfocaremos en los pequeños y grandes agricultores que no hayan implementado tecnología para aligerar su carga laboral</td>
+<td>Se centra en el sector ganadero y agrícola que buscan implementar una solucion tecnológica con herramientas de gama alta, como imagenes satelitales</td>
+<td>Sector agrícola grande que busca una solución de software para agilizar procesos</td>
+<td>Está centrado en pequeñas, medianas y grandes empresas agrícolas</td>
+</tr>
+<tr class="even">
+<td>Estrategias de Marketing</td>
+<td>Nos acercaremos a los empresarios agrícolas que no confían en la tecnología para que podamos demostrar la eficacia de esta</td>
+<td>Se promociona mediante publicidad como google ads, correos,etc.</td>
+<td>Utiliza publicidad y estrategias de marketing</td>
+<td>Agri usa sus redes sociales como Instagram y Linkedin para poder difundir sus propuestas de valor</td>
+</tr>
+<tr class="odd">
+<td rowspan="3"><strong>Perfil del producto</strong></td>
+<td>Producto &amp; Servicios</td>
+<td>Ofrecemos una amplia variedad de recursos para el usuario como, control de inventario, predicciones del clima, sensores de humedad y temperatura, monitoreo de ventas, predicciones para las cosechas y un control de ventas</td>
+<td>Cuenta con dos versiones, la ECO, una versión dedicada para una producción netamente sostenible, y la Enterprise, dedicada a conseguir el mayor beneficio económico para la empresa. Ambas opciones cuentan con planes de pago diferentes que varían, dandole a las grandes empresas agricolas más ventajas que a las más pequeñas</td>
+<td>Efemis cuenta con un control de costos de operaciones, monitoreos de cumplimiento de normativas,gestion de actividades, tratamientos y riegos,entre otras</td>
+<td>Agri cuenta con controles de faenas, compras y bodegaje, control de riego, entre otros.</td>
+</tr>
+<tr class="even">
+<td>Precios &amp; Costos</td>
+<td>Planeamos cobrar una comisión por venta de productos, los usuarios podrán acceder a nuestros servicios sin mayor problema</td>
+<td>Agrobit cuenta con planes mensuales que rondan los 250 hasta los 1100 dólares</td>
+<td>Cuenta con planes principalmente desde los 300 hasta los 900 euros mensuales</td>
+<td>Cuenta con 3 planes para los pequeños, medianos y grandes agricultores cuyos costos van desde los 320 hasta los 750 dólares</td>
+</tr>
+<tr class="odd">
+<td>Canales de distribución (Web &amp;/o Móvil)</td>
+<td>
+<p>Web: Una plataforma web complementaria permite el acceso a mapas de
+seguridad y la participación en foros comunitarios.</p></td>
+<td>
+<p>Web: La plataforma también está accesible vía navegador web,
+permitiendo una experiencia completa en escritorio.</p></td>
+<td>
+<p>Web: Aunque la experiencia principal es móvil, Waze también ofrece
+una plataforma web para la planificación de rutas.</p></td>
+<td><p>Móvil: PeaceApp está disponible como una aplicación móvil tanto
+en Android como en iOS, ofreciendo a los usuarios acceso en cualquier
+momento y lugar.</p>
+<p>Web: Una plataforma web complementaria permite a los usuarios acceder
+a mapas interactivos de seguridad, reportar incidentes desde sus
+computadoras, y participar en foros comunitarios para compartir
+información y consejos de seguridad.</p></td>
+</tr>
+<tr class="even">
+<td rowspan="4"><strong>Análisis SWOT</strong></td>
+<td>Fortalezas</td>
+<td>Contamos con un software ágil, que se verá sujetos a cambios rápidos para acomodarnos a las necesidades del usuario</td>
+<td>Cuenta con una reputación y una clientela fiel</td>
+<td>Es parte de una corporación grande que facilita acceso a herramientas de gama alta</td>
+<td>Cuenta con clientes en todo latinoamerica sobre todo Chile y Perú</td>
+</tr>
+<tr class="odd">
+<td>Debilidades</td>
+<td>Sujeta a pruebas</td>
+<td>Está cerrada a sus clientes habituales y los clientes nuevos no parecen interesados en su producto</td>
+<td>No cuenta con una gran cantidad de clientes, las reseñas no son buenas y está siendo dejada de lado</td>
+<td>No parece querer modernizarse más allá de su estado actual</td>
+</tr>
+<tr class="even">
+<td>Oportunidades</td>
+<td>Muchas de las gestiones agrícolas en nuestro país son deficientes y gran parte de las cosechas son desperdiciadas, por ello el Perú es un país ideal para implementar GrowWithMe</td>
+<td>Dadas sus herramientas presenta una estabilidad que les permitiría desarrollarse más</td>
+<td>Cuenta con acceso a herramientas de gama alta que permiten el recopilado de información detallada para beneficio del usuario</td>
+<td>Cuenta con el apoyo de clientes de más de un país por ello pueden expandirse por todo latinoamerica</td>
+</tr>
+<tr class="odd">
+<td>Amenazas</td>
+<td>La implementación de herramientas costosas por parte de la competencia</td>
+<td>Dado que el proceso de cotización es lento, muchos clientes prefieren buscar otras opciones</td>
+<td>Sus ventas se han visto reducidas</td>
+<td>La creciente tecnología y el uso de la inteligencia artificial puede desplazar a muchas soluciones de software</td>
+</tr>
+</tbody>
+</table>
+
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
