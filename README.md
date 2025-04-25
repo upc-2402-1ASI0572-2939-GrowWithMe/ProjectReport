@@ -1,37 +1,58 @@
-# <p align="center" id="caratula"> Universidad Peruana de Ciencias Aplicadas </p>
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software</strong><br>
+    <br><strong>Desarrollo de soluciones IoT - 2939</strong><br>
+    <br><strong>Docente: León Baca, Marco Antonio</strong><br> 
+    <br><strong>Informe de Trabajo - TB1</strong><br>
+</p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
+    <strong>Startup: Cup of Tech</strong><br>
+    <br><strong>Producto: Grow With Me</strong><br>
+</p>
+
+<div>
+    <h3 align="center">Team Members:</h3>
 </div>
 
-### <p align="center"> Informe de TB1 </p>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Nombre</th>
+            <th style="text-align:center;">Código</th>
+        </tr>
+        <tr>
+            <td style="text-align:center;">Acuña Gomez, Diego Jose</td>
+            <td style="text-align:center;">U20201c794</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;">Landeo Simeón, Favio Sebastián</td>
+            <td style="text-align:center;">U202119588</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;">Morin Fuentes, Jean Pierre</td>
+            <td style="text-align:center;">U202115348</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;">Noriega Suschenko, Anatoly Andrey</td>
+            <td style="text-align:center;">U202211813</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;">Oneglio De Paz, Beth Shantal</td>
+            <td style="text-align:center;">U202213423</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;">Tongo Alejandro, Milagros Salet</td>
+            <td style="text-align:center;">U20216078</td>
+        </tr>
+    </table>
+    </div>
+</body>
 
+<p align="center">
+<br><strong>Abril del 2025</strong></p>
 <br>
-<div align="center">
-  <p> Carrera: Ingeniería de Software </p>
-  <br>
-  <p> Ciclo: 2025-01 </p>
-  <br>
-  <p> Curso: Desarrollo de soluciones IoT </p>
-  <br>
-  <p> NRC: 2939 </p>
-  <br>
-  <p> Profesor: León Baca, Marco Antonio </p>
-  <br>
-  <p> Nombre del Startup: Cup of Tech </p>
-  <br>
-  <p> Nombre del Producto: Grow With Me </p>
-  <br>
-  <p> Relación de Integrantes: </p>
-  <p>  - Acuña Gomez, Diego Jose (u20201c794) </p>
-  <p>  - Landeo Simeón, Favio Sebastián (u202119588) </p>
-  <p>  - Morin Fuentes, Jean Pierre (u202115348) </p>
-  <p>  - Noriega Suschenko, Anatoly Andrey (u202211813) </p>
-  <p>  - Oneglio De Paz, Beth Shantal (u202213423) </p>
-  <p>  - Tongo Alejandro, Milagros Salet (u20216078)</p>
-  <br>
-  <p> Mes y Año: Abril del 2025 </p>
-</div>
 
 ---
 
@@ -45,10 +66,10 @@
     <th style="text-align:center;">Descripción de la modificación</th>
   </tr>
   <tr>
-    <td align="center">TB1</td>
+    <td align="center">1.00</td>
     <td>21/04/2025</td>
-    <td> Diego Acuña <br> Favio Landeo <br> Jean Morin <br> Analoty Noriega <br> Beth Oneglio <br> Milagros Tongo </td>
-    <td> Realizamos los capítulos 1, 2, 3 y 4 según la rúbrica de manera conjunta y eficiente.  </td>
+    <td> Todos los integrantes del equipo.</td>
+    <td>Desarrollamos la descripción de nuestro startup Grow With Me, junto a la presentación del equipo que impulsará el desarrollo del sistema. Analizamos a la competencia, identificando nuestro valor diferencial dentro del nicho. Además, definimos con claridad la problemática que buscamos resolver, proponiendo una solución innovadora y centrada en las necesidades reales del usuario.</td>
   </tr>
 </table>
 
@@ -60,17 +81,13 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 
 - Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
 
+Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Final-Project-Documentation-Report
+
 ---
+# Contenido 
+## Tabla de contenidos
 
-# Tabla de contenidos
-
-- [ Universidad Peruana de Ciencias Aplicadas ](#-universidad-peruana-de-ciencias-aplicadas-)
-    - [ Informe de Trabajo Final ](#-informe-de-trabajo-final-)
-- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Tabla de contenidos](#tabla-de-contenidos)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#capítulo-i-introducción)
+### [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1 Startup Profile](#11-startup-profile)
     - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -82,11 +99,13 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
       - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+
+### [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [2.1 Competidores](#21-competidores)
     - [2.1.1 Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
   - [2.2 Entrevistas](#22-entrevistas)
+    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
     - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
     - [2.2.2 Registro de entrevistas](#222-registro-de-entrevistas)
     - [2.2.3 Análisis de entrevistas](#223-análisis-de-entrevistas)
@@ -97,12 +116,14 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
     - [2.3.4 Empathy Mapping](#234-empathy-mapping)
     - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4 Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+
+### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2 User Stories](#32-user-stories)
   - [3.3 Impact Mapping](#33-impact-mapping)
   - [3.4 Product Backlog](#34-product-backlog)
-- [Capítulo IV: Solution Software Design](#capítulo-iv-solution-software-design)
+
+### [Capítulo IV: Solution Software Design](#capítulo-iv-solution-software-design)
   - [4.1 Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)
     - [4.1.1 EventStorming](#411-eventstorming)
       - [4.1.1.1 Candidate Context Discovery](#4111-candidate-context-discovery)
@@ -112,45 +133,47 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
     - [4.1.3 Software Architecture](#413-software-architecture)
       - [4.1.3.1 Software Architecture System Landscape Diagram](#4131-software-architecture-system-landscape-diagram)
       - [4.1.3.2 Software Architecture Context Level Diagrams](#4132-software-architecture-context-level-diagrams)
-      - [4.1.3.3 Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
+      - [4.1.3.3 Software Architecture Container Level Diagrams](#4133-software-architecture-deployment-diagrams)
+      - [4.1.3.4 Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
   - [4.2 Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
-    - [4.2.1 Bounded Context: Profiles](#421-bounded-context-bounded-profiles)
+    - [4.2.1 Bounded Context: Profiles](#421-bounded-context-bounded-context-name)
       - [4.2.1.1 Domain Layer](#4211-domain-layer)
       - [4.2.1.2 Interface Layer](#4212-interface-layer)
       - [4.2.1.3 Application Layer](#4213-application-layer)
       - [4.2.1.4 Infrastructure Layer](#4214-infrastructure-layer)
       - [4.2.1.5 Bounded Context Software Architecture Component Level Diagrams](#4215-bounded-context-software-architecture-component-level-diagrams)
       - [4.2.1.6 Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams)
-      - [4.2.1.6.1 Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
-      - [4.2.1.6.2 Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram)
-    - [4.2.2 Bounded Context: Crops](#422-bounded-context-another-bounded-crops)
+        - [4.2.1.6.1 Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
+        - [4.2.1.6.2 Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram)
+    - [4.2.2 Bounded Context: Crops](#422-bounded-context-another-bounded-context-name)
       - [4.2.2.1 Domain Layer](#4221-domain-layer)
       - [4.2.2.2 Interface Layer](#4222-interface-layer)
       - [4.2.2.3 Application Layer](#4223-application-layer)
       - [4.2.2.4 Infrastructure Layer](#4224-infrastructure-layer)
       - [4.2.2.5 Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams)
       - [4.2.2.6 Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams)
-      - [4.2.2.6.1 Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams)
-      - [4.2.2.6.2 Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram)
-    - [4.2.3 Bounded Context: Devices](#423-bounded-context-third-bounded-devices)
+        - [4.2.2.6.1 Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams)
+        - [4.2.2.6.2 Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram)
+    - [4.2.3 Bounded Context: Devices](#423-bounded-context-third-bounded-context-name)
       - [4.2.3.1 Domain Layer](#4231-domain-layer)
       - [4.2.3.2 Interface Layer](#4232-interface-layer)
       - [4.2.3.3 Application Layer](#4233-application-layer)
       - [4.2.3.4 Infrastructure Layer](#4234-infrastructure-layer)
       - [4.2.3.5 Bounded Context Software Architecture Component Level Diagrams](#4235-bounded-context-software-architecture-component-level-diagrams)
       - [4.2.3.6 Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
-      - [4.2.3.6.1 Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
-      - [4.2.3.6.2 Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
-    - [4.2.4 Bounded Context: Notifications](#423-bounded-context-third-bounded-notifications)
+        - [4.2.3.6.1 Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
+        - [4.2.3.6.2 Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
+    - [4.2.4 Bounded Context: Notifications](#423-bounded-context-third-bounded-context-name)
       - [4.2.4.1 Domain Layer](#4231-domain-layer)
       - [4.2.4.2 Interface Layer](#4232-interface-layer)
       - [4.2.4.3 Application Layer](#4233-application-layer)
       - [4.2.4.4 Infrastructure Layer](#4234-infrastructure-layer)
       - [4.2.4.5 Bounded Context Software Architecture Component Level Diagrams](#4235-bounded-context-software-architecture-component-level-diagrams)
       - [4.2.4.6 Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
-      - [4.2.4.6.1 Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
-      - [4.2.4.6.2 Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
+        - [4.2.4.6.1 Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
+        - [4.2.4.6.2 Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
 - [Conclusiones](#conclusiones)
+  - Conclusiones y Recomendaciones
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -158,8 +181,13 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 
 # Student Outcome
 
-**ABET – EAC - Student Outcome 5**
-La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. <br>
+El curso contribuye al cumplimiento del Student Outcome ABET:
+
+ABET – EAC - Student Outcome 5
+
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 <table>
     <tr>
