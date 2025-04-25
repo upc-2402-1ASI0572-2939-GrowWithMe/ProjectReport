@@ -1543,4 +1543,4 @@ Asimismo, las Hipótesis formuladas sobre mejoras en productividad, reducción d
 # Anexos
 
 **Video de exposición TB1:**
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EcehXmgH2NRMlRyu5Gr-XooBEK6WQeXYv8HdTuGrfTgUxQ?e=2SUmZk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+https://shorturl.at/a8H6F
