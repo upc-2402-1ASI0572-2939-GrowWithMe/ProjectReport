@@ -1572,12 +1572,186 @@ La tipografía **Fredericka** es moderna, elegante y legible, lo que la hace ide
 
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
 
+Con respecto a la página web, está diseñada para mostrarse en el dispositivo que se esté usando, ya sea desde una computadora o dispositivo móvil (responsive), el sitio web estará disponible en ambas plataformas para proporcionar una mejor experiencia de usuario. Además, el patrón de diseño web usado es Flat Design, para que el usuario tenga una alta comprensión y una fácil interacción al momento de estar en la interfaz. 
+
+Se utilizará el patrón Z:
+
+![](patronZ.png)
+
+Asimismo, se tienen contemplados los siguientes puntos relacionados a responsive web interfaces:
+
+- Grid System: Generalmente un sistema de 12 columnas para permitir que la interfaz se adapte a diferentes tamaños de pantalla.
+- Breakpoints: Definir puntos de quiebre (breakpoints) para adaptarse a pantallas pequeñas (móviles), medianas (tabletas) y grandes (escritorios). Ejemplos comunes son 320px, 768px y 1200px.
+- Escalado en tipografía: Asegurarse de que el texto sea legible tanto en pantallas grandes como pequeñas. Por ejemplo, un tamaño mínimo de 16px para móviles.
+- Consistencia en la paleta de colores: Usar una paleta de colores uniforme con variaciones para estados interactivos (hover, focus, active).
+- Botones y Links: Tienen que ser lo suficientemente grandes para interactuar en pantallas táctiles (mínimo 44px de altura).
+- Iconografía: Uso de iconos universales y reconocibles para navegación y acciones.
+
+Con respecto a las interfaces de la aplicación móvil, se contemplan los siguientes puntos:
+
+- Single Column: Ideal para aplicaciones de lectura de contenido (blogs, redes sociales), formularios simples, y listas de artículos o productos.
+- Bottom Navigation: La barra de navegación principal se coloca en la parte inferior de la pantalla, donde es más fácil de alcanzar con el pulgar, especialmente en dispositivos móviles más grandes.
+- Overlays: Utiliza capas superpuestas para mostrar información adicional sin cambiar de pantalla. Por ejemplo, ventanas emergentes que muestran más detalles o permiten realizar acciones rápidas.
+- Floating Action Button: Un botón flotante que suele ubicarse en la esquina inferior derecha y proporciona acceso a la acción principal de la aplicación.
+
 ## 5.2. Information Architecture
+
+En la presente sección, se establecerá la estructura de la solución IOT según cada segmento objetivo. Del mismo modo, los distintos elementos que se emplearán en la navegación dentro de las aplicaciones.
+
 ### 5.2.1. Organization Systems
+
+En este punto, se describen los grupos de información y las estructuras visuales aplicadas para cada segmento objetivo en la plataforma "Grow With Me" (GWM). Los segmentos que se han identificado son **Agricultores** y **Consultores**, cada uno con su propia interfaz y organización de contenido. La plataforma está diseñada para optimizar la experiencia de cada grupo según sus necesidades y roles dentro del sistema.
+
+#### Segmento: Agricultores
+
+La vista para **Agricultores** está organizada de manera sencilla y accesible, con el objetivo de facilitar la gestión de sus cultivos y actividades. Los agricultores pueden ver un listado de **sus cultivos**, con información clave como el **nombre**, **tipo**, **área** y **opciones** para editar o eliminar cultivos. Además, tienen la capacidad de **registrar nuevos cultivos** mediante un formulario de entrada que valida los datos antes de su confirmación. Esta estructura está orientada a mantener la interfaz **intuitiva** y **rápida**, con un flujo de trabajo simplificado.
+
+- **Categorías principales**: 
+  - Mis Cultivos: Vista general de los cultivos registrados.
+  - Notificaciones: Información sobre eventos o recordatorios.
+  - Calendario: Visualización de actividades programadas.
+  - Gestión de Cultivos: Acciones como **editar**, **eliminar** y **registrar cultivos**.
+
+#### Segmento: Consultores
+
+La vista para **Consultores** se enfoca en la gestión y seguimiento de los agricultores. Los consultores tienen acceso a una lista de **agricultores** y la capacidad de ver sus cultivos asociados. Además, pueden enviar **recomendaciones** personalizadas, las cuales deben pasar por un proceso de validación antes de ser enviadas al agricultor, y recibir confirmación tras el envío exitoso. Esta vista está diseñada para proporcionar a los consultores las herramientas necesarias para gestionar su relación con los agricultores y garantizar un flujo de comunicación claro y eficiente.
+
+- **Categorías principales**:
+  - Agricultores: Vista de la lista de agricultores y sus cultivos.
+  - Enviar Recomendación: Formulario para enviar recomendaciones a los agricultores.
+  - Calendario: Vista para seleccionar fechas y actividades relacionadas.
+  - Gestión de Actividades: Opciones para **elegir fechas** y gestionar la programación de las actividades.
+
+#### Categorización Visual
+
+Ambos segmentos utilizan una **estructura visual coherente**, basada en una paleta de colores verdes que facilita la identificación de secciones y la navegación. La interfaz está diseñada para ser clara, con formularios y botones visibles que guían al usuario a través de un flujo lógico, desde el registro de cultivos hasta la gestión de recomendaciones. Además, el sistema de **notificaciones** asegura que los usuarios reciban actualizaciones importantes de manera oportuna.
+
 #### 5.2.1.1. Labeling Systems
+
+El sistema de etiquetado en "Grow With Me" (GWM) es fundamental para garantizar que los usuarios puedan identificar, clasificar y navegar fácilmente a través de la información. Las etiquetas se utilizan de manera estratégica para organizar y categorizar los elementos clave en la plataforma, asegurando que tanto **Agricultores** como **Consultores** encuentren la información que necesitan de manera rápida y eficiente.
+
+Como anteriormente hemos explicado, se presenta el contenido con un lenguaje serio y casual para garantizar una mayor comprensión.
+A continuación explicaremos los conjuntos de información dentro de nuestra landing page.
+
+| **Título** | **Descripción**                                                                                     |
+| ---------- | --------------------------------------------------------------------------------------------------- |
+| Inicio     | Aquí se expone un vistazo general de lo que ofrece nuestro proyecto                                 |
+| Servicios  | Se presentan algunas de las funcionalidades y características que ofrece nuestra aplicación web     |
+| Equipo     | En esta sección los visitantes pueden conocer a los miembros del equipo de desarrollo de GrowWithMe |
+| Tarifas    | Se exponen los planes de suscripción que ofrecemos                                                  |
+| Contacto   | En esta parte se encuentran las redes sociales de nuestro proyecto        		           |
+
+#### 1. **Etiquetas en los Cultivos**  
+Cada cultivo registrado por los agricultores se clasifica utilizando etiquetas que indican su **tipo**, **estado** y **opciones disponibles** (editar, eliminar, etc.). Estas etiquetas ayudan a los agricultores a identificar fácilmente qué cultivos requieren atención o acción. Las etiquetas se muestran en los **listados de cultivos** y en las **pantallas de detalles** de cada cultivo.
+
+- Ejemplos de etiquetas:  
+  - **Tipo de cultivo**: Vegetales, Frutas, Flores.
+  - **Acciones**: Editar, Eliminar, Ver detalles.
+
+#### 2. **Etiquetas de Notificaciones**  
+Las notificaciones son etiquetadas para que los usuarios puedan identificar rápidamente el **tipo de mensaje** recibido, ya sea de **urgencia**, **recordatorio** o **información general**. Esto ayuda a los usuarios a priorizar las acciones necesarias.
+
+- Ejemplos de etiquetas:  
+  - **Urgente**: Notificaciones que requieren acción inmediata.  
+  - **Recordatorio**: Mensajes que informan sobre acciones programadas.  
+  - **Información**: Notificaciones generales relacionadas con eventos o actualizaciones.
+
+#### 3. **Etiquetas de Recomendaciones**  
+Las recomendaciones enviadas por los consultores también incluyen etiquetas que indican el **estado** del mensaje, como **pendiente**, **enviado** o **confirmado**. Estas etiquetas permiten a los consultores y agricultores rastrear el estado de las recomendaciones y asegurarse de que se tomen las acciones necesarias.
+
+- Ejemplos de etiquetas:  
+  - **Pendiente**: Recomendaciones que aún no han sido revisadas o respondidas.  
+  - **Enviado**: Recomendaciones que ya han sido entregadas al agricultor.  
+  - **Confirmado**: Recomendaciones que han sido aceptadas o procesadas.
+
+#### 4. **Uso de Colores y Símbolos**  
+Para mejorar la visibilidad y comprensión de las etiquetas, se usan **colores** y **símbolos** en combinación con los textos. Los colores ayudan a diferenciar rápidamente entre los tipos de información y a priorizar las acciones, mientras que los símbolos refuerzan el mensaje de manera visual.
+
+- Ejemplos de colores y símbolos:  
+  - **Verde**: Confirmado, Aprobado.  
+  - **Amarillo**: Pendiente, En progreso.  
+  - **Rojo**: Urgente, Requiere atención inmediata.
+
 #### 5.2.1.2. SEO Tags and Meta Tags
+
+En esta sección, se presentarán las etiquetas que identificarán y diferenciarán al sitio web de **Grow With Me (GWM)** en los diversos buscadores, mejorando su visibilidad y accesibilidad en línea. Las **SEO Tags** y **Meta Tags** son fundamentales para garantizar que el sitio sea fácilmente encontrado por los usuarios y posicionado correctamente en los resultados de búsqueda.
+
+#### 1. **SEO Tags**
+Las **SEO Tags** son etiquetas específicas utilizadas para optimizar el contenido del sitio web para los motores de búsqueda. Estas etiquetas permiten que los motores de búsqueda comprendan mejor el contenido de las páginas y las clasifiquen correctamente.
+
+- **Title Tag**: El título de la página, que aparece en los resultados de búsqueda. Este debe ser único, descriptivo y contener las palabras clave más relevantes.
+  - Ejemplo: `Grow With Me | Plataforma de Gestión de Cultivos y Recomendaciones para Agricultores`
+  
+- **Meta Description**: Una breve descripción del contenido de la página que aparece debajo del título en los resultados de búsqueda. Esta descripción debe ser clara, atractiva y contener las palabras clave principales.
+  - Ejemplo: `Grow With Me es una plataforma que ayuda a los agricultores a gestionar sus cultivos y recibir recomendaciones personalizadas de expertos. ¡Optimiza tu producción agrícola hoy mismo!`
+
+- **Meta Keywords**: Palabras clave relacionadas con el contenido de la página. Aunque no tienen tanto impacto como antes, todavía son útiles para la indexación en algunos motores de búsqueda.
+  - Ejemplo: `gestión de cultivos, agricultura, recomendaciones agrícolas, tecnología agrícola, consultores de cultivo`
+
+- **Alt Tags**: Descripciones alternativas para las imágenes, lo que mejora la accesibilidad y ayuda en la indexación de imágenes por los motores de búsqueda.
+  - Ejemplo: `imagen de cultivo de hortalizas en la plataforma GWM`
+
+#### 2. **Meta Tags**
+Las **Meta Tags** proporcionan información adicional sobre la página web que es utilizada por los motores de búsqueda y los navegadores web. Estas etiquetas ayudan a mejorar el rendimiento de la página y a personalizar la experiencia del usuario.
+
+- **Meta Robots**: Instrucciones para los motores de búsqueda sobre cómo deben indexar la página. Generalmente, se usa `index, follow` para permitir la indexación y seguimiento de los enlaces.
+  - Ejemplo: `<meta name="robots" content="index, follow">`
+
+- **Meta Author**: Información sobre el autor del sitio web o la página.
+  - Ejemplo: `<meta name="author" content="Grow With Me">`
+
+- **Meta Viewport**: Configura cómo se verá el sitio en dispositivos móviles, garantizando que se ajuste adecuadamente a las pantallas.
+  - Ejemplo: `<meta name="viewport" content="width=device-width, initial-scale=1">`
+
+#### 3. **Beneficios de las SEO y Meta Tags**
+
+El uso adecuado de **SEO Tags** y **Meta Tags** no solo facilita la indexación en los motores de búsqueda, sino que también mejora la experiencia del usuario, asegurando que los resultados sean relevantes y estén correctamente optimizados para diferentes dispositivos y pantallas. Gracias a estas etiquetas, **Grow With Me** puede destacarse frente a la competencia y ser fácilmente encontrado por aquellos interesados en soluciones agrícolas innovadoras.
+
 #### 5.2.1.3. Searching Systems
+
+#### 1. **Búsqueda en la Aplicación Web**
+La aplicación web contará con un sistema de búsqueda centralizado que permitirá a los usuarios buscar cultivos, agricultores y notificaciones de forma sencilla. Los usuarios podrán filtrar los resultados por diferentes parámetros como el **tipo de cultivo**, **nombre del agricultor**, **fecha de actividad**, entre otros.
+
+- **Búsqueda de cultivos**: Los agricultores podrán buscar cultivos registrados por nombre, tipo, estado o fecha.
+- **Búsqueda de agricultores**: Los consultores podrán buscar a los agricultores por nombre, tipo de cultivo o región.
+- **Búsqueda de notificaciones**: Los usuarios podrán buscar y filtrar las notificaciones por fecha y tipo de evento (urgente, recordatorio, información).
+
+#### 2. **Búsqueda en la Aplicación Móvil**
+El sistema de búsqueda en la aplicación móvil será similar al de la web, pero optimizado para dispositivos móviles. La interfaz será táctil y estará diseñada para facilitar la búsqueda rápida, permitiendo a los usuarios acceder a la información mientras están en movimiento.
+
+- **Búsqueda rápida**: Los usuarios podrán realizar búsquedas usando una barra de búsqueda intuitiva en la parte superior de la pantalla, que proporcionará resultados instantáneos mientras escriben.
+- **Filtros avanzados**: Los agricultores y consultores podrán aplicar filtros avanzados para encontrar cultivos o agricultores específicos según criterios como área, estado o tipo.
+
+#### 3. **Búsqueda en la Landing Page**
+La **landing page** de **Grow With Me** incluirá un sistema de búsqueda básico para facilitar que los usuarios encuentren información sobre la plataforma y sus características. Además, el sistema de búsqueda estará integrado con las secciones clave del sitio, como las **preguntas frecuentes**, **testimonios**, y **detalles de contacto**.
+
 #### 5.2.1.4. Navigation Systems
+
+A continuación, el equipo mostrará los sistemas de navegación con los que contará **Grow With Me (GWM)** para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información. Estos sistemas están diseñados para ofrecer una **experiencia de usuario fluida**, optimizando el acceso a las distintas funcionalidades y contenidos de la plataforma.
+
+#### 1. **Navegación Principal en la Aplicación Web**
+La navegación principal en la **aplicación web** estará organizada de manera clara y estructurada, con un menú que permitirá a los usuarios acceder fácilmente a las secciones más importantes de la plataforma.
+
+- **Barra de navegación superior**: Contendrá accesos directos a las secciones más relevantes, como **Mis Cultivos**, **Consultores**, **Notificaciones** y **Calendario**. Esta barra será visible en todas las páginas de la plataforma para facilitar el acceso sin importar la sección en la que se encuentre el usuario.
+- **Menú desplegable**: Para ofrecer una navegación más compacta, se incluirá un menú desplegable que agrupará las opciones secundarias, como **Configuración** y **Ayuda**.
+
+#### 2. **Navegación en la Aplicación Móvil**
+La **aplicación móvil** contará con un diseño de navegación adaptado a las pantallas más pequeñas, garantizando una experiencia cómoda y accesible desde dispositivos móviles.
+
+- **Menú de navegación lateral (hamburguesa)**: Al deslizar desde el borde izquierdo de la pantalla, los usuarios podrán acceder a las principales secciones de la plataforma. Este menú será intuitivo y de fácil acceso, permitiendo a los usuarios moverse rápidamente entre las distintas áreas de la app.
+- **Navegación táctil**: El sistema de navegación será completamente táctil, permitiendo a los usuarios interactuar con los elementos de la interfaz de manera rápida y eficiente. Los botones serán de fácil acceso y de tamaño adecuado para garantizar una experiencia fluida.
+
+#### 3. **Navegación en la Landing Page**
+La **landing page** de **Grow With Me** tendrá una navegación sencilla y directa, enfocada en ofrecer a los usuarios un **acceso rápido** a la información clave sobre la plataforma.
+
+- **Barra de navegación fija**: En la parte superior de la página, se incluirá una barra de navegación fija con enlaces a las secciones **Acerca de**, **Servicios**, **Testimonios**, y **Contacto**. Esto permitirá que los usuarios se desplacen por la página sin perder de vista las opciones principales.
+- **Botones de llamada a la acción (CTA)**: A lo largo de la landing page, se integrarán botones de **llamadas a la acción** que guiarán a los usuarios a realizar acciones específicas, como **registrarse** o **contactar a un consultor**.
+
+#### 4. **Flujo de Navegación**
+El sistema de navegación está diseñado para ser **intuitivo**, permitiendo que los usuarios puedan acceder a cualquier bloque de información con solo unos pocos clics o toques. Además, los usuarios siempre podrán **regresar a la página de inicio** con facilidad, proporcionando un **flujo de navegación** que no requiera esfuerzo adicional.
+
+- **Enlaces visibles**: Los enlaces siempre estarán claramente etiquetados y bien posicionados dentro de la interfaz, lo que asegurará que los usuarios comprendan rápidamente cómo moverse a través de la plataforma.
+- **Navegación contextual**: Dependiendo de la sección en la que se encuentren, se mostrarán enlaces relacionados o sugerencias para facilitar la exploración del contenido relevante, mejorando la eficiencia y la relevancia.
 
 ## 5.3. Landing Page UI Design
 ### 5.3.1. Landing Page Wireframe
