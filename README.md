@@ -172,6 +172,25 @@ Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Fin
       - [4.2.4.6 Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
         - [4.2.4.6.1 Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
         - [4.2.4.6.2 Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
+### [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
+  - [5.1. Style Guidelines](#51-style-guidelines)
+    - [5.1.1. General Style Guidelines](#511-general-style-guidelines)
+    - [5.1.2. Web, Mobile and IoT Style Guidelines](#512-web-mobile-and-iot-style-guidelines)
+  - [5.2. Information Architecture](#52-information-architecture)
+    - [5.2.1. Organization Systems](#521-organization-systems)
+      - [5.2.1.1. Labeling Systems](#5211-labeling-systems)
+      - [5.2.1.2. SEO Tags and Meta Tags](#5212-seo-tags-and-meta-tags)
+      - [5.2.1.3. Searching Systems](#5213-searching-systems)
+      - [5.2.1.4. Navigation Systems](#5214-navigation-systems)
+  - [5.3. Landing Page UI Design](#53-landing-page-ui-design)
+    - [5.3.1. Landing Page Wireframe](#531-landing-page-wireframe)
+    - [5.3.2. Landing Page Mock-up](#532-landing-page-mock-up)
+  - [5.4. Applications UX/UI Design](#54-applications-uxui-design)
+    - [5.4.1. Applications Wireframes](#541-applications-wireframes)
+    - [5.4.2. Applications Wireflow Diagrams](#542-applications-wireflow-diagrams)
+    - [5.4.3. Applications Mock-ups](#543-applications-mock-ups)
+    - [5.4.4. Applications User Flow Diagrams](#544-applications-user-flow-diagrams)
+  - [5.5. Applications Prototyping](#55-applications-prototyping)
 - [Conclusiones](#conclusiones)
   - Conclusiones y Recomendaciones
 - [Bibliografía](#bibliografía)
@@ -1515,6 +1534,63 @@ Se han identificado 4 contextos delimitados y se ha optado por utilizar los sigu
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
 
 ![NotificationsDatabaseDesignDiagram](assets/BoundedContextDatabaseDesignDiagramNotifications.png)
+
+---
+
+# Capítulo V: Solution UI/UX Design
+
+## 5.1. Style Guidelines
+
+En esta sección, diseñaremos las guías de estilo que son los patrones a seguir para construir nuestro producto desde cero, establecer un estándar en la tipografía, tamaño y paleta de colores necesarios para que nuestra aplicación web se pueda diseñar de una manera más rápida y efectiva desde el inicio del proceso de prototipado. Todo estodesarrollándolo bajo un repositorio común en GitHub.
+
+### 5.1.1. General Style Guidelines
+
+A continuación, se mostrará la paleta general de colores para la aplicación, iconos, logo y tipografía que hemos escogido para nuestras aplicaciones.
+
+**Brand name**
+
+El nombre "Grow With Me" transmite un mensaje de crecimiento compartido y conexión. Es una invitación a evolucionar juntos, tanto en términos de desarrollo personal como en relación con la naturaleza y la tecnología, representando un enfoque de sostenibilidad y innovación.
+
+![Logo](assets/GWM.png)
+
+**Colores**
+
+La paleta de colores de "Grow With Me" se utiliza para reflejar los valores de crecimiento, sostenibilidad y tecnología de la marca. Los tonos claros (50, 100, 200) se emplearán en fondos y detalles suaves, creando un ambiente fresco y armonioso, mientras que los colores intermedios (400, 500, 600) se usarán para botones, llamados a la acción y elementos interactivos, asegurando visibilidad y dinamismo. Los tonos más oscuros (700, 800, 900) se aplicarán en textos principales, encabezados y fondos clave para transmitir estabilidad y autoridad. Finalmente, el color más oscuro (950) se utilizará para resaltar elementos críticos o de advertencia, garantizando contraste y accesibilidad visual, mientras que toda la paleta conjunta evoca una experiencia equilibrada entre naturaleza y tecnología.
+
+![Colores](assets/colors.png)
+
+**Tipografía**
+
+La tipografía **Fredericka** es moderna, elegante y legible, lo que la hace ideal para la marca **"Grow With Me" (GWM)**. Con un estilo **limpio** y **fluido**, ofrece una sensación de **accesibilidad** y **confianza**, que se alinea perfectamente con la propuesta de **crecimiento** y **sostenibilidad**.
+
+- **Light 300**: Perfecta para **subtítulos** o **textos secundarios**, proporcionando ligereza y un toque moderno sin sacrificar la legibilidad.
+- **Regular 400**: Ideal para **cuerpos de texto** o **información detallada**, ya que mantiene un balance adecuado entre claridad y estética.
+- **Medium 500**: Utilízala para **encabezados** o **títulos destacados**, dando mayor peso y estructura sin perder la fluidez visual.
+- **SemiBold 600**: Usado para **llamadas a la acción (CTA)** o **elementos clave de la interfaz**, proporcionando un enfoque visual para los usuarios y asegurando que los elementos importantes sean fácilmente identificables.
+
+![Topografia](assets/font.png)
+
+### 5.1.2. Web, Mobile and IoT Style Guidelines
+
+## 5.2. Information Architecture
+### 5.2.1. Organization Systems
+#### 5.2.1.1. Labeling Systems
+#### 5.2.1.2. SEO Tags and Meta Tags
+#### 5.2.1.3. Searching Systems
+#### 5.2.1.4. Navigation Systems
+
+## 5.3. Landing Page UI Design
+### 5.3.1. Landing Page Wireframe
+### 5.3.2. Landing Page Mock-up
+
+## 5.4. Applications UX/UI Design
+### 5.4.1. Applications Wireframes
+### 5.4.2. Applications Wireflow Diagrams
+### 5.4.3. Applications Mock-ups
+### 5.4.4. Applications User Flow Diagrams
+
+## 5.5. Applications Prototyping
+
 
 ---
 # Conclusiones
