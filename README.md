@@ -1759,7 +1759,7 @@ El sistema de navegación está diseñado para ser **intuitivo**, permitiendo qu
 
 En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
 
-![](assets/LPWireframe.png)
+![image](assets/LPWireframe.png)
 
 Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=0-1&p=f&t=iQYwvTVW6ZTtoVwl-0>
 
@@ -1767,14 +1767,70 @@ Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=0-1
 
 Se trabajó previamente con los wireframes mostrados y, posteriormente, se aplicaron las Style Guidelines para la selección de colores. Como se puede observar, estos colores generan un contraste destacado en cada sección de la landing page.
 
-![](assets/LPMockup.png)
+![image](assets/LPMockup.png)
 
 Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-2&p=f&t=iQYwvTVW6ZTtoVwl-0>
 
 ## 5.4. Applications UX/UI Design
 ### 5.4.1. Applications Wireframes
+
+**Web Application**
+
+**Pantallas relacionadas al inicio de sesión y registro de usuario**
+
+![image](assets/FRWireframe1.png)
+
+**Pantallas relacionadas a las acciones del agricultor**
+
+![image](assets/FRWireframes2.png)
+
+**Pantallas relacionadas a las notoficaciones**
+
+![image](assets/FRWireframes3.png)
+
+**Pantallas relacionadas a las acciones del consultor**
+
+![image](assets/FRWireframe4.png)
+
+**Pantallas relacionadas a la visualización del dasboard**
+
+![image](assets/FRWireframes5.png)
+
+Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=0-1&p=f&t=zdQK1rFRVEVP5Dv2-0>
+
+---
+
+
 ### 5.4.2. Applications Wireflow Diagrams
+
 ### 5.4.3. Applications Mock-ups
+
+**Web Application**
+
+**Pantallas relacionadas al inicio de sesión y registro de usuario**
+
+![image](assets/FrontLogin.png)
+
+**Pantallas relacionadas a las acciones del agricultor**
+
+![image](assets/FrontAgricultor.png)
+
+**Pantallas relacionadas a las notoficaciones**
+
+![image](assets/FrontNotificaciones.png)
+
+**Pantallas relacionadas a las acciones del consultor**
+
+![image](assets/FrontConsulltor.png)
+
+**Pantallas relacionadas a la visualización del dasboard**
+
+![image](assets/FrontDashboard.png)
+
+Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-2&p=f&t=pdDSLFlUo5ChMIFT-0>
+
+---
+
 ### 5.4.4. Applications User Flow Diagrams
 
 ## 5.5. Applications Prototyping
