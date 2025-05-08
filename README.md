@@ -1754,8 +1754,22 @@ El sistema de navegación está diseñado para ser **intuitivo**, permitiendo qu
 - **Navegación contextual**: Dependiendo de la sección en la que se encuentren, se mostrarán enlaces relacionados o sugerencias para facilitar la exploración del contenido relevante, mejorando la eficiencia y la relevancia.
 
 ## 5.3. Landing Page UI Design
+
 ### 5.3.1. Landing Page Wireframe
+
+En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
+
+![](assets/LPWireframe.png)
+
+Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=0-1&p=f&t=iQYwvTVW6ZTtoVwl-0>
+
 ### 5.3.2. Landing Page Mock-up
+
+Se trabajó previamente con los wireframes mostrados y, posteriormente, se aplicaron las Style Guidelines para la selección de colores. Como se puede observar, estos colores generan un contraste destacado en cada sección de la landing page.
+
+![](assets/LPMockup.png)
+
+Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-2&p=f&t=iQYwvTVW6ZTtoVwl-0>
 
 ## 5.4. Applications UX/UI Design
 ### 5.4.1. Applications Wireframes
