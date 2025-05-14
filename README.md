@@ -2185,7 +2185,22 @@ El propósito de este sprint es sentar las bases para una buena experiencia de u
 - Implementación del Landing Page y Frontend acorde con las User Stories.
 - Como herramienta de control para este Sprint se utilizó Trello con un board exclusivo para esta iteración.
 
-![imagen](assets/Trello.png)
+| Sprint # | Sprint |             |                   |              |                    |              |              |
+|----------|----------|-------------|-------------------|--------------|--------------------|--------------|--------------|
+|          | **User Story** |             | **Work-Item / Task** |              |                    |              |              |
+|          | Id       | Title       | Id                | Title        | Description        | Estimation (Hours) | Assigned To / Status (To-do / In-Process / To-Review / Done) |
+|       | US01  | Diseño informativo y atractivo         | T01  | Maquetar landing visual        | Maquetar página principal con Figma | 5                   | Beth / ✅ Done        |
+|       | US02  | Botones Call-to-Action                 | T02  | Implementar botones CTA        | Enlazar botones a rutas funcionales | 4                   | Diego / ✅ Done       |
+|       | US04  | Gestionar cultivos                     | T04  | Crear CRUD de cultivos         | Añadir, editar, eliminar cultivos   | 6                   | Milagros / ✅ Done         |
+|       | US05  | Añadir actividad al calendario         | T05  | Registrar actividad por cultivo| Formulario y validación de actividad| 5                   | Anatoly / ✅ Done          |
+|       | US06  | Ver calendario de actividades          | T06  | Mostrar vista calendario       | Visualización por fecha y cultivo   | 6                   | Anatoly / ✅ Done       |
+|       | US11  | Visualizar dashboard por cultivo       | T07  | Dashboard de producción        | KPIs por cultivo (gráficos)         | 7                   | Diego / ✅ Done    |
+|       | US13  | Ver notificaciones                     | T08  | Mostrar alertas al usuario     | Notificaciones recientes por actividad | 4               | Milagros / 🧪 To-Review     |
+|       | US07  | Notificar tareas pendientes            | T09  | Enviar recordatorios           | Alerta antes de vencimiento         | 5                   | Favio / ⏳ ✅ Done                            |
+|       | US08  | Mostrar clima para cultivo             | T10  | Consumir API clima             | Mostrar clima del día por cultivo   | 4                   | Favio / ⏳ To-do                           |
+|       | US09  | Subir fotos de cultivo                 | T11  | Carga de imágenes              | Subir imágenes a galería del cultivo| 4                   | Jean / ⏳ To-do                           |
+|       | US10  | Exportar informes del cultivo          | T12  | Generar PDF/Excel              | Exportar datos de actividades       | 6                   | Jean / ⏳ ✅ Done                            |
+|       | US12  | Ver recomendaciones por cultivo        | T13  | Mostrar sugerencias por IA     | Basado en datos de cultivo          | 6                   | Beth / ⏳ To-do                           |
 
 Enlace del Trello: <https://trello.com/invite/b/682431943e65fbe7782d6a09/ATTIc8e7af88b359f84f3474e17d01281e194DDAA2B2/grow-with-me-product-backlog-tp-sprint-1>
 
