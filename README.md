@@ -2366,4 +2366,4 @@ Finalmente, se destaca que el trabajo en equipo ha sido un factor determinante p
 
 Video de la Exposición del TB1: https://shorturl.at/a8H6F
 
-Video de la Exposición del Trabajo Parcial: 
+Video de la Exposición del Trabajo Parcial:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EeG7i5ZfYutEusYhi8cHsDcBB6MxNV_oAvZ4-hCXmNSxxw?e=7LRJ6Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
