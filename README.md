@@ -1893,6 +1893,9 @@ Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=0-1
 
 ---
 
+**Mobile Application**
+
+![image](assets/WFMobile.png)
 
 ### 5.4.2. Applications Wireflow Diagrams
 
@@ -1924,9 +1927,22 @@ Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-2
 
 ---
 
+**Mobile Application**
+
+![image](assets/MBMockup1.png)
+
+![image](assets/MBMockup2.png)
+
+![image](assets/MBMockup3.png)
+
+Link: <https://www.figma.com/design/2jhda3mS6VKHsrJItbDKvU/UX-UI-Mobile?node-id=0-1&p=f&t=tDoA9jPPYuw4MS22-0>
+
+---
+
 ### 5.4.4. Applications User Flow Diagrams
 
 ## 5.5. Applications Prototyping
+
 ![image](assets/Vistaapp.png)
 Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115348_upc_edu_pe/ERHkUlZvSclFpCv66G_lASsB0xf0Rkq7hMsirYm5iaflDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hTDyUO>
 
@@ -2180,13 +2196,13 @@ Además, se avanzó en el desarrollo del frontend, trabajando en la estructura i
 
 Imágenes de la Landing Page:
 
-*IMAGENES DE LA LANDING*
+![image](assets/GWMLP.png)
 
 Enlace de la Landing Page: https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
 
 Imágenes de la Web APP:
 
-*IMAGENES DEL FRONTEND*
+![image](assets/GWMFront.png)
 
 Enlace de la Web APP: https://growwithme-front-end.netlify.app/
 
@@ -2202,25 +2218,25 @@ Instrucciones para acceder al Landing Page:
 
 Finalizando la implementación de los cambios y fusionándolos en la rama principal (main).
 
-*Imagen*
+![image](assets/P1.png)
 
 Nos dirigimos a la sección de "Settings" del repositorio y seleccionamos el apartado de "Pages".
 
-*Imagen*
+![image](assets/P2.png)
 
 Seleccionamos la rama "gh-pages" como fuente de despliegue, luego hacemos clic en "Save" para ejecutar el deploy.
 
-*Imagen*
+![image](assets/P3.png)
 
 Accedemos al dominio del Landing Page, verificamos que todo esté correctamente configurado y hacemos clic en "Guardar" para finalizar el proceso.
 
 ##### Imágenes de la pantalla del Landing Page:
 
-*Imagen*
+![image](assets/GWMLP.png)
 
 ##### Imágenes de la pantalla de la Web APP:
 
-*Imagen*
+![image](assets/GWMFront.png)
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
@@ -2237,11 +2253,9 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 
 Imagen de los Insights de la Landing Page:
 
-*Imagen*
 
 Imagen de los Insights de la Web App:
 
-*Imagen*
 
 ---
 
