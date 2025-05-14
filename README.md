@@ -2202,6 +2202,7 @@ El propósito de este sprint es sentar las bases para una buena experiencia de u
 |       | US10  | Exportar informes del cultivo          | T12  | Generar PDF/Excel              | Exportar datos de actividades       | 6                   | Jean / ⏳ ✅ Done                            |
 |       | US12  | Ver recomendaciones por cultivo        | T13  | Mostrar sugerencias por IA     | Basado en datos de cultivo          | 6                   | Beth / ⏳ To-do                           |
 
+![imagen](assets/Trello.png)
 Enlace del Trello: <https://trello.com/invite/b/682431943e65fbe7782d6a09/ATTIc8e7af88b359f84f3474e17d01281e194DDAA2B2/grow-with-me-product-backlog-tp-sprint-1>
 
 #### 6.2.1.4. Development Evidence for Sprint Review
