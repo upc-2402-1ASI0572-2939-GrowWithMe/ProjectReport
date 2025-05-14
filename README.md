@@ -2271,4 +2271,4 @@ Finalmente, se destaca que el trabajo en equipo ha sido un factor determinante p
 
 Video de la Exposición del TB1: https://shorturl.at/a8H6F
 
-Video de la Exposición del Trabajo Parcial: https://shorturl.at/a8H6F
+Video de la Exposición del Trabajo Parcial: 
