@@ -1918,7 +1918,7 @@ Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-2
 
 ---
 
-# Capítulo VI: Solution UI/UX Design
+# Capítulo VI: Product Implementation, Validation & Deployment
 
 ## 6.1. Software Configuration Management
 
