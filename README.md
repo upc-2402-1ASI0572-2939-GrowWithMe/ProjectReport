@@ -192,7 +192,6 @@ Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Fin
     - [5.4.4. Applications User Flow Diagrams](#544-applications-user-flow-diagrams)
   - [5.5. Applications Prototyping](#55-applications-prototyping)
 - [Conclusiones](#conclusiones)
-  - Conclusiones y Recomendaciones
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -1835,8 +1834,109 @@ Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-2
 
 ## 5.5. Applications Prototyping
 
+---
+
+# Capítulo VI: Solution UI/UX Design
+
+## 6.1. Software Configuration Management
+
+### 6.1.1. Software Development Environment Configuration
+
+**Miro:** Es una plataforma en línea que permite la colaboración en tiempo real y la creación de tableros virtuales, diagramar procesos, crear mapas mentales, hacer lluvias de ideas, diseñar wireframes y mucho más. Utilizamos esta herramienta para poder realizar mapas de escenarios As-Is y To-Be.
+
+**Figma:** Figma es una herramienta de diseño colaborativo basada en la nube que permite a los equipos crear, colaborar y prototipar interfaces de usuario de manera eficiente, Nuestro equipo lo utilizo para el desarrollo Wireframes, Mock-ups y Prototypes.
+
+**Structurizer:** Ayuda a dibujar y documentar la arquitectura de tu software. Te permite crear diagramas que muestran cómo funcionan tus sistemas y cómo están conectados entre sí. Nosotros lo utilizamos para la creacion de diagramas c4.
+
+**IntelliJ IDEA:** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones de software, especialmente para el desarrollo en Java y otras tecnologías JVM como Kotlin y Groovy. También ofrece soporte para una amplia gama de lenguajes de programación y tecnologías, incluidas las relacionadas con el desarrollo web, como HTML, CSS, JavaScript y frameworks como Spring.
+
+**Java:** Para el desarrollo del backend de la aplicación.
+
+**Uxspresia:** Para el desarrollo de los impact, empathy mappings y los user persona
+
+**MySQL:** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
+
+**WebStorm:** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones web, especialmente para el trabajo con tecnologías como JavaScript, HTML, CSS y frameworks como React, Angular y Vue.js.
+
+**Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
+
+**Angular:** Un framework de desarrollo web para facilitar el front end
+
+**HTML:** Para estructurar el contenido de la página web.
+
+**CSS:** Para diseñar y dar estilo al contenido HTML.
+
+**JavaScript:** Para agregar interactividad y funcionalidad a la página web.
+
+### 6.1.2. Source Code Management
+
+Repositorio del Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
+
+En el marco de este proyecto, se implementarán tres ramas principales: "main", "develop" y "feature branches".
+
+La rama "feature branches" se destinará específicamente para la creación de nuevas funcionalidades, clases u otros elementos que añadirán nuevas capacidades al proyecto. Esta rama servirá como un entorno aislado para el desarrollo de estas características, permitiendo un trabajo paralelo sin afectar la estabilidad del código principal.
+
+La rama "develop" funcionará como el entorno de integración continua, donde se unificarán y probarán los cambios provenientes de las ramas de características. En este entorno, los cambios deben ser integrados y asegurados para garantizar el funcionamiento cohesivo del proyecto.
+
+Finalmente, la rama "main" será la rama principal y estable del repositorio. Aquí se fusionarán todos los cambios provenientes de la rama "develop", generando así nuevas versiones del sistema. Esta rama representa el estado más actualizado y confiable del proyecto, adecuado para su despliegue en entornos de producción.
+
+Este enfoque de ramificación permite una gestión eficiente del desarrollo, facilitando la colaboración entre equipos y asegurando la estabilidad y calidad del software en cada etapa del ciclo de vida del proyecto.
+
+### 6.1.3. Souce Code Style Guide & Conventions
+
+En el proceso de realizar commits, hemos optado por seguir el estándar de "Conventional Commits". Esta práctica nos brinda una estructura definida para nuestros mensajes de commit, lo que facilita la comprensión y la gestión de cambios en el repositorio.
+
+Además, hemos establecido el uso de terminología en inglés para las diferentes declaraciones en nuestras líneas de código en todos los lenguajes de programación empleados en el proyecto. Esta decisión busca promover la coherencia y la claridad en la comunicación del código, facilitando la colaboración entre miembros del equipo y mejorando la legibilidad del código fuente en general.
+
+### 6.1.4. Software Deployment Configuration
+
+Requisitos del sistema: Especifica los requisitos mínimos para ejecutar el proyecto:
+
+- Hardward:
+Procesador Intel Xeon E-2324G
+Disco duro 1TB
+Memoria 64GB DDR4
+
+- Sistema Operativo:
+Windows
+
+Plataforma de alojamiento (La plataforma de alojamiento que utilizarás para desplegar la página web):
+Microsoft Azure
+
+Configuración del servidor (Configuración del servidor necesario para alojar el sistema):
+Node.js,
+Angular,
+SQL server
+
+Configuración de la base de datos (Configuración necesaria para instalar y configurar la base de datos):
+1. Istalar SQL server
+2. Crear la base de datos de GrowWithMe
+3. Crear las tablas de las entidades mensionadas
+
+## 6.2. Landing Page, Services & Applications Implementation
+
+### 6.2.1. Sprint 1
+
+#### 6.2.1.1. Sprint Planning 1
+
+#### 6.2.1.2. Aspect Leaders and Collaborators
+
+#### 6.2.1.3. Sprint Backlog 1
+
+#### 6.2.1.4. Development Evidence for Sprint Review
+
+#### 6.2.1.5. Testing Suite Evidence for Sprint Review
+
+#### 6.2.1.6. Execution Evidence for Sprint Review
+
+#### 6.2.1.7. Services Documentation Evidence for Sprint Review
+
+#### 6.2.1.8. Software Deployment Evidence for Sprint Review
+
+#### 6.2.1.9. Team Collaboration Insights during Sprint
 
 ---
+
 # Conclusiones
 Durante el desarrollo del presente trabajo, se ha validado que los agricultores enfrentan múltiples desafíos en la gestión de cultivos, especialmente relacionados con la falta de herramientas tecnológicas para el monitoreo en tiempo real, la toma de decisiones informadas y el manejo eficiente de recursos. A través del uso de enfoques como Lean UX, EventStorming y Domain-Driven Design, se ha podido identificar con precisión las necesidades de los usuarios y modelar una solución integral, modular y escalable.
 
