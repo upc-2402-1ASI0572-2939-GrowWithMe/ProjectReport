@@ -1934,7 +1934,7 @@ Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-2
 
 **Java:** Para el desarrollo del backend de la aplicación.
 
-**Uxspresia:** Para el desarrollo de los impact, empathy mappings y los user persona
+**UXpressia:** Para el desarrollo de los impact, empathy mappings y los user persona
 
 **MySQL:** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
 
@@ -1948,7 +1948,7 @@ Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-2
 
 **CSS:** Para diseñar y dar estilo al contenido HTML.
 
-**JavaScript:** Para agregar interactividad y funcionalidad a la página web.
+**TypeScript:** Para agregar interactividad y funcionalidad a la página web.
 
 ### 6.1.2. Source Code Management
 
