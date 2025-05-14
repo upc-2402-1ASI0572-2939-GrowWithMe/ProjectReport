@@ -1917,6 +1917,8 @@ Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-2
 ### 5.4.4. Applications User Flow Diagrams
 
 ## 5.5. Applications Prototyping
+![image](assets/Vistaapp.png)
+Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115348_upc_edu_pe/ERHkUlZvSclFpCv66G_lASsB0xf0Rkq7hMsirYm5iaflDw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hTDyUO>
 
 ---
 
