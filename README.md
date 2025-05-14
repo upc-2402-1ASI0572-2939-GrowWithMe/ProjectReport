@@ -800,28 +800,86 @@ Se diseñaron entrevistas dirigidas a los dos segmentos objetivos definidos para
 **Segmento Objetivo 1: Agricultores y pymes agrícolas**
 
 1. ¿Cuáles son los cultivos principales que gestionas y qué factores consideras más importantes al tomar decisiones sobre su riego?
+
+Objetivo: Identificar los tipos de cultivos más comunes y los criterios clave que influyen en las decisiones de riego.
+
 2. ¿Cuáles son los mayores desafíos que enfrentas en la gestión del riego en tus cultivos?
+
+Objetivo: Comprender los principales problemas o barreras que dificultan la eficiencia en el riego.
+
 3. ¿Qué herramientas o tecnologías utilizas actualmente para gestionar el riego y cómo impactan en la eficiencia de tus cultivos?
+
+Objetivo: Conocer las soluciones tecnológicas existentes que ya están siendo utilizadas y su efectividad.
+
 4. ¿Cómo tomas decisiones sobre cuándo regar tus cultivos y qué herramientas usas para ello?
+
+Objetivo: Analizar los métodos actuales de toma de decisiones en el riego y los recursos utilizados.
+
 5. ¿Qué factores (como la humedad del suelo, las condiciones climáticas o el tipo de cultivo) consideras al programar el riego?
+
+Objetivo: Determinar las variables que los agricultores consideran prioritarias al definir estrategias de riego.
+
 6. ¿Has utilizado alguna vez sensores o dispositivos para monitorear las condiciones de tus cultivos? Si es así, ¿cómo te han ayudado?
+
+Objetivo: Evaluar la experiencia del usuario con dispositivos de monitoreo y su percepción sobre su utilidad.
+
 7. ¿Qué opinas sobre el uso de una aplicación móvil que te ayude a gestionar el riego y otros aspectos de tus cultivos?
+
+Objetivo: Explorar la disposición y actitud del usuario hacia soluciones móviles para la gestión agrícola.
+
 8. ¿Cuál consideras que es la principal barrera para adoptar nuevas tecnologías de monitoreo y automatización en el riego?
+
+Objetivo: Identificar los factores que limitan la adopción tecnológica en el ámbito agrícola.
+
 9. ¿Qué beneficios esperarías de una solución que te ayude a gestionar el riego de manera más precisa y optimizada según las condiciones reales de tus cultivos?
+
+Objetivo: Detectar las expectativas concretas de los usuarios respecto a soluciones tecnológicas de riego.
+
 10. ¿Te gustaría que la solución te ayudara también con la gestión de otros recursos agrícolas, como fertilizantes o control de plagas?
+
+Objetivo: Analizar el interés de los usuarios en funcionalidades complementarias más allá del riego.
 
 **Segmento Objetivo 2: Consultores agrícolas**
 
 1. ¿Cómo crees que la tecnología puede mejorar la gestión del riego en los cultivos?
+
+Objetivo: Obtener la perspectiva técnica sobre el potencial de la tecnología en el manejo eficiente del riego.
+
 2. ¿Qué desafíos has identificado en el sector agrícola con respecto a la eficiencia del uso del agua y el riego?
+
+Objetivo: Reconocer los problemas estructurales y operativos más comunes en el uso del agua para riego.
+
 3. ¿Qué tecnologías o soluciones actuales ves como más prometedoras para mejorar el manejo del riego en la agricultura?
+
+Objetivo: Identificar tecnologías emergentes o consolidadas que puedan ser implementadas con éxito.
+
 4. ¿Cómo crees que una aplicación que utilice datos sobre la humedad del suelo y otros parámetros podría cambiar las prácticas de riego?
+
+Objetivo: Evaluar el potencial transformador de una solución basada en datos sobre la rutina agrícola.
+
 5. ¿Cuál es tu opinión sobre el uso de tecnologías automáticas para tomar decisiones más precisas sobre el riego y cómo impactaría esto en la productividad?
+
+Objetivo: Analizar la visión experta sobre la automatización en el campo y su impacto directo en los resultados.
+
 6. ¿Qué beneficios ofrecería una solución que te ayude a gestionar los recursos de manera más eficiente en cultivos agrícolas?
+
+Objetivo: Definir el valor agregado que una solución tecnológica podría aportar a la eficiencia del campo.
+
 7. ¿Consideras que los agricultores están preparados para adoptar tecnologías como los sensores para el riego? ¿Por qué?
+
+Objetivo: Evaluar el nivel de preparación y apertura del sector agrícola frente a nuevas tecnologías.
+
 8. ¿Qué tipo de capacitación o soporte sería necesario para que los agricultores adopten nuevas soluciones tecnológicas para el riego?
+
+Objetivo: Determinar los requisitos de formación y acompañamiento necesarios para facilitar la adopción.
+
 9. ¿Cómo evaluarías el impacto de una solución tecnológica en la sostenibilidad de las prácticas agrícolas?
+
+Objetivo: Estimar el alcance ambiental y de sostenibilidad que se podría lograr con la solución propuesta.
+
 10. ¿Qué aspectos adicionales consideras importantes al desarrollar una solución para la gestión del riego y otros recursos agrícolas?
+
+Objetivo: Recoger sugerencias clave para mejorar la propuesta de valor y diseño funcional del producto.
 
 ### 2.2.2 Registro de entrevistas
  
