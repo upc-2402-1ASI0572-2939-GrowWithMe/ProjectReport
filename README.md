@@ -1978,9 +1978,41 @@ Configuración de la base de datos (Configuración necesaria para instalar y con
 
 #### 6.2.1.1. Sprint Planning 1
 
+| Sprint # | 1 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2025 - 05 - 14 |
+| Time | 19:00 PM |
+| Location | Virtual via Discord |
+| Prepared By | Acuña Gomez, Diego |
+| Attendees (to planning meeting) | Diego Acuña / Favio Landeo / Beth Oneglio / Milagros Tongo / Anatoly Noriega / Jean Morin |
+| Sprint 1 - Review Summary | No aplica (Es el primer Sprint) |
+| Sprint 1 - Retrospective Summary  | No aplica (Es el primer Sprint) |
+| **Sprint Goal & User Stories** | - |
+| Sprint 1 Goal| Nuestro objetivo es brindar información pertinente en secciones acerca de la solución IoT en la landing page y visualizar, almacenar, planificar y mostrar cultivos en la aplicación web. <br> Creemos que esto genera una base sólida acerca de las funcionalidades de GrowWithMe para los visitantes y permitir a los agricultores registrar y planificar sus cultivos. <br> Esto será confirmado cuando los visitantes se suscriban para acceder a las aplicaciones y los agricultores registren sus cultivos en la plataforma |
+| Sprint 1 - Velocity | El equipo puede aceptar 28 Story Points|
+| Sprint 1 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es 18|
+
 #### 6.2.1.2. Aspect Leaders and Collaborators
 
+| Team Member | GitHub Username | Landing Page <br> Features Leader (L)/Collaborator (C) | Frontend Crops BC <br> Features Leader (L)/Collaborator (C)  | Frontend Notifications BC <br> Features Leader (L)/Collaborator (C) | Frontend Farmers <br> Features Leader (L)/Collaborator (C) |
+|----|-----|-----|----|----|----|
+|Diego Acuña | C | C | L | C | C |
+|Favio Landeo | C | C | C | C | L |
+|Beth Oneglio | C | L | C | C | C |
+|Milagros Tongo | L | C | C | C | C |
+|Anatoly Noriega | C | C | C | L | C |
+|Jean Morin| C | C | C | L | C |
+
 #### 6.2.1.3. Sprint Backlog 1
+
+El propósito de este sprint es sentar las bases para una buena experiencia de usuario, desarrollando una página de inicio que muestre información esencial sobre la aplicación y sus características. También se trabajará en la versión inicial de la plataforma web, enfocándose en la visualización, seguimiento y organización de cultivos.
+
+Como herramienta de control para este Sprint se usó Trello con un board exclusivo para esta iteración:
+
+![imagen](assets/Trello.png)
+
+Link: <https://trello.com/invite/b/682431943e65fbe7782d6a09/ATTIc8e7af88b359f84f3474e17d01281e194DDAA2B2/grow-with-me-product-backlog-tp-sprint-1>
 
 #### 6.2.1.4. Development Evidence for Sprint Review
 
