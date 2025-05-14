@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <td align="center">2.00</td>
-    <td>21/04/2025</td>
+    <td>14/05/2025</td>
     <td> Todos los integrantes del equipo.</td>
     <td>Desarrollamos el Sprint 1 de la entrega junto a los lineamientos del software que incluye instalación, configuración y evidencias de despliegue.</td>
   </tr>
