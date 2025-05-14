@@ -1928,76 +1928,144 @@ Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115348_upc_edu_pe/E
 
 ### 6.1.1. Software Development Environment Configuration
 
-**Miro:** Es una plataforma en línea que permite la colaboración en tiempo real y la creación de tableros virtuales, diagramar procesos, crear mapas mentales, hacer lluvias de ideas, diseñar wireframes y mucho más. Utilizamos esta herramienta para poder realizar mapas de escenarios As-Is y To-Be.
+Durante el desarrollo de nuestro proyecto, utilizamos una variedad de herramientas tecnológicas que nos permitieron gestionar cada etapa de manera eficiente, desde la recolección de requisitos hasta el diseño, desarrollo, documentación y pruebas. A continuación, se detallan las principales herramientas empleadas, clasificadas según su propósito dentro del flujo de trabajo:
 
-**Figma:** Figma es una herramienta de diseño colaborativo basada en la nube que permite a los equipos crear, colaborar y prototipar interfaces de usuario de manera eficiente, Nuestro equipo lo utilizo para el desarrollo Wireframes, Mock-ups y Prototypes.
+##### Herramientas y Tecnologías Empleadas:
 
-**Structurizer:** Ayuda a dibujar y documentar la arquitectura de tu software. Te permite crear diagramas que muestran cómo funcionan tus sistemas y cómo están conectados entre sí. Nosotros lo utilizamos para la creacion de diagramas c4.
+##### Desarrollo de Software
+- **Visual Studio Code:** Editor de código preferido por su flexibilidad, facilidad de configuración y amplio soporte de extensiones.
+- **Git:** Herramienta esencial para el control de versiones, permitiendo la gestión eficiente del código fuente.
+- **GitHub:** Plataforma para colaboración en línea, almacenamiento de repositorios y documentación compartida.
 
-**IntelliJ IDEA:** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones de software, especialmente para el desarrollo en Java y otras tecnologías JVM como Kotlin y Groovy. También ofrece soporte para una amplia gama de lenguajes de programación y tecnologías, incluidas las relacionadas con el desarrollo web, como HTML, CSS, JavaScript y frameworks como Spring.
+##### Diseño UX/UI
+- **Figma:** Herramienta basada en la nube para diseño de interfaces y creación de prototipos interactivos.
+- **UXPressia:** Plataforma utilizada para el desarrollo de perfiles de usuario, mapas de empatía y análisis de impacto.
+- **LucidChart:** Aplicación empleada para elaborar flujos de usuario y diagramas visuales durante el proceso de diseño.
 
-**Java:** Para el desarrollo del backend de la aplicación.
+##### Desarrollo Web y Landing Page
+- **HTML, CSS, JavaScript:** Tecnologías base utilizadas para construir la estructura, el estilo y la lógica del sitio web.
+- **Live Server:** Extensión útil para previsualizar cambios en tiempo real durante el desarrollo.
+- **Git/GitHub:** Integrados para mantener el control de versiones y facilitar el trabajo en equipo.
+- **Visual Studio Code:** Utilizado también como entorno principal para la edición del código de la landing page.
 
-**UXpressia:** Para el desarrollo de los impact, empathy mappings y los user persona
+##### Gestión y Comunicación
+- **Trello:** Plataforma de organización ágil utilizada para la planificación de tareas y seguimiento del progreso.
+- **Discord:** Canal de comunicación grupal para coordinación, reuniones virtuales y trabajo colaborativo.
+- **WhatsApp:** Medio alternativo para comunicación inmediata y rápida entre integrantes.
 
-**MySQL:** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
+##### Herramientas de Apoyo y Recolección de Información
+- **Miro:** Espacio colaborativo para la creación de mapas de procesos, diagramas y escenarios.
+- **Google Docs:** Herramienta clave para la redacción y edición compartida de documentación durante todo el proyecto.
+- **LucidChart:** También se utilizó para diagramación técnica y conceptual adicional.
 
-**WebStorm:** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones web, especialmente para el trabajo con tecnologías como JavaScript, HTML, CSS y frameworks como React, Angular y Vue.js.
+##### Testing y Validación
+- **Lenguaje Gherkin:** Usado para la elaboración de pruebas de aceptación en formato BDD (Behavior Driven Development), facilitando la comprensión entre equipos técnicos y no técnicos.
 
-**Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
-
-**Angular:** Un framework de desarrollo web para facilitar el front end
-
-**HTML:** Para estructurar el contenido de la página web.
-
-**CSS:** Para diseñar y dar estilo al contenido HTML.
-
-**TypeScript:** Para agregar interactividad y funcionalidad a la página web.
+##### Desarrollo Embedded
+- **Wokwi:** Simulador en línea que permitió modelar proyectos de IoT en C++, ideal para validar circuitos y comportamientos antes del montaje físico.
 
 ### 6.1.2. Source Code Management
 
-Repositorio del Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
+## Repositorios del Proyecto
 
-En el marco de este proyecto, se implementarán tres ramas principales: "main", "develop" y "feature branches".
+Se utilizará **GitHub** como repositorio principal, organizado bajo una cuenta de equipo. Los proyectos se distribuirán en los siguientes repositorios:
 
-La rama "feature branches" se destinará específicamente para la creación de nuevas funcionalidades, clases u otros elementos que añadirán nuevas capacidades al proyecto. Esta rama servirá como un entorno aislado para el desarrollo de estas características, permitiendo un trabajo paralelo sin afectar la estabilidad del código principal.
+- **Repositorio de la Landing Page:**  
+  [https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe](https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe)
 
-La rama "develop" funcionará como el entorno de integración continua, donde se unificarán y probarán los cambios provenientes de las ramas de características. En este entorno, los cambios deben ser integrados y asegurados para garantizar el funcionamiento cohesivo del proyecto.
+- **Repositorio de la Aplicación Web (Frontend):**  
+  [https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe](https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe)
 
-Finalmente, la rama "main" será la rama principal y estable del repositorio. Aquí se fusionarán todos los cambios provenientes de la rama "develop", generando así nuevas versiones del sistema. Esta rama representa el estado más actualizado y confiable del proyecto, adecuado para su despliegue en entornos de producción.
+- **Repositorio del Backend:**  
+  [https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe](https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe)
 
-Este enfoque de ramificación permite una gestión eficiente del desarrollo, facilitando la colaboración entre equipos y asegurando la estabilidad y calidad del software en cada etapa del ciclo de vida del proyecto.
+- **Repositorio de Testing:**  
+  [https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Testing-GrowWithMe](https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Testing-GrowWithMe)
 
 ### 6.1.3. Souce Code Style Guide & Conventions
 
-En el proceso de realizar commits, hemos optado por seguir el estándar de "Conventional Commits". Esta práctica nos brinda una estructura definida para nuestros mensajes de commit, lo que facilita la comprensión y la gestión de cambios en el repositorio.
+##### Convenciones de Desarrollo y Tecnologías Empleadas:
 
-Además, hemos establecido el uso de terminología en inglés para las diferentes declaraciones en nuestras líneas de código en todos los lenguajes de programación empleados en el proyecto. Esta decisión busca promover la coherencia y la claridad en la comunicación del código, facilitando la colaboración entre miembros del equipo y mejorando la legibilidad del código fuente en general.
+Para asegurar coherencia, calidad y mantenibilidad en el proyecto, se establecen las siguientes directrices técnicas y herramientas utilizadas durante el desarrollo.
+
+##### Estándares para HTML:
+
+- Declaración obligatoria del tipo de documento (`<!DOCTYPE html>`).
+- Uso de minúsculas para etiquetas y atributos.
+- Cierre correcto de todas las etiquetas.
+- Inclusión de comillas dobles en los valores de atributos.
+- Imágenes con atributos `alt`, `width` y `height` definidos.
+- Inclusión completa de metadatos y etiquetas clave para una estructura semántica adecuada.
+
+##### Buenas Prácticas en CSS:
+
+- Nombres de clase breves, consistentes y significativos.
+- Separación de palabras con guiones (ej. `.contenedor-principal`).
+- Se evitará el uso de selectores por ID.
+- Uso de propiedades abreviadas para simplificar el código (ej. `margin`, `padding`).
+
+##### Guía para JavaScript:
+
+- Variables y funciones con nombres descriptivos y legibles.
+- Evitar el uso de variables globales, preferir `let` o `const`.
+- Comentarios explicativos en secciones complejas.
+- Se priorizará una sintaxis limpia y legible para todos los colaboradores.
+
+##### Formato para Escenarios Gherkin:
+
+- Indentación estructurada en los bloques `Given`, `When`, `Then`.
+- Uso de tablas para datos extensos o estructurados.
+- Parámetros envueltos entre comillas simples.
+- Separación visual entre escenarios mediante líneas en blanco o comentarios.
+
+##### Tecnologías y Frameworks Aplicados:
+
+- **Frontend**: Desarrollado con Angular, usando HTML5, CSS3 y TypeScript.
+- **Diseño de Interfaz**: Basado en Material Design, apoyado por Angular Material.
+- **Backend**: Implementado en Java mediante Spring Boot, exponiendo servicios a través de una API RESTful.
+- **Aplicación Móvil**: Construida con Flutter y Dart para plataformas móviles.
+
+##### Control de Versiones:
+
+- Gestión de ramas a través de **GitFlow**.
+- Uso de **commits semánticos** para mejorar la trazabilidad.
+- Aplicación de **versionado semántico (semver)** para definir los ciclos de liberación del software.
 
 ### 6.1.4. Software Deployment Configuration
 
-Requisitos del sistema: Especifica los requisitos mínimos para ejecutar el proyecto:
+Este documento detalla los requisitos necesarios para ejecutar el proyecto **Grow With Me**, así como los pasos para el despliegue de la landing page y la aplicación web.
 
-- Hardward:
-Procesador Intel Xeon E-2324G
-Disco duro 1TB
-Memoria 64GB DDR4
+Se necesita el siguiente hardware mínimo recomendado:
 
-- Sistema Operativo:
-Windows
+- **Procesador**: intel xeon e-2324g
+- **Disco duro**: 1 tb
+- **Memoria ram**: 64 gb ddr4
 
-Plataforma de alojamiento (La plataforma de alojamiento que utilizarás para desplegar la página web):
-Microsoft Azure
+El sistema operativo compatible es **Windows**.
 
-Configuración del servidor (Configuración del servidor necesario para alojar el sistema):
-Node.js,
-Angular,
-SQL server
+El sistema será alojado en la nube mediante **Microsoft Azure**.
 
-Configuración de la base de datos (Configuración necesaria para instalar y configurar la base de datos):
-1. Istalar SQL server
-2. Crear la base de datos de GrowWithMe
-3. Crear las tablas de las entidades mensionadas
+Para alojar y ejecutar correctamente la aplicación web, el servidor debe contar con:
+
+- **node.js**
+- **angular**
+- **sql server**
+
+Los pasos necesarios para preparar la base de datos son los siguientes:
+
+1. Instalar **Sql server**.
+2. Crear una base de datos llamada `Grow With Me`.
+3. Definir y crear las tablas correspondientes a las entidades del sistema.
+
+La landing page será desplegada a través de **Netlify**. El procedimiento es el siguiente:
+
+1. Iniciar sesión en [Netlify](https://www.netlify.com/) con la cuenta de GitHub.
+2. Ir a la sección **sites** y seleccionar el botón de creación de nuevo sitio.
+3. Elegir la organización correspondiente y seleccionar el repositorio de la landing page.
+4. Al tratarse de un sitio estático, no es necesario configurar rutas adicionales.
+5. Hacer clic en **Deploy** para iniciar el despliegue.
+
+La aplicación web será desplegada mediante **GitHub Pages**, lo que permite servir contenido directamente desde el repositorio de GitHub.
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
@@ -2014,53 +2082,174 @@ Configuración de la base de datos (Configuración necesaria para instalar y con
 | Prepared By | Acuña Gomez, Diego |
 | Attendees (to planning meeting) | Diego Acuña / Favio Landeo / Beth Oneglio / Milagros Tongo / Anatoly Noriega / Jean Morin |
 | Sprint 1 - Review Summary | No aplica (Es el primer Sprint) |
-| Sprint 1 - Retrospective Summary  | No aplica (Es el primer Sprint) |
+| Sprint 1 - Retrospective Summary | No aplica (Es el primer Sprint) |
 | **Sprint Goal & User Stories** | - |
-| Sprint 1 Goal| Nuestro objetivo es brindar información pertinente en secciones acerca de la solución IoT en la landing page y visualizar, almacenar, planificar y mostrar cultivos en la aplicación web. <br> Creemos que esto genera una base sólida acerca de las funcionalidades de GrowWithMe para los visitantes y permitir a los agricultores registrar y planificar sus cultivos. <br> Esto será confirmado cuando los visitantes se suscriban para acceder a las aplicaciones y los agricultores registren sus cultivos en la plataforma |
-| Sprint 1 - Velocity | El equipo puede aceptar 28 Story Points|
-| Sprint 1 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es 18|
+| Sprint 1 Goal | Nuestro objetivo es brindar información pertinente en secciones acerca de la solución IoT en la landing page y visualizar, almacenar, planificar y mostrar cultivos en la aplicación web. Creemos que esto genera una base sólida acerca de las funcionalidades de GrowWithMe para los visitantes y permitir a los agricultores registrar y planificar sus cultivos. Esto será confirmado cuando los visitantes se suscriban para acceder a las aplicaciones y los agricultores registren sus cultivos en la plataforma. |
+| Sprint 1 - Velocity | El equipo puede aceptar 28 Story Points. |
+| Sprint 1 - Story Points | La suma de los Story Points de los User Stories que se atenderá es 18. |
 
 #### 6.2.1.2. Aspect Leaders and Collaborators
 
-| Team Member | GitHub Username | Landing Page <br> Features Leader (L)/Collaborator (C) | Frontend Crops BC <br> Features Leader (L)/Collaborator (C)  | Frontend Notifications BC <br> Features Leader (L)/Collaborator (C) | Frontend Farmers <br> Features Leader (L)/Collaborator (C) |
-|----|-----|-----|----|----|----|
-|Diego Acuña | C | C | L | C | C |
-|Favio Landeo | C | C | C | C | L |
-|Beth Oneglio | C | L | C | C | C |
-|Milagros Tongo | L | C | C | C | C |
-|Anatoly Noriega | C | C | C | L | C |
-|Jean Morin| C | C | C | L | C |
+| Team Member      | GitHub Username | Landing Page <br> Features Leader (L)/Collaborator (C) | Frontend Crops BC <br> Features Leader (L)/Collaborator (C) | Frontend Notifications BC <br> Features Leader (L)/Collaborator (C) | Frontend Farmers <br> Features Leader (L)/Collaborator (C) |
+|------------------|-----------------|------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|
+| Diego Acuña      | C               | C                                                    | L                                                        | C                                                             | C                                                        |
+| Favio Landeo     | C               | C                                                    | C                                                        | C                                                             | L                                                        |
+| Beth Oneglio     | C               | L                                                    | C                                                        | C                                                             | C                                                        |
+| Milagros Tongo   | L               | C                                                    | C                                                        | C                                                             | C                                                        |
+| Anatoly Noriega  | C               | C                                                    | C                                                        | L                                                             | C                                                        |
+| Jean Morin       | C               | C                                                    | C                                                        | L                                                             | C                                                        |
 
 #### 6.2.1.3. Sprint Backlog 1
 
 El propósito de este sprint es sentar las bases para una buena experiencia de usuario, desarrollando una página de inicio que muestre información esencial sobre la aplicación y sus características. También se trabajará en la versión inicial de la plataforma web, enfocándose en la visualización, seguimiento y organización de cultivos.
 
-Como herramienta de control para este Sprint se usó Trello con un board exclusivo para esta iteración:
+- Implementación del Landing Page y Frontend acorde con las User Stories.
+- Como herramienta de control para este Sprint se utilizó Trello con un board exclusivo para esta iteración.
 
 ![imagen](assets/Trello.png)
 
-Link: <https://trello.com/invite/b/682431943e65fbe7782d6a09/ATTIc8e7af88b359f84f3474e17d01281e194DDAA2B2/grow-with-me-product-backlog-tp-sprint-1>
+Enlace del Trello: <https://trello.com/invite/b/682431943e65fbe7782d6a09/ATTIc8e7af88b359f84f3474e17d01281e194DDAA2B2/grow-with-me-product-backlog-tp-sprint-1>
 
 #### 6.2.1.4. Development Evidence for Sprint Review
 
+Se presentan los commits realizados en el repositorio de GitHub, en los cuales se puede observar el trabajo realizado por cada integrante del equipo.
+
+- Repositorio Landing Page: [LandingPage-GrowWithMe](https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe)
+- Repositorio Frontend: [Front-End-GrowWithMe](https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe)
+
+| Repository     | Branch | Commit ID | Commit Message                          | Commit Message Body | 
+|----------------|--------|-----------|----------------------------------------|---------------------|
+| **Landing Page** | main   | 6c37ab8   | feat: add footer                       |                     |                    
+| **Landing Page** | main   | 45a113f   | feat: add landing page                 |                     |                    
+| **Landing Page** | main   | 54bd597   | initial commit                         |                     |                    
+| **Web App**      | develop | 8bd3817   | feat: add calendar page component      |                     |                    
+| **Web App**      | develop | 9436f71   | feat: add calendar component           |                     |                    
+| **Web App**      | develop | 0d395f5   | feat: add activity form component      |                     |                    
+| **Web App**      | develop | 4ab6043   | refactor: change of the crops logic data |                    |                    
+| **Web App**      | develop | 08af7d4   | feat: add roles functionality to test the different sidebars | |                    
+| **Web App**      | develop | 7dff4a4   | feat: add route for the activities calendar |                  |                    
+| **Web App**      | develop | 6bfafa6   | feat: add fake api                     |                     |                    
+| **Web App**      | develop | 7b50d2c   | feat: add crop table                   |                     |                    
+| **Web App**      | develop | 15cd68c   | feat: add router-outlet               |                     |                    
+| **Web App**      | develop | 5829c11   | feat: add general configurations       |                     |                    
+| **Web App**      | develop | 2a107e0   | add project frontend                   |                     |                    
+| **Web App**      | develop | d745fee   | initial commit                         |                     |                    
+| **Web App**      | develop | b46ce48   | merge branch 'feature/notifications' into develop |           |                    
+| **Web App**      | develop | d8a1335   | fix: naming classes for notification entity |                  |                    
+| **Web App**      | develop | 9422ebd   | feat: add endpoint devices for fake api |                    |                    
+| **Web App**      | develop | 490bf86   | fix: fix sidenav for home page and add json server package | |                    
+| **Web App**      | develop | cb98aa8   | merge branch 'feature/profiles' into develop |              |                    
+| **Web App**      | develop | 9c2b890   | merge branch 'feature/devices' into develop |              |                    
+| **Web App**      | develop | 6c92994   | fix: fix location farmers file and classes renamed |       |                    
+| **Web App**      | develop | 8f85590   | feat: add list farmers                 |                     |                    
+| **Web App**      | develop | ade91ec   | feat: add list notifications           |                     |                    
+| **Web App**      | develop | 9e46771   | merge                                |                     |                    
+| **Web App**      | develop | f7c4492   | feat: dashboard line for temperature and humidity |         |                    
+| **Web App**      | develop | 81123a6   | fix: modify modal parameters modal edit |                    |                    
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
+
+Muestra las pruebas realizadas para asegurar que las funcionalidades del Sprint funcionen correctamente. Incluye pruebas unitarias, de integración, de interfaz de usuario, de regresión y de aceptación, junto con evidencia visual y detalles de cualquier error encontrado y su resolución. Esto demuestra que el producto cumple con los requisitos establecidos.
+
+| Repository         | Branch           | Commit Id | Commit Message             | Commit Message Body | Commited on (Date) |
+|--------------------|------------------|-----------|----------------------------|----------------------|--------------------|
+| acceptance-test-IoT | test/UserStories | 70f7178   | Acceptance_test_09.feature | -                    | 25/09/2023         |
+| acceptance-test-IoT | test/UserStories | e075329   | Acceptance_test_08.feature | -                    | 25/09/2023         |
+| acceptance-test-IoT | test/UserStories | 7580071   | Acceptance_test_07.feature | -                    | 25/09/2023         |
+| acceptance-test-IoT | test/UserStories | 792b52e   | Acceptance_test_06.feature | -                    | 25/09/2023         |
+| acceptance-test-IoT | test/UserStories | 3549d2d   | Acceptance_test_05.feature | -                    | 25/09/2023         |
+| acceptance-test-IoT | test/UserStories | dbf0ead   | Acceptance_test_04.feature | -                    | 25/09/2023         |
+| acceptance-test-IoT | test/UserStories | d9d7765   | Acceptance_test_03.feature | -                    | 25/09/2023         |
+| acceptance-test-IoT | test/UserStories | 16df5ba   | Acceptance_test_02.feature | -                    | 25/09/2023         |
+| acceptance-test-IoT | test/UserStories | 3fab5b6   | Acceptance_test_01.feature | -                    | 25/09/2023         |
 
 #### 6.2.1.6. Execution Evidence for Sprint Review
 
+En el Sprint 1 se logró un avance parcial en la implementación y despliegue de la landing page. Esta página contiene diversas secciones donde el usuario puede encontrar información relevante sobre el producto y la startup EcoMovil.
+
+Además, se avanzó en el desarrollo del frontend, trabajando en la estructura inicial de la interfaz, los estilos base, el sistema de navegación y la organización de los componentes principales. Este trabajo sentó las bases para una experiencia de usuario clara, ecológica y coherente con la identidad visual definida en las style guidelines.
+
+Imágenes de la Landing Page:
+
+*IMAGENES DE LA LANDING*
+
+Enlace de la Landing Page: https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
+
+Imágenes de la Web APP:
+
+*IMAGENES DEL FRONTEND*
+
+Enlace de la Web APP: https://growwithme-front-end.netlify.app/
+
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 1, el enfoque principal ha sido la creación de la landing page de la aplicación y el desarrollo inicial de la aplicación web. Por esta razón, no se ha avanzado aún en la documentación de los servicios. No obstante, se tiene previsto abordar dicha documentación en los próximos sprints.
 
 #### 6.2.1.8. Software Deployment Evidence for Sprint Review
 
+En la entrega del segundo sprint, se desplegó un Landing Page completamente funcional, cumpliendo con las user stories asignadas para este entregable. Durante el Sprint 1, se lanzó la primera versión del Landing Page y del Frontend, que fue alojada en GitHub Pages y en Netlify. A continuación, se presentan las evidencias del despliegue del Landing Page.
+
+Instrucciones para acceder al Landing Page:
+
+Finalizando la implementación de los cambios y fusionándolos en la rama principal (main).
+
+*Imagen*
+
+Nos dirigimos a la sección de "Settings" del repositorio y seleccionamos el apartado de "Pages".
+
+*Imagen*
+
+Seleccionamos la rama "gh-pages" como fuente de despliegue, luego hacemos clic en "Save" para ejecutar el deploy.
+
+*Imagen*
+
+Accedemos al dominio del Landing Page, verificamos que todo esté correctamente configurado y hacemos clic en "Guardar" para finalizar el proceso.
+
+##### Imágenes de la pantalla del Landing Page:
+
+*Imagen*
+
+##### Imágenes de la pantalla de la Web APP:
+
+*Imagen*
+
 #### 6.2.1.9. Team Collaboration Insights during Sprint
+
+En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
+
+| Alumno                                             | Actividad                                                                                         |
+|----------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Acuña Gomez, Diego Jose                            | Desarrollo de la landing page, dashboard y lista de cultivos.                                    |
+| Landeo Simeón, Favio Sebastián                     | Desarrollo del frontend de la sección de dispositivos ("devices").                               |
+| Morin Fuentes, Jean Pierre                         | Desarrollo del dashboard.                                                                        |
+| Noriega Suschenko, Anatoly Andrey                  | Desarrollo del frontend del calendario y actividades.                                            |
+| Oneglio De Paz, Beth Shantal                       | Desarrollo del frontend de la landing page y del dashboard.                                      |
+| Tongo Alejandro, Milagros Salet                    | Desarrollo del frontend de notificaciones y lista de agricultores.                               |
+
+Imagen de los Insights de la Landing Page:
+
+*Imagen*
+
+Imagen de los Insights de la Web App:
+
+*Imagen*
 
 ---
 
 # Conclusiones
-Durante el desarrollo del presente trabajo, se ha validado que los agricultores enfrentan múltiples desafíos en la gestión de cultivos, especialmente relacionados con la falta de herramientas tecnológicas para el monitoreo en tiempo real, la toma de decisiones informadas y el manejo eficiente de recursos. A través del uso de enfoques como Lean UX, EventStorming y Domain-Driven Design, se ha podido identificar con precisión las necesidades de los usuarios y modelar una solución integral, modular y escalable.
+
+TB1: Durante el desarrollo del presente trabajo, se ha validado que los agricultores enfrentan múltiples desafíos en la gestión de cultivos, especialmente relacionados con la falta de herramientas tecnológicas para el monitoreo en tiempo real, la toma de decisiones informadas y el manejo eficiente de recursos. A través del uso de enfoques como Lean UX, EventStorming y Domain-Driven Design, se ha podido identificar con precisión las necesidades de los usuarios y modelar una solución integral, modular y escalable.
 
 Los Problem Statements iniciales se confirmaron en las entrevistas realizadas, evidenciando que tanto agricultores como consultores buscan una solución intuitiva, personalizada y basada en datos. Las assumptions establecidas en el proceso de Lean UX fueron validadas en su mayoría, destacando el interés genuino de los usuarios por soluciones IoT si estas se presentan de forma simple y accesible.
 
 Asimismo, las Hipótesis formuladas sobre mejoras en productividad, reducción de pérdidas y toma de decisiones más estratégicas han sido respaldadas por los resultados obtenidos en las sesiones de co-creación y validación. El modelo de EventStorming permitió mapear con claridad los flujos de eventos clave, identificar pain points reales y definir los bounded contexts necesarios para estructurar el sistema de forma coherente.
+
+Trabajo Parcial: Desde la perspectiva de diseño, el desarrollo de Style Guidelines, la arquitectura de información, y el diseño responsivo enfocado en experiencia del usuario (UX) han sido fundamentales para garantizar una navegación clara, accesible y coherente en todas las plataformas: web, móvil e IoT.
+
+La implementación de sistemas de búsqueda, navegación y etiquetado ha permitido establecer una estructura de contenido robusta y eficiente, facilitando el acceso a información relevante para cada tipo de usuario. El uso correcto de SEO y Meta Tags asegura que el sitio no solo sea funcional, sino también visible y competitivo en entornos digitales.
+
+Por otro lado, se ha demostrado la importancia de contar con una gestión de versiones clara y un flujo de trabajo ágil, respaldado por herramientas como Trello, GitHub y convenciones de commits. Esto ha facilitado una mejor organización, trazabilidad y control durante el desarrollo e integración del sistema.
+
+Finalmente, se destaca que el trabajo en equipo ha sido un factor determinante para alcanzar los objetivos del proyecto. La colaboración activa entre los integrantes permitió distribuir tareas de manera estratégica, aprovechar fortalezas individuales y mantener una comunicación constante que garantizó la calidad y coherencia en cada entrega.
 
 # Bibliografía
 
@@ -2080,5 +2269,6 @@ Asimismo, las Hipótesis formuladas sobre mejoras en productividad, reducción d
 
 # Anexos
 
-**Video de exposición TB1:**
-https://shorturl.at/a8H6F
+Video de la Exposición del TB1: https://shorturl.at/a8H6F
+
+Video de la Exposición del Trabajo Parcial: https://shorturl.at/a8H6F
