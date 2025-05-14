@@ -77,6 +77,12 @@
     <td> Todos los integrantes del equipo.</td>
     <td>Desarrollamos el Sprint 1 de la entrega junto a los lineamientos del software que incluye instalación, configuración y evidencias de despliegue.</td>
   </tr>
+  <tr>
+    <td align="center">3.00</td>
+    <td>14/05/2025</td>
+    <td> Todos los integrantes del equipo.</td>
+    <td>Se entregó el trabajo práctico con la corrección de la Tabla de Versiones (TB1). Además, se desarrollaron los Capítulos 5 y 6, incluyendo el diseño de la landing page y el avance del frontend de la aplicación.</td>
+  </tr>
 </table>
 
 ---
@@ -86,6 +92,10 @@
 TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el repositorio de Github.
 
 - Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
+
+Trabajo Parcial: Las tareas asignadas para la entrega del Trabajo Parcial se han completado y estpan documentadas en el repositorio de GitHub.
+
+- Se escribieron, corrigieron y deployado la Landing Page y el Web APP de la aplicación "Grow With Me".
 
 Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Final-Project-Documentation-Report
 
@@ -242,32 +252,32 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <strong>Acuña Gomez, Diego Jose</strong> <br>
             <br>
             TB1 <br>A lo largo del desarrollo de este proyecto, he trabajado promoviendo un entorno colaborativo donde cada integrante pudo aportar desde su experiencia. He contribuido activamente en la elaboración y definición de las User Stories, organizando reuniones clave para debatir el alcance del negocio y asegurar una visión compartida. Gracias a esta dinámica de trabajo conjunto, logramos completar con éxito las User Stories y desarrollar los 10 pasos del Event Storming.
-            <br>
+            <br><br>
 		TP1<br>A lo largo del desarrollo de este trabajo, asumí un rol activo en la organización del equipo. Me encargué de segmentar las tareas relacionadas con las User Stories, diseñé mockups y wireflows, desarrollé el dashboard en el frontend y coordiné el despliegue del sistema. Estas acciones permitieron consolidar los avances técnicos y facilitar el trabajo conjunto del grupo.
 		<br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br><br>
             TB1 <br> Durante el desarrollo del proyecto colaboré activamente para lograr los objetivos grupales planeados. Gracias a ello logramos terminar exitosamente las User Stories, los 10 pasos del Event Storming y una Entrevista del segundo segmento objetivo.
-            <br>TP1
+            <br><br>TP1
             <br>Durante este proyecto, lideré el desarrollo del bounded context de dispositivos en el frontend y participé en la configuración del control de versiones usando buenas prácticas de Software Configuration Management. Esto permitió asegurar una estructura técnica ordenada que facilitó la colaboración entre los integrantes del equipo.
             <br><br>
             <strong>Morin Fuentes, Jean Pierre</strong> <br><br>
             TB1 <br> Participé activamente como miembro del equipo, brindando apoyo constante en la elaboración y revisión de la documentación técnica y funcional del proyecto. Además, mantuvimos reuniones frecuentes entre los integrantes del equipo, lo que nos permitió alinear ideas, resolver dudas en conjunto y trabajar de manera más eficiente y coordinada.
-            <br>TP1
+            <br><br>TP1
             <br>Colaboré activamente en este proyecto mediante la creación de mockups, prototipos funcionales y el diseño de las vistas web. Mi aporte fue clave para construir una visión compartida del producto y facilitar el trabajo coordinado en base a entregables visuales validados por el equipo.
             <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> Durante el desarrollo de nuestro proyecto colaboré activamente a lo largo del mismo desarrollando las primeras versiones de las historias de usuario y el product backlog, el impact mapping, una de las entrevistas y los diagramas c4 Model contribuyendo con mi participación al equipo y desarrollar de manera eficaz y eficiente el proyecto.
-            <br>TP1
+            <br><br>TP1
             <br>Durante el desarrollo del proyecto, contribuí en la elaboración de mockups, el desarrollo del módulo de actividades del calendario en el frontend y la definición de los User Flows. Además, participé en la mejora continua del sistema, asegurando coherencia funcional y visual en los entregables.
             <br><br>
             <strong>Oneglio De Paz, Beth Shantal</strong> <br><br>
             TB1 <br> Colaboré activamente en equipo, asumiendo un rol de liderazgo compartido, lo que me permitió fortalecer mis habilidades blandas en organización. Gracias a ello, logramos concluir satisfactoriamente la Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
-            <br>TP1
+            <br><br>TP1
             <br>Asumí un rol activo en el diseño del Dashboard y la redacción del Capítulo 6 del informe. Estas tareas me permitieron aportar desde una perspectiva organizativa y visual, apoyando la coordinación del equipo y la consolidación de entregables tanto técnicos como documentales.
             <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Como parte del equipo, me encargué de realizar entrevistas y gestionar los bounded context canvas, contribuyendo activamente al liderazgo compartido y a la toma de decisiones grupales, lo que permitió avanzar de manera eficaz en el proyecto.
-            <br>TP1
+            <br><br>TP1
             <br>Durante el trabajo, elaboré lineamientos generales de estilo y definí guías específicas para las plataformas web, móvil e IoT. Gracias a esta estandarización, el equipo pudo mantener una identidad visual coherente en todas las interfaces del sistema.
         </td>
         <td>
@@ -279,32 +289,32 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <td>
             <strong>Acuña Gomez, Diego Jose</strong> <br><br>
             TB1 <br> Durante este proyecto, me enfoqué en crear un entorno colaborativo e inclusivo donde todas las voces fueran escuchadas y valoradas. Establecí metas claras junto al equipo, planificamos tareas de forma estratégica y distribuimos responsabilidades de manera equitativa. Gracias a esta organización, pudimos avanzar de forma eficiente y cumplir los objetivos planteados, manteniendo siempre una comunicación abierta y un compromiso constante por parte de todos los miembros.
-            <br>TP1
+            <br><br>TP1
             <br>Durante el desarrollo de este trabajo, fomenté un ambiente inclusivo en el equipo, donde cada integrante pudo expresar sus ideas y propuestas con libertad. Organicé la planificación de tareas clave, definí metas técnicas alcanzables y realicé seguimientos para asegurar el avance continuo del equipo. Gracias a esta organización, pudimos mantener una dinámica clara y eficiente en el desarrollo de funcionalidades y despliegue.
             <br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br><br>
             TB1 <br> A través del proceso de desarrollo de este proyecto he ayudado a crear un entorno colaborativo para lograr cumplir el objetivo en común. Es por eso que hemos logrado concluir las User Stories, los 10 pasos del Event Storming y una entrevista del segundo segmento objetivo.
-            <br>TP1
+            <br><br>TP1
             <br>En este proyecto, aporté a la creación de un entorno colaborativo al coordinar los aspectos técnicos relacionados con el bounded context de dispositivos y la gestión del control de versiones. Esto facilitó una integración fluida del trabajo de todos los miembros, permitiéndonos cumplir objetivos específicos con orden y claridad.
             <br><br>
             <strong>Morin Fuentes, Jean Pierre</strong> <br><br>
             TB1 <br> Apoyé en la elaboración de la documentación técnica y de los diagramas de bounded context, participando activamente en reuniones con el equipo para alinear ideas y mejorar la eficiencia del trabajo conjunto.
-            <br>TP1
+            <br><br>TP1
             <br>Contribuí activamente en el entorno de trabajo colaborativo mediante la elaboración de mockups y prototipos que sirvieron como punto de referencia común para el equipo. Participé en reuniones donde alineamos ideas y planificamos avances, permitiendo mantener claridad sobre los objetivos visuales y técnicos del proyecto.
             <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> A lo largo del trabajo del proyecto he fomentado un entorno colaborativo e inclusivo dentro del equipo participando activamente en las tareas y revisando que ciertos puntos del trabajo fueran concretado aportando con las entrevistas  y digagramas del proyecto.
-            <br>TP1
+            <br><br>TP1
             <br>Durante este trabajo, me involucré de forma activa en distintas etapas del proyecto, promoviendo una comunicación abierta con mis compañeros. Planifiqué y desarrollé tareas relacionadas al calendario y la experiencia de usuario, verificando que los flujos definidos se ejecutaran correctamente y que se cumplieran los objetivos establecidos.
             <br><br>
             <strong>Oneglio De Paz, Beth Shantal</strong> <br><br>
             TB1 <br> Fomenté un entorno colaborativo e inclusivo dentro del equipo, estableciendo metas claras, planificando tareas de manera estratégica y cumpliendo los objetivos propuestos. Esta experiencia fortaleció mis habilidades blandas en organización y liderazgo compartido, y permitió culminar con éxito el Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
-            <br>TP1
+            <br><br>TP1
             <br>Contribuí a establecer metas claras y a distribuir las tareas del equipo de manera organizada. Trabajé en la implementación del Dashboard y en el desarrollo documental, promoviendo un ambiente donde cada integrante sabía su responsabilidad y pudo cumplirla de forma colaborativa.
             <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Colaboré en la creación de un ambiente inclusivo y organizado, donde establecí metas claras, planifiqué tareas específicas y aseguré que se cumplieran los objetivos, trabajando de cerca con el equipo y revisando constantemente los avances.
-            <br>TP1
+            <br><br>TP1
             <br>Durante este proyecto, propicié un entorno ordenado y colaborativo al definir las guías de estilo para las diferentes plataformas. Estas pautas facilitaron la planificación visual del sistema y permitieron al equipo trabajar con una base común, cumpliendo los objetivos establecidos con coherencia visual y técnica.
         </td>
         <td>
