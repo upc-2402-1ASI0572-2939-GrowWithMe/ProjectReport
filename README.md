@@ -1899,6 +1899,33 @@ Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=0-1
 
 ### 5.4.2. Applications Wireflow Diagrams
 
+**User Goal: Inicio de Sesión exitoso**
+
+Como usuario, quiero iniciar sesión para acceder a las funcionalidades de la plataforma.
+
+![image](assets/UserFlows1.jpeg)
+
+**User Goal: Registro de Usuario**
+
+Como usuario, quiero registrarme para crear una nueva cuenta y usar la aplicación web.
+
+![image](assets/UserFlows2.jpeg)
+
+**User Goal: Registrar cultivo**
+
+Como agricultor, quiero registrar mis cultivos para tener un control personalizado.
+
+![image](assets/UserFlows3.jpeg)
+
+**User Goal: Gestionar cultivos**
+
+Como agricultor, quiero editar y eliminar cultivos para mantener mi información actualizada.
+
+![image](assets/UserFlows4.jpeg)
+
+Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-3&p=f&t=tDoA9jPPYuw4MS22-0>
+
+
 ### 5.4.3. Applications Mock-ups
 
 **Web Application**
@@ -1940,6 +1967,32 @@ Link: <https://www.figma.com/design/2jhda3mS6VKHsrJItbDKvU/UX-UI-Mobile?node-id=
 ---
 
 ### 5.4.4. Applications User Flow Diagrams
+
+**User Goal: Inicio de Sesión exitoso**
+
+Como usuario, quiero iniciar sesión para acceder a las funcionalidades de la plataforma.
+
+![image](assets/WireFlows1.jpeg)
+
+**User Goal: Registro de Usuario**
+
+Como usuario, quiero registrarme para crear una nueva cuenta y usar la aplicación web.
+
+![image](assets/WireFlows2.jpeg)
+
+**User Goal: Registrar cultivo**
+
+Como agricultor, quiero registrar mis cultivos para tener un control personalizado.
+
+![image](assets/WireFlows3.jpeg)
+
+**User Goal: Gestionar cultivos**
+
+Como agricultor, quiero editar y eliminar cultivos para mantener mi información actualizada.
+
+![image](assets/WireFlows4.jpeg)
+
+Link: <https://www.figma.com/design/QkyaCM3rKk2XA0fBOniEyV/UX-UI-Web?node-id=1-3&p=f&t=tDoA9jPPYuw4MS22-0>
 
 ## 5.5. Applications Prototyping
 
@@ -2253,9 +2306,11 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 
 Imagen de los Insights de la Landing Page:
 
+![image](assets/ing.png)
 
 Imagen de los Insights de la Web App:
 
+![image](assets/ing.png)
 
 ---
 
